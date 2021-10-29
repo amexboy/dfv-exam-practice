@@ -5,6 +5,9 @@
     >
       <v-toolbar-title v-text="title" />
       <v-spacer />
+      <v-btn @click="signout">
+        Logout
+      </v-btn>
     </v-app-bar>
     <v-main>
       <v-container>
@@ -12,7 +15,6 @@
       </v-container>
     </v-main>
     <v-footer
-      :absolute="!fixed"
       app
     >
       <span>&copy; {{ new Date().getFullYear() }}</span>
@@ -22,9 +24,17 @@
 
 <script>
 export default {
+  middleware: 'check-auth',
   data () {
     return {
       title: 'Boyfriend Survay'
+    }
+  },
+  methods: {
+    signout () {
+      this.$fire.auth.signOut().then(() => {
+        this.$router.push('/')
+      })
     }
   }
 }

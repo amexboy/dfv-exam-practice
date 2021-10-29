@@ -11,7 +11,7 @@
   >
     <template #activator="{ on, attrs }">
       <v-text-field
-        v-model="date"
+        :value="'' + date"
         label="Picker in menu"
         prepend-icon="mdi-calendar"
         readonly
@@ -39,11 +39,18 @@
 </template>
 <script>
 export default {
-  props: { value: { type: String, default: null } },
-  data: () => ({
-    date: new Date().toISOString().substr(0, 7),
-    menu: false,
-    modal: false
-  })
+  props: { value: { type: Array(String), default: null } },
+  data () {
+    return {
+      date: this.value,
+      menu: false,
+      modal: false
+    }
+  },
+  watch: {
+    date (to) {
+      this.$emit('input', to)
+    }
+  }
 }
 </script>

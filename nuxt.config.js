@@ -47,23 +47,30 @@ export default {
   modules: [
     // https://go.nuxtjs.dev/axios
     '@nuxtjs/axios',
-    '@nuxtjs/firebase'
-  ],
-
-  firebase: {
-    config: {
-      apiKey: 'AIzaSyDA8TSfGbD_5Dp3Ca4i2dxb4Ozk7Oybiso',
-      authDomain: 'poetic-pottery-266620.firebaseapp.com',
-      databaseURL: 'https://poetic-pottery-266620-default-rtdb.firebaseio.com',
-      projectId: 'poetic-pottery-266620',
-      storageBucket: 'poetic-pottery-266620.appspot.com',
-      messagingSenderId: '473456647506',
-      appId: '1:473456647506:web:15beae1c492b3f190bee8b'
-    },
-    services: {
-      database: true
+    ['@nuxtjs/firebase', {
+      config: {
+        apiKey: 'AIzaSyDA8TSfGbD_5Dp3Ca4i2dxb4Ozk7Oybiso',
+        authDomain: 'poetic-pottery-266620.firebaseapp.com',
+        databaseURL: 'https://poetic-pottery-266620-default-rtdb.firebaseio.com',
+        projectId: 'poetic-pottery-266620',
+        storageBucket: 'poetic-pottery-266620.appspot.com',
+        messagingSenderId: '473456647506',
+        appId: '1:473456647506:web:15beae1c492b3f190bee8b'
+      },
+      services: {
+        database: true,
+        auth: {
+          persistence: 'local', // default
+          initialize: {
+            onAuthStateChangedMutation: 'ON_AUTH_STATE_CHANGED_MUTATION',
+            onAuthStateChangedAction: 'onAuthStateChangedAction',
+            subscribeManually: false
+          }
+        }
+      }
     }
-  },
+    ]
+  ],
   // Axios module configuration: https://go.nuxtjs.dev/config-axios
   axios: {},
 
