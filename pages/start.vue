@@ -1,6 +1,6 @@
 <template>
   <v-row justify="center" align="center">
-    <v-col cols="12" sm="8" md="6">
+    <v-col cols="12" sm="10" md="8">
       <v-card>
         <v-card-title class="headline">
           Welcome to the the boyfriend survay!
@@ -29,15 +29,13 @@
                   </p>
                   <v-row>
                     <v-text-field
+                      v-model="form.name"
                       label="Your name"
                       hint="Optional! Your name, if you choose to provide it, will help the boyfriend identify which girlfriend gave this review"
                     />
                   </v-row>
                   <v-row>
                     <datepicker v-model="dateRange" />
-
-                    {{ fromDate }},
-                    {{ toDate }}
                   </v-row>
                   <v-row>
                     <v-col cols="12" md="6" sm="12" />
@@ -50,32 +48,29 @@
               >
                 Continue
               </v-btn>
-              <v-btn text>
-                Cancel
-              </v-btn>
             </v-stepper-content>
 
             <v-stepper-step
               :complete="e6 > 2"
               step="2"
             >
-              Configure analytics for this app
+              What was the highlight of the period
             </v-stepper-step>
 
             <v-stepper-content step="2">
               <v-card
-                color="grey lighten-1"
                 class="mb-12"
-                height="200px"
-              />
+              >
+                <v-textarea
+                  v-model="form.highlight"
+                  label="Highlight"
+                />
+              </v-card>
               <v-btn
                 color="primary"
                 @click="e6 = 3"
               >
                 Continue
-              </v-btn>
-              <v-btn text>
-                Cancel
               </v-btn>
             </v-stepper-content>
 
@@ -83,38 +78,37 @@
               :complete="e6 > 3"
               step="3"
             >
-              Select an ad format and name ad unit
+              What went well in that period
             </v-stepper-step>
 
             <v-stepper-content step="3">
+              <v-card
+                class="mb-12"
+              >
+                <v-textarea v-model="form.good" label="Things that were good" />
+              </v-card>
               <v-btn
                 color="primary"
                 @click="e6 = 4"
               >
                 Continue
               </v-btn>
-              <v-btn text>
-                Cancel
-              </v-btn>
             </v-stepper-content>
 
             <v-stepper-step step="4">
-              View setup instructions
+              Whap didn't go 100% well in that period
             </v-stepper-step>
             <v-stepper-content step="4">
               <v-card
-                color="grey lighten-1"
                 class="mb-12"
-                height="200px"
-              />
+              >
+                <v-textarea v-model="form.bads" label="Things that were not the best" />
+              </v-card>
               <v-btn
                 color="primary"
                 @click="e6 = 1"
               >
                 Continue
-              </v-btn>
-              <v-btn text>
-                Cancel
               </v-btn>
             </v-stepper-content>
           </v-stepper>
@@ -141,25 +135,24 @@ export default {
   data () {
     return {
       e6: 1,
-      fromDate: null,
-      toDate: null
+      form: {}
     }
   },
   computed: {
     dateRange: {
       get () {
-        return [this.fromDate, this.toDate]
+        return [this.form.fromDate, this.form.toDate]
       },
       set (value) {
-        this.fromDate = value[0]
-        this.toDate = value[1]
+        this.form.fromDate = value[0]
+        this.form.toDate = value[1]
       }
     }
   },
   methods: {
     save () {
-      this.$fire.database.ref('entries').push().set({
-        dateRange: [this.fromDate, this.toDate]
+      this.$fire.database.ref('entries').push().set(this.form).then(() => {
+        this.form = {}
       })
     }
   }

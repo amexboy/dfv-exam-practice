@@ -1,10 +1,13 @@
 <template>
   <v-row justify="center" align="center">
     <v-col cols="12" sm="8" md="6">
-      <v-btn @click="login">
+      <v-btn @click="login('google')">
         <img class="google-icon" src="https://upload.wikimedia.org/wikipedia/commons/5/53/Google_%22G%22_Logo.svg">
         &nbsp;
         Login
+      </v-btn>
+      <v-btn @click="login">
+        Continue without logging in
       </v-btn>
     </v-col>
   </v-row>
@@ -19,9 +22,12 @@ export default {
     }
   },
   methods: {
-    login () {
-      const provider = new this.$fireModule.auth.GoogleAuthProvider()
-      this.$fire.auth.signInWithPopup(provider).then(() => {
+    login (provider) {
+      const signin = provider === 'google'
+        ? this.$fire.auth.signInWithPopup(new this.$fireModule.auth.GoogleAuthProvider())
+        : this.$fireModule.auth.signInAnonymously()
+
+      signin.then(() => {
         this.$router.push('/start')
       })
     }
