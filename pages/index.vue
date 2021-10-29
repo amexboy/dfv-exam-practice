@@ -1,77 +1,141 @@
 <template>
   <v-row justify="center" align="center">
     <v-col cols="12" sm="8" md="6">
-      <v-card class="logo py-4 d-flex justify-center">
-        <NuxtLogo />
-        <VuetifyLogo />
-      </v-card>
       <v-card>
         <v-card-title class="headline">
-          Welcome to the Vuetify + Nuxt.js template
+          Welcome to the the boyfriend survay!
         </v-card-title>
         <v-card-text>
-          <p>Vuetify is a progressive Material Design component framework for Vue.js. It was designed to empower developers to create amazing applications.</p>
-          <p>
-            For more information on Vuetify, check out the <a
-              href="https://vuetifyjs.com"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              documentation
-            </a>.
-          </p>
-          <p>
-            If you have questions, please join the official <a
-              href="https://chat.vuetifyjs.com/"
-              target="_blank"
-              rel="noopener noreferrer"
-              title="chat"
-            >
-              discord
-            </a>.
-          </p>
-          <p>
-            Find a bug? Report it on the github <a
-              href="https://github.com/vuetifyjs/vuetify/issues"
-              target="_blank"
-              rel="noopener noreferrer"
-              title="contribute"
-            >
-              issue board
-            </a>.
-          </p>
-          <p>Thank you for developing with Vuetify and I look forward to bringing more exciting features in the future.</p>
-          <div class="text-xs-right">
-            <em><small>&mdash; John Leider</small></em>
-          </div>
-          <hr class="my-3">
-          <a
-            href="https://nuxtjs.org/"
-            target="_blank"
-            rel="noopener noreferrer"
+          <v-stepper
+            v-model="e6"
+            vertical
           >
-            Nuxt Documentation
-          </a>
-          <br>
-          <a
-            href="https://github.com/nuxt/nuxt.js"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Nuxt GitHub
-          </a>
+            <v-stepper-step
+              :complete="e6 > 1"
+              step="1"
+            >
+              Personal info
+              <small>Tell us a little bit about yourself</small>
+            </v-stepper-step>
+
+            <v-stepper-content step="1">
+              <v-card
+                class="mb-12"
+              >
+                <v-card-text>
+                  <p>This form stands to collect "Usage" data about your current boyfriend.</p>
+                  <p>
+                    Please fill the following form honestly and with due dilegence
+                  </p>
+                  <v-row>
+                    <v-text-field
+                      label="Your name"
+                      hint="Optional! Your name, if you choose to provide it, will help the boyfriend identify which girlfriend gave this review"
+                    />
+                  </v-row>
+                  <v-row>
+                    <datepicker v-model="fromDate" />
+                  </v-row>
+                  <v-row>
+                    <v-col cols="12" md="6" sm="12" />
+                  </v-row>
+                </v-card-text>
+              </v-card>
+              <v-btn
+                color="primary"
+                @click="e6 = 2"
+              >
+                Continue
+              </v-btn>
+              <v-btn text>
+                Cancel
+              </v-btn>
+            </v-stepper-content>
+
+            <v-stepper-step
+              :complete="e6 > 2"
+              step="2"
+            >
+              Configure analytics for this app
+            </v-stepper-step>
+
+            <v-stepper-content step="2">
+              <v-card
+                color="grey lighten-1"
+                class="mb-12"
+                height="200px"
+              />
+              <v-btn
+                color="primary"
+                @click="e6 = 3"
+              >
+                Continue
+              </v-btn>
+              <v-btn text>
+                Cancel
+              </v-btn>
+            </v-stepper-content>
+
+            <v-stepper-step
+              :complete="e6 > 3"
+              step="3"
+            >
+              Select an ad format and name ad unit
+            </v-stepper-step>
+
+            <v-stepper-content step="3">
+              <v-btn
+                color="primary"
+                @click="e6 = 4"
+              >
+                Continue
+              </v-btn>
+              <v-btn text>
+                Cancel
+              </v-btn>
+            </v-stepper-content>
+
+            <v-stepper-step step="4">
+              View setup instructions
+            </v-stepper-step>
+            <v-stepper-content step="4">
+              <v-card
+                color="grey lighten-1"
+                class="mb-12"
+                height="200px"
+              />
+              <v-btn
+                color="primary"
+                @click="e6 = 1"
+              >
+                Continue
+              </v-btn>
+              <v-btn text>
+                Cancel
+              </v-btn>
+            </v-stepper-content>
+          </v-stepper>
         </v-card-text>
         <v-card-actions>
           <v-spacer />
           <v-btn
             color="primary"
             nuxt
-            to="/inspire"
           >
-            Continue
+            Submit
           </v-btn>
         </v-card-actions>
       </v-card>
     </v-col>
   </v-row>
 </template>
+
+<script>
+export default {
+  data () {
+    return {
+      e6: 1
+    }
+  }
+}
+</script>

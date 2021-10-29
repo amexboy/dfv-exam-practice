@@ -1,0 +1,20 @@
+image: google/cloud-sdk:latest
+
+stages:
+  - build
+
+variables:
+  REPO: namanu/kasina
+  CONTAINER_IMAGE: ${REPO}:${CI_COMMIT_SHORT_SHA}
+
+build:
+  stage: build
+  script:
+    - gcloud version
+    - gcloud auth activate-service-account --key-file ${GCLOUD_CONFIG}
+    - gcloud config set project poetic-pottery-266620
+    - gcloud config set builds/use_kaniko True
+    - gcloud builds submit --tag gcr.io/poetic-pottery-266620/kasina-frontend:${CI_COMMIT_SHORT_SHA}
+    - gcloud run deploy kasina-frontend --region us-west1 --allow-unauthenticated --image gcr.io/poetic-pottery-266620/kasina-frontend:${CI_COMMIT_SHORT_SHA} --platform managed --set-env-vars=NUXT_HOST=0.0.0.0,NUXT_PORT=8080 --port=8080
+  only:
+    - master

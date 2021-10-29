@@ -19,6 +19,11 @@ export default {
     ]
   },
 
+  target: 'static',
+  router: {
+    base: '/boyfriend-survay/'
+  },
+
   // Global CSS: https://go.nuxtjs.dev/config-css
   css: [
   ],
@@ -41,9 +46,24 @@ export default {
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: [
     // https://go.nuxtjs.dev/axios
-    '@nuxtjs/axios'
+    '@nuxtjs/axios',
+    '@nuxtjs/firebase'
   ],
 
+  firebase: {
+    config: {
+      apiKey: 'AIzaSyDA8TSfGbD_5Dp3Ca4i2dxb4Ozk7Oybiso',
+      authDomain: 'poetic-pottery-266620.firebaseapp.com',
+      databaseURL: 'https://poetic-pottery-266620-default-rtdb.firebaseio.com',
+      projectId: 'poetic-pottery-266620',
+      storageBucket: 'poetic-pottery-266620.appspot.com',
+      messagingSenderId: '473456647506',
+      appId: '1:473456647506:web:15beae1c492b3f190bee8b'
+    },
+    services: {
+      database: true
+    }
+  },
   // Axios module configuration: https://go.nuxtjs.dev/config-axios
   axios: {},
 
@@ -51,7 +71,7 @@ export default {
   vuetify: {
     customVariables: ['~/assets/variables.scss'],
     theme: {
-      dark: true,
+      dark: false,
       themes: {
         dark: {
           primary: colors.blue.darken2,
