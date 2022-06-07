@@ -1,1 +1,0 @@
-window.__NUXT__=(function(a){return {staticAssetsBase:"\u002Fboyfriend-survay\u002F_nuxt\u002Fstatic\u002F1654584083",layout:"unauthenticated",error:a,state:{countDocument:{count:a},user:a},serverRendered:true,routePath:"\u002F",config:{_app:{basePath:"\u002Fboyfriend-survay\u002F",assetsPath:"\u002Fboyfriend-survay\u002F_nuxt\u002F",cdnURL:a}}}}(null));
