@@ -3,8 +3,8 @@ import colors from 'vuetify/es5/util/colors'
 export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    titleTemplate: '%s - boyfriend-survay',
-    title: 'boyfriend-survay',
+    titleTemplate: '%s - Exam Practice',
+    title: 'Questions',
     htmlAttrs: {
       lang: 'en'
     },
@@ -20,9 +20,6 @@ export default {
   },
 
   target: 'static',
-  router: {
-    base: '/boyfriend-survay/'
-  },
 
   // Global CSS: https://go.nuxtjs.dev/config-css
   css: [

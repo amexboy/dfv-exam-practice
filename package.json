@@ -1,5 +1,5 @@
 {
-  "name": "boyfriend-survay",
+  "name": "dfv-exam-practice",
   "version": "1.0.0",
   "private": true,
   "scripts": {
@@ -14,9 +14,9 @@
     "@nuxtjs/axios": "^5.13.6",
     "@nuxtjs/firebase": "^7.6.1",
     "core-js": "^3.15.1",
-    "firebase": "^8.9.1",
+    "firebase": "^8.10.0",
     "nuxt": "^2.15.7",
-    "vuetify": "^2.5.5",
+    "vuetify": "^2.6.6",
     "vuexfire": "^3.2.5"
   },
   "devDependencies": {
