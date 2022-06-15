@@ -1,40 +1,46 @@
 <template>
   <v-row justify="center" class="mt-5">
     <v-card>
-      <v-card-title>
-        <span>{{ question.q_id }}. &nbsp; </span>
-        <span>{{ question.question }}</span>
-      </v-card-title>
+      <v-toolbar>
+        <v-tabs
+          v-model="tab"
+          right
+        >
+          <v-tabs-slider color="yellow" />
+
+          <v-tab
+            v-for="item in categories"
+            :key="item"
+          >
+            {{ item }}
+          </v-tab>
+        </v-tabs>
+      </v-toolbar>
+
       <v-card-text>
-        <v-btn-toggle v-model="answer">
-          <!-- <v-btn
-              v-for="c in question.choices"
-              :key="c.choice"
-              tile
-              :value="c.choice"
-              :color="choice_btns[c.choice]"
-            >
-              <v-avatar>{{ c.choice }}</v-avatar> {{ c.value }}
-            </v-btn> -->
-          <v-row justify="space-between">
-            <v-col
-              v-for="c in question.choices"
-              :key="c.choice"
-              xs="12"
-              lg="3"
-              sm="6"
-            >
-              <v-btn
-                text
-                tile
-                :value="c.choice"
-                :color="choice_btns[c.choice]"
-              >
-                <v-avatar>{{ c.choice }}</v-avatar> {{ c.value }}
-              </v-btn>
-            </v-col>
-          </v-row>
-        </v-btn-toggle>
+        <v-row>
+          <v-col>
+            <v-pagination v-model="page" :length="pages" />
+          </v-col>
+        </v-row>
+
+        <v-row>
+          <v-col>
+            <question
+              v-for="question in questionsInPage"
+              :key="question.id"
+              :question="question"
+
+              @answered="answer => answered(question, answer)"
+            />
+          </v-col>
+        </v-row>
+
+        <v-row>
+          <v-col>
+            <v-pagination v-model="page" :length="pages" />
+          </v-col>
+        </v-row>
       </v-card-text>
     </v-card>
   </v-row>
@@ -58,13 +64,16 @@ function load (app) {
 export default {
   async asyncData ({ params, app }) {
     const questions = await load(app)
+    const categories = [...new Set(questions.map(q => q.category))]
 
-    return { questions }
+    return { questions, categories }
   },
   data: () => ({
     questions: [],
-    index: 0,
-    answer: null
+    tab: 0,
+    categories: [],
+    answers: [],
+    page: 0
   }),
   head () {
     return {
@@ -72,11 +81,20 @@ export default {
     }
   },
   computed: {
-    question () {
-      return this.questions[this.index]
+    category () {
+      return this.categories[this.tab]
+    },
+    questionsInPage () {
+      return this.filteredQuestions.slice(this.page * 5, (this.page + 1) * 5)
+    },
+    filteredQuestions () {
+      return this.questions.filter(q => q.category === this.category)
+    },
+    pages () {
+      return this.filteredQuestions.length / 5
     },
     choice_btns () {
-      return Object.fromEntries(this.question.choices.map((c) => {
+      return Object.fromEntries((this.question.choices || []).map((c) => {
         // if (!this.answer) { return 'transparent' }
         let color = 'default'
         if (this.answer && c.choice === this.question.answer) {
@@ -87,12 +105,24 @@ export default {
 
         return [c.choice, color]
       }))
+    },
+    currentUserId () {
+      return this.$fire.auth.currentUser.uid
     }
   },
 
   methods: {
     async reload () {
       this.projects = await load(this, this.projectId)
+    },
+    answered (q, answer) {
+      const correct = q.answer === answer
+      this.$fire.database
+        .ref('answers/' + this.currentUserId + '/' + 'attempts/' + q.q_id)
+        .push()
+        .set({ answer, correct })
+        .then((e) => {
+        })
     }
   }
 }

@@ -23,7 +23,7 @@
 export default {
   data () {
     return {
-      title: 'Boyfriend Survay'
+      title: 'Login'
     }
   }
 }

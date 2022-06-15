@@ -6,7 +6,7 @@
         &nbsp;
         Login
       </v-btn>
-      <v-btn @click="login">
+      <v-btn @click="login('none')">
         Continue without logging in
       </v-btn>
     </v-col>
@@ -25,10 +25,10 @@ export default {
     login (provider) {
       const signin = provider === 'google'
         ? this.$fire.auth.signInWithPopup(new this.$fireModule.auth.GoogleAuthProvider())
-        : this.$fireModule.auth.signInAnonymously()
+        : this.$fire.auth.signInAnonymously()
 
       signin.then(() => {
-        this.$router.push('/start')
+        this.$router.push('/practice')
       })
     }
   }
