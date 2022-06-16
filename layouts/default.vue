@@ -8,7 +8,7 @@
       <v-spacer />
 
       <v-tabs right show-arrows>
-        <v-tab v-for="link in links" :key="link" :to="link.to" text>
+        <v-tab v-for="link in links" :key="link.to" :to="link.to" text>
           {{ link.title }}
         </v-tab>
       </v-tabs>

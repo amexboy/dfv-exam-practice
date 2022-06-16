@@ -1,0 +1,526 @@
+{
+  "questions": [
+    {
+      "q_id": 1,
+      "answer": "B",
+      "category": "Freefall",
+      "question": "Two forces affect the vertical fall of a skydiver. What is the name of the force acting towards the centre of the earth?",
+      "choices": [
+        {
+          "choice": "A",
+          "value": "Buoyancy."
+        },
+        {
+          "choice": "B",
+          "value": "Gravity."
+        },
+        {
+          "choice": "C",
+          "value": "Law of Inertia."
+        },
+        {
+          "choice": "D",
+          "value": "Resistance."
+        }
+      ]
+    },
+    {
+      "q_id": 2,
+      "answer": "C",
+      "category": "Freefall",
+      "question": "What is the focus?",
+      "choices": [
+        {
+          "choice": "A",
+          "value": "The point where most of the weight is located in the body."
+        },
+        {
+          "choice": "B",
+          "value": "The point where I feel the most body energy."
+        },
+        {
+          "choice": "C",
+          "value": "The intersection of all 3 body axes and therefore the center of mass."
+        },
+        {
+          "choice": "D",
+          "value": "The point of most concentration."
+        }
+      ]
+    },
+    {
+      "q_id": 3,
+      "answer": "A",
+      "category": "Freefall",
+      "question": "What is the effect of the airflow due to gravitational acceleration?",
+      "choices": [
+        {
+          "choice": "A",
+          "value": "On the body surface presented."
+        },
+        {
+          "choice": "B",
+          "value": "On focus."
+        },
+        {
+          "choice": "C",
+          "value": "To gravity directly."
+        },
+        {
+          "choice": "D",
+          "value": "On the distribution of weight in the body."
+        }
+      ]
+    },
+    {
+      "q_id": 4,
+      "answer": "C",
+      "category": "Freefall",
+      "choices": [
+        {
+          "choice": "A",
+          "value": "not changed."
+        },
+        {
+          "choice": "B",
+          "value": "twice as big."
+        },
+        {
+          "choice": "C",
+          "value": "smaller."
+        },
+        {
+          "choice": "D",
+          "value": "bigger."
+        }
+      ],
+      "question": "How does the resistance depend on the value of the air density? When the air density becomes lower, the resistance..."
+    },
+    {
+      "q_id": 5,
+      "answer": "D",
+      "category": "Freefall",
+      "question": "Which statement is correct?",
+      "choices": [
+        {
+          "choice": "A",
+          "value": "Gravity acts at the center of gravity."
+        },
+        {
+          "choice": "B",
+          "value": "The air force acts on the body surface.   "
+        },
+        {
+          "choice": "C",
+          "value": "The center of the total air force is called the point of force application."
+        },
+        {
+          "choice": "D",
+          "value": "All answers are correct."
+        }
+      ]
+    },
+    {
+      "q_id": 6,
+      "answer": "D",
+      "category": "Freefall",
+      "question": "The incoming air transfers a force to the presented surface. Which statement is correct?",
+      "choices": [
+        {
+          "choice": "A",
+          "value": "If the point of application of force is higher than the centre of gravity, then the state of equilibrium is stable."
+        },
+        {
+          "choice": "B",
+          "value": "If the point of application of the force is below the centre of gravity, the state of equilibrium is unstable."
+        },
+        {
+          "choice": "C",
+          "value": "If the point of application of the force is at the same height as the centre of gravity, then the state of equilibrium is indifferent."
+        },
+        {
+          "choice": "D",
+          "value": "All answers are correct."
+        }
+      ]
+    },
+    {
+      "q_id": 7,
+      "answer": "B",
+      "category": "Freefall",
+      "question": "What do you call the state of equilibrium during free fall in boxing position?",
+      "choices": [
+        {
+          "choice": "A",
+          "value": "indifferent."
+        },
+        {
+          "choice": "B",
+          "value": "stable"
+        },
+        {
+          "choice": "C",
+          "value": "unstable."
+        },
+        {
+          "choice": "D",
+          "value": "unevenly."
+        }
+      ]
+    },
+    {
+      "q_id": "8",
+      "answer": "A",
+      "category": "Freefall",
+      "question": "What do you call the state of equilibrium during free fall in the X position?",
+      "choices": [
+        {
+          "choice": "A",
+          "value": "stable."
+        },
+        {
+          "choice": "B",
+          "value": "unstable."
+        },
+        {
+          "choice": "C",
+          "value": "unstable."
+        },
+        {
+          "choice": "D",
+          "value": "unevenly."
+        }
+      ]
+    },
+    {
+      "q_id": "9",
+      "answer": "C",
+      "category": "Freefall",
+      "question": "What do you call the state of equilibrium during free fall in the floater position?",
+      "choices": [
+        {
+          "choice": "A",
+          "value": "stable."
+        },
+        {
+          "choice": "B",
+          "value": "indifferent."
+        },
+        {
+          "choice": "C",
+          "value": "unstable."
+        },
+        {
+          "choice": "D",
+          "value": "unevenly."
+        }
+      ]
+    },
+    {
+      "q_id": "10",
+      "answer": "C",
+      "category": "Freefall",
+      "question": "When is a flight condition called unstable or unstable?",
+      "choices": [
+        {
+          "choice": "A",
+          "value": "When you're no longer lying on your stomach."
+        },
+        {
+          "choice": "B",
+          "value": "In the head-down position."
+        },
+        {
+          "choice": "C",
+          "value": "If the attitude is not controlled."
+        },
+        {
+          "choice": "D",
+          "value": "In skysurfing and freestyle."
+        }
+      ]
+    },
+    {
+      "q_id": "11",
+      "answer": "D",
+      "category": "Freefall",
+      "question": "Which statement is correct? At a higher altitude...",
+      "choices": [
+        {
+          "choice": "A",
+          "value": "air density and free fall speed are lower."
+        },
+        {
+          "choice": "B",
+          "value": "the air density and free-fall velocity are greater."
+        },
+        {
+          "choice": "C",
+          "value": "the air density is greater and the free fall speed is lower."
+        },
+        {
+          "choice": "D",
+          "value": "the air density is lower and the free fall speed is higher."
+        }
+      ]
+    },
+    {
+      "q_id": "12",
+      "answer": "C",
+      "category": "Freefall",
+      "question": "When does a skydiver stop accelerating in freefall? When...",
+      "choices": [
+        {
+          "choice": "A",
+          "value": "the resistance becomes greater than gravity."
+        },
+        {
+          "choice": "B",
+          "value": "the resistance and the buoyancy are equal."
+        },
+        {
+          "choice": "C",
+          "value": "the air force and the weight force are equal."
+        },
+        {
+          "choice": "D",
+          "value": "the buoyancy offsets the force of gravity."
+        }
+      ]
+    },
+    {
+      "q_id": "13",
+      "answer": "B",
+      "category": "Freefall",
+      "question": "In near-earth air layers, the slowest free-fall speed is in the floater position, for example...",
+      "choices": [
+        {
+          "choice": "A",
+          "value": "70km/h."
+        },
+        {
+          "choice": "B",
+          "value": "170km/h."
+        },
+        {
+          "choice": "C",
+          "value": "270km/h."
+        },
+        {
+          "choice": "D",
+          "value": "Three hundred and fifty miles per hour."
+        }
+      ]
+    },
+    {
+      "q_id": "14",
+      "answer": "C",
+      "category": "Freefall",
+      "question": "In near-Earth air layers, the average free-fall velocity in the add-down position is about...",
+      "choices": [
+        {
+          "choice": "A",
+          "value": "70km/h."
+        },
+        {
+          "choice": "B",
+          "value": "180km/h."
+        },
+        {
+          "choice": "C",
+          "value": "250km/h."
+        },
+        {
+          "choice": "D",
+          "value": "400km/h."
+        }
+      ]
+    },
+    {
+      "q_id": "15",
+      "answer": "C",
+      "category": "Freefall",
+      "question": "In near-earth air layers, the average free-fall velocity in the boxing position is about...",
+      "choices": [
+        {
+          "choice": "A",
+          "value": "100km/h."
+        },
+        {
+          "choice": "B",
+          "value": "150km/h."
+        },
+        {
+          "choice": "C",
+          "value": "180km/h."
+        },
+        {
+          "choice": "D",
+          "value": "270km/h."
+        }
+      ]
+    },
+    {
+      "q_id": "16",
+      "answer": "A",
+      "category": "Freefall",
+      "question": "In near-earth air layers, the average vertical fall velocity in the track is...",
+      "choices": [
+        {
+          "choice": "A",
+          "value": "about 150km/h."
+        },
+        {
+          "choice": "B",
+          "value": "about 200km/h."
+        },
+        {
+          "choice": "C",
+          "value": "up to 290km/h."
+        },
+        {
+          "choice": "D",
+          "value": "over 350km/h."
+        }
+      ]
+    },
+    {
+      "q_id": "17",
+      "answer": "B",
+      "category": "Freefall",
+      "question": "What does the free fall speed depend on?",
+      "choices": [
+        {
+          "choice": "A",
+          "value": "Mass of the harness and the rate of descent."
+        },
+        {
+          "choice": "B",
+          "value": "Mass, size and freefall attitude of the skydiver."
+        },
+        {
+          "choice": "C",
+          "value": "Training of the parachutist."
+        },
+        {
+          "choice": "D",
+          "value": "Shape of the parachute canopy."
+        }
+      ]
+    },
+    {
+      "q_id": "18",
+      "answer": "D",
+      "category": "Freefall",
+      "question": "What influences the free fall speed? ",
+      "questionOptions": [
+        {
+          "option": 1,
+          "text": "Weight and size of the jumper."
+        },
+        {
+          "option": 2,
+          "text": "Incoming flow, altimeter."
+        },
+        {
+          "option": 3,
+          "text": "Clothing, lead vest. "
+        },
+        {
+          "option": 4,
+          "text": "Airtight, free-fall position."
+        }
+      ],
+      "choices": [
+        {
+          "choice": "A",
+          "value": "Only answer 3 is correct."
+        },
+        {
+          "choice": "B",
+          "value": "Only answer 4 is correct."
+        },
+        {
+          "choice": "C",
+          "value": "Answers 1 and 3 are correct"
+        },
+        {
+          "choice": "D",
+          "value": "Answers 1, 3 and 4 are correct."
+        }
+      ]
+    },
+    {
+      "q_id": "19",
+      "answer": "B",
+      "category": "Freefall",
+      "question": "Which of the above body shapes has the greatest resistance with the same amount of frontal area?",
+      "choices": [
+        {
+          "choice": "A",
+          "value": "Streamline body."
+        },
+        {
+          "choice": "B",
+          "value": "Hollow hemisphere (hollow side)."
+        },
+        {
+          "choice": "C",
+          "value": "Vertical flow circular plate."
+        },
+        {
+          "choice": "D",
+          "value": "Bullet."
+        }
+      ]
+    },
+    {
+      "q_id": "20",
+      "answer": "D",
+      "category": "Freefall",
+      "question": "Which statement is correct?",
+      "choices": [
+        {
+          "choice": "A",
+          "value": "A body in an unstable state of equilibrium can fall in a controlled manner."
+        },
+        {
+          "choice": "B",
+          "value": "A body in a stable state of equilibrium can fall uncontrollably."
+        },
+        {
+          "choice": "C",
+          "value": "A body in an indifferent state of equilibrium can fall in a controlled manner."
+        },
+        {
+          "choice": "D",
+          "value": "All answers are correct."
+        }
+      ]
+    },
+    {
+      "q_id": "21",
+      "answer": "B",
+      "category": "Freefall",
+      "question": "Controlling freefall is one of the goals of any parachute jump. To do this, the following should be considered:",
+      "choices": [
+        {
+          "choice": "A",
+          "value": "Physical preparation is not necessary, as skydiving is purely a head thing."
+        },
+        {
+          "choice": "B",
+          "value": "I should be physically healthy, fit and mobile, be familiar with the required postures and prepare my musculoskeletal system for the targeted tasks."
+        },
+        {
+          "choice": "C",
+          "value": "The most physically challenging part of skydiving is packing the parachute."
+        },
+        {
+          "choice": "D",
+          "value": "All answers are correct."
+        }
+      ]
+    }
+  ]
+}
