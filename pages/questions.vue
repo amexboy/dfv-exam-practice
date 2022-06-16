@@ -133,6 +133,7 @@ export default {
           .ref('draftQuestions/' + res.id)
           .update(res)
           .then(() => {
+            this.editedIndex = -1
             this.reload()
           })
       } else {
@@ -141,6 +142,7 @@ export default {
           .push()
           .set(res)
           .then(() => {
+            this.editedIndex = -1
             this.reload()
           })
       }
