@@ -72,11 +72,11 @@ export default {
       //   title: 'Welcome',
       //   to: '/'
       // },
-      // {
-      //   icon: '',
-      //   title: 'Questions',
-      //   to: '/questions'
-      // },
+      {
+        icon: '',
+        title: 'Questions',
+        to: '/questions'
+      },
       {
         icon: 'mdi-contacts',
         title: 'Practice',

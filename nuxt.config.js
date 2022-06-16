@@ -45,6 +45,7 @@ export default {
   modules: [
     // https://go.nuxtjs.dev/axios
     '@nuxtjs/axios',
+    ['vuetify-dialog/nuxt', { property: '$dialog' }],
     ['@nuxtjs/firebase', {
       config: {
         apiKey: 'AIzaSyDA8TSfGbD_5Dp3Ca4i2dxb4Ozk7Oybiso',

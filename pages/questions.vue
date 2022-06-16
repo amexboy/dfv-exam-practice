@@ -13,7 +13,7 @@
         </v-toolbar-title>
         <v-divider class="mx-4" inset vertical />
         <v-spacer />
-        <v-btn text>
+        <v-btn text @click="newQuestion">
           New Question
         </v-btn>
       </v-toolbar>
@@ -38,16 +38,17 @@
       </v-icon>
     </template>
     <template #no-data>
-      <v-btn color="primary" @click="initialize">
+      <v-btn color="primary" @click="reload">
         Reset
       </v-btn>
     </template>
   </v-data-table>
 </template>
 <script>
+import QuestionForm from '~/components/QuestionForm.vue'
 function load (app) {
   return app.$fire.database
-    .ref('questions')
+    .ref('draftQuestions')
     .get()
     .then((snapshot) => {
       if (snapshot.exists()) {
@@ -63,7 +64,6 @@ function load (app) {
 export default {
   async asyncData ({ params, app }) {
     const projects = await load(app)
-    console.log(projects)
 
     return { projects }
   },
@@ -108,21 +108,6 @@ export default {
     }
   },
 
-  computed: {
-    formTitle () {
-      return this.editedIndex === -1 ? 'New Question' : 'Edit Question'
-    }
-  },
-
-  watch: {
-    dialog (val) {
-      val || this.close()
-    },
-    dialogDelete (val) {
-      val || this.closeDelete()
-    }
-  },
-
   methods: {
     validate () {
       return this.$refs.form.validate()
@@ -130,62 +115,32 @@ export default {
     async reload () {
       this.projects = await load(this, this.projectId)
     },
+    newQuestion () {
+      this.$dialog.showAndWait(QuestionForm, { width: '800px' })
+        .then(this.save)
+    },
     editItem (item) {
       this.editedIndex = this.projects.indexOf(item)
-      this.editedItem = Object.assign({}, item)
-      this.dialog = true
+      this.$dialog.showAndWait(QuestionForm, { input: item }, { width: '800px' })
+        .then(this.save)
     },
 
-    deleteItem (item) {
-      this.editedIndex = this.projects.indexOf(item)
-      this.editedItem = Object.assign({}, item)
-      this.dialogDelete = true
-    },
-
-    deleteItemConfirm () {
-      this.$fire.database
-        .ref('questions/' + this.editedItem.id)
-        .set(null)
-        .then(() => {
-          this.closeDelete()
-          this.reload()
-        })
-    },
-
-    close () {
-      this.dialog = false
-      this.$nextTick(() => {
-        this.editedItem = Object.assign({}, this.defaultItem)
-        this.editedIndex = -1
-      })
-    },
-
-    closeDelete () {
-      this.dialogDelete = false
-      this.$nextTick(() => {
-        this.editedItem = Object.assign({}, this.defaultItem)
-        this.editedIndex = -1
-      })
-    },
-
-    save () {
-      if (!this.validate()) { return }
+    save (res) {
+      if (res === null) { return }
 
       if (this.editedIndex > -1) {
         this.$fire.database
-          .ref('questions/' + this.editedItem.id)
-          .update(this.editedItem)
+          .ref('draftQuestions/' + res.id)
+          .update(res)
           .then(() => {
-            this.close()
             this.reload()
           })
       } else {
         this.$fire.database
-          .ref('questions')
+          .ref('draftQuestions')
           .push()
-          .set(this.editedItem)
+          .set(res)
           .then(() => {
-            this.close()
             this.reload()
           })
       }
