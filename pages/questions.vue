@@ -33,9 +33,9 @@
       <v-icon small class="mr-2" @click="editItem(item)">
         mdi-pencil
       </v-icon>
-      <v-icon small color="red" @click="deleteItem(item)">
+      <!-- <v-icon small color="red" @click="deleteItem(item)">
         mdi-delete
-      </v-icon>
+      </v-icon> -->
     </template>
     <template #no-data>
       <v-btn color="primary" @click="reload">

@@ -40,7 +40,6 @@
                 :items="['A', 'B', 'C', 'D']"
                 label="Answer"
                 placeholder="Choose..."
-                required
               />
             </v-col>
             <v-col cols="12" sm="5">
@@ -58,13 +57,13 @@
               <v-text-field v-model="editedItem.choices[0].value" required label="Choice A" />
             </v-col>
             <v-col cols="12" sm="12">
-              <v-text-field v-model="editedItem.choices[1].value" required label="Choice A" />
+              <v-text-field v-model="editedItem.choices[1].value" required label="Choice B" />
             </v-col>
             <v-col cols="12" sm="12">
-              <v-text-field v-model="editedItem.choices[2].value" required label="Choice A" />
+              <v-text-field v-model="editedItem.choices[2].value" required label="Choice C" />
             </v-col>
             <v-col cols="12" sm="12">
-              <v-text-field v-model="editedItem.choices[3].value" required label="Choice A" />
+              <v-text-field v-model="editedItem.choices[3].value" required label="Choice D" />
             </v-col>
           </v-row>
         </v-form>
