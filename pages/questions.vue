@@ -48,7 +48,7 @@
 import QuestionForm from '~/components/QuestionForm.vue'
 function load (app) {
   return app.$fire.database
-    .ref('draftQuestions')
+    .ref('questions')
     .get()
     .then((snapshot) => {
       if (snapshot.exists()) {
@@ -130,7 +130,7 @@ export default {
 
       if (this.editedIndex > -1) {
         this.$fire.database
-          .ref('draftQuestions/' + res.id)
+          .ref('questions/' + res.id)
           .update(res)
           .then(() => {
             this.editedIndex = -1
@@ -138,7 +138,7 @@ export default {
           })
       } else {
         this.$fire.database
-          .ref('draftQuestions')
+          .ref('questions')
           .push()
           .set(res)
           .then(() => {
