@@ -2,7 +2,7 @@
   <v-row>
     <!-- <v-col>{{ source }}</v-col> -->
     <!-- <v-col>{{ result }}</v-col> -->
-    <v-col>{{ questions }}</v-col>
+    <v-col><v-textarea :value="JSON.stringify(result, null, 2)" /></v-col>
     <!-- <v-col>
       <question
         v-for="question in result"
@@ -25,7 +25,7 @@ export default {
   },
   computed: {
     matches () {
-      const pattern = /((?:Aerodynamics)|(?:Free ?fall)|(?:Air traffic law)|(?:Meteorology)|(?:Equipment)|(?:Human Performance)|(?:Behaviour in special circumstances)).*?Question No\.? ([0-9]+)(.*?)(\(.*?(?:image)?(?:picture)?.*?\)).*?a\)(.*?)b\)(.*?)c\)(.*?)d\)(.*?)Correct answer: ([a-e])/sigm
+      const pattern = /((?:Aerodynamics)|(?:Free ?fall)|(?:Air traffic law)|(?:Meteorology)|(?:Equipment)|(?:Human Performance)|(?:Behaviour in special circumstances)).*?Question No\.? ([0-9]+)(.*?)(\((?:No )?(?:(?:image)|(?:picture)).*?\)).*?a\)(.*?)b\)(.*?)c\)(.*?)d\)(.*?)Correct answer: ([a-e])/sigm
       return [...source.matchAll(pattern)]
     },
     result () {
@@ -36,6 +36,7 @@ export default {
             category: m[1].trim(),
             q_id: m[2].trim(),
             question: m[3].trim(),
+            picture: m[4],
             choices: [
               { choice: 'A', value: m[5].trim() },
               { choice: 'B', value: m[6].trim() },
