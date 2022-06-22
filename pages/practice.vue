@@ -73,7 +73,7 @@ export default {
     tab: 0,
     categories: [],
     answers: [],
-    page: 0
+    page: 1
   }),
   head () {
     return {
@@ -85,13 +85,13 @@ export default {
       return this.categories[this.tab]
     },
     questionsInPage () {
-      return this.filteredQuestions.slice(this.page * 5, (this.page + 1) * 5)
+      return this.filteredQuestions.slice((this.page - 1) * 5, (this.page) * 5)
     },
     filteredQuestions () {
       return this.questions.filter(q => q.category === this.category)
     },
     pages () {
-      return this.filteredQuestions.length / 5
+      return Math.ceil(this.filteredQuestions.length / 5)
     },
     choice_btns () {
       return Object.fromEntries((this.question.choices || []).map((c) => {
@@ -108,6 +108,11 @@ export default {
     },
     currentUserId () {
       return this.$fire.auth.currentUser.uid
+    }
+  },
+  watch: {
+    tab () {
+      this.page = 1
     }
   },
 

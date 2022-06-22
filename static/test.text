@@ -1,6 +1,6 @@
-export default `Deutscher Fallschirmsportverband (DFV) e.V.
+export default `DFv
+Deutscher Fallschirmsportverband (DFV) e.V.
 Member of Deutscher Aero-Club (DAeC) e.V.
-DFv
 Questionbank with Answers for students and instructors
 Aerodynamics
 Question No 1
@@ -8,7 +8,7 @@ The term aerodynamics describes air and its motion. What happens when you move t
 (No picture)
 a) The friction of air particles on the body creates drag.
 b) The higher the velocity through the air, the more aerodynamic force is generated.
-c)The air becomes noticeably more solid and its force acts on the shape/surface presented to it.
+c) The air becomes noticeably more solid and its force acts on the shape/surface presented to it.
 d) All of the above.
 Correct answer: d
 Aerodynamics
@@ -17,7 +17,7 @@ What effect is produced by the airflow around a body with one of the following s
 (No picture)
 a) A drop shape has a low air resistance.
 b) A hollow hemisphere (round reserve canopy) has more drag.
-c) A RAM-air canopy shape converts the airflow into lift by creating a pressure differential between the top an
+c) A RAM-air canopy shape converts the airflow into lift by creating a pressure differential between the top and
 bottomskins.
 d) All of the above.
 Correct answer: d
@@ -32,7 +32,7 @@ d) acts perpendicular to the longitudinal axis of the parachutist.
 Correct answer: a
 Aerodynamics
 Question No 4
-What is the ratio of the pressure differential between the low pressure (upper) and high pressure (lower) wing
+What is the ratio of the pressure differential between the low pressure (upper) and high pressure (lower) wing surfaces,
 which are responsible for lift of RAM-air canopy?
 (No picture)
 a) 1/2 low and 1/2 high.
@@ -54,8 +54,7 @@ Question No 6
 The RAM-air canopy achieves flight from the movement through the air.
 Complete the gaps in the correct order
 "Sinking is caused by [...].
-Through [ ] of the airfoil the canopy begins to glide forwards and downwards. This creates
-of [...] which generate
+Through [ ] of the airfoil the canopy begins to glide forwards and downwards. This creates [...] which generates [...]
 the RAM-air canopy."
 (No picture)
 a) the setting - the air flow - the weight - the load-bearing capacity (buoyancy).
@@ -63,7 +62,9 @@ b) air flow - weight - load-bearing capacity (buoyancy) - setting.
 c) weight - the setting - the air flow - the load-bearing capacity (buoyancy).
 d) the load bearing capacity (buoyancy) - the weight - the air flow - the setting.
 Correct answer: c
-1/99Deutscher Fallschirmsportverband (DFV) e.V.
+1/99
+ofDFv
+Deutscher Fallschirmsportverband (DFV) e.V.
 Member of Deutscher Aero-Club (DAeC) e.V.
 Questionbank with Answers for students and instructors
 Aerodynamics
@@ -95,6 +96,7 @@ a) buoyancy.
 b) airflow.
 c) drag.
 d) gravity.
+(
 Correct answer: d
 Aerodynamics
 1
@@ -115,7 +117,7 @@ a) its special elliptical shape.
 b) rather airtight fabric.
 c) its wing shape.
 d) the stabilisers.
-Correct answer: c
+Correct answer: e
 Aerodynamics
 Question No 12
 What is an advantage of a RAM-air canopy?
@@ -125,17 +127,15 @@ b) Because it can be slowed down, a parachute landing fall will never be necessa
 c) Malfunctions on opening are completely eliminated.
 d) The RAM-air canopy automatically turns into the wind for landing.
 Correct answer: a
-2/99
-DFvDeutscher Fallschirmsportverband (DFV) e.V.
+2/99Deutscher Fallschirmsportverband (DFV) e.V.
 Member of Deutscher Aero-Club (DAeC) e.V.
-DFV
 Questionbank with Answers for students and instructors
 Aerodynamics
 Question No 13
 What is an advantage of a RAM-air canopy?
 (No picture)
 a) It glides forwards when sinking, thus allowing longer distances to be covered in flight.
-b) One can achieve forward ground speed when flying into the wind, provided that the wind is not stronger tha
+b) One can achieve forward ground speed when flying into the wind, provided that the wind is not stronger than the
 forward speed designed into the RAM-air canopy.
 c) One can fly crosswind with a RAM-air canopy resulting a crabbing sideways to the wind direction.
 d) All of the above.
@@ -145,7 +145,7 @@ Question No 14
 What are the stabilizers on the sides of RAM-air canopy for?
 (No picture)
 a) They stabilize the canopy when going straight ahead, like a daggerboard on the hull of a sailing ship.
-b) They reduce the pressure equalization between the airflows over and under the canopy at the outer cells a
+b) They reduce the pressure equalization between the airflows over and under the canopy at the outer cells and thus
 stabilize the wing aerodynamically.
 c) They keep the construction of the canopy stable at the outer cells, where the greatest force prevails.
 d) They stabilize the slider at the opening.
@@ -170,7 +170,7 @@ d) compression
 Correct answer: a
 Aerodynamics
 Question No 17
-During its flight through the air, the RAM-air canopy generates not only lift, but also drag which reduces the ov
+During its flight through the air, the RAM-air canopy generates not only lift, but also drag which reduces the overall
 flight performance.
 What resistance forces are these?
 (No picture)
@@ -181,7 +181,7 @@ d) All of the above.
 Correct answer: d
 Aerodynamics
 Question No 18
-Seen from the side, the forward and downward trajectory results in an angle of inclination relative to the horiz
+Seen from the side, the forward and downward trajectory results in an angle of inclination relative to the horizon.
 What do you call the angle between the horizon and the flight path?
 (No picture)
 a) glide angle
@@ -189,13 +189,13 @@ b) angle of incidence
 c) angle of attack
 d) chord line
 Correct answer: a
-3/99Deutscher Fallschirmsportverband (DFV) e.V.
+3/99
+DFVDeutscher Fallschirmsportverband (DFV) e.V.
 Member of Deutscher Aero-Club (DAeC) e.V.
-DFv
 Questionbank with Answers for students and instructors
 Aerodynamics
 Question No 19
-A value results from the ratio of downward to forward distance, without the influence of wind. This value is cal
+A value results from the ratio of downward to forward distance, without the influence of wind. This value is called:
 (No picture)
 a) chord line
 b) glide ratio
@@ -204,7 +204,7 @@ d) angle of incidence
 Correct answer: b
 Aerodynamics
 Question No 20
-Because air always seeks the least resistance or equalize pressure, the airflow over the middle cell is highest
+Because air always seeks the least resistance or equalize pressure, the airflow over the middle cell is highest and at the
 outer cells lowest, with a tendency towards zero.
 Which statement is therefore correct?
 (No picture)
@@ -224,7 +224,7 @@ d) All of the above.
 Correct answer: d
 Aerodynamics
 Question No 22
-In practice, we distinguish between slow- and high-speed flight profiles. What are the characteristics of a high
+In practice, we distinguish between slow- and high-speed flight profiles. What are the characteristics of a high-speed
 profile?
 (No picture)
 a) High canopy depth, low aspect ratio, short lines.
@@ -234,7 +234,7 @@ d) Small aspect ratio, shallow canopy depth, microlines.
 Correct answer: b
 Aerodynamics
 Question No 23
-In practice, we distinguish between slow and high-speed flight profiles. What are the characteristics of a slow
+In practice, we distinguish between slow and high-speed flight profiles. What are the characteristics of a slow flight
 profile?
 (No picture)
 a) High canopy depth, low aspect ratio, flat line trim.
@@ -251,13 +251,13 @@ b) a thick, uniform shape with the greatest thickness in the first third of the 
 c) less total surface area to avoid resistance and by stabilizers.
 d) a larger canopy and shorter lines.
 Correct answer: a
-4/99Deutscher Fallschirmsportverband (DFV) e.V.
+4/99
+DFvDeutscher Fallschirmsportverband (DFV) e.V.
 Member of Deutscher Aero-Club (DAeC) e.V.
-DFv
 Questionbank with Answers for students and instructors
 Aerodynamics
 Question No 25
-Which of the following characteristics does a deep RAM-air canopy have compared to a shallow canopy at th
+Which of the following characteristics does a deep RAM-air canopy have compared to a shallow canopy at the same
 speed? It has:
 (No picture)
 a) greater drag and less buoyancy.
@@ -273,7 +273,7 @@ a) As reserve canopies.
 b) As accuracy canopies.
 c) As main canopies.
 d) All of the above.
-Correct answer: c
+Correct answer: e
 Aerodynamics
 Question No 27
 Where are canopies with slow flight profiles usually used?
@@ -285,12 +285,12 @@ d) All of the above.
 Correct answer: d
 Aerodynamics
 Question No 28
-When slowing down the RAM-air canopy the angle of attack is increased by changing the chord line in relatio
+When slowing down the RAM-air canopy the angle of attack is increased by changing the chord line in relation to the
 airflow. Which statement is correct?
 (No picture)
-a) The RAM-air canopy is slowed down by pulling the steering lines in parallel. This effect (flare) can be used
+a) The RAM-air canopy is slowed down by pulling the steering lines in parallel. This effect (flare) can be used for
 landing.
-b) The slowing down effect only lasts as long as the RAM-air canopy is still moving and there is airflow. When
+b) The slowing down effect only lasts as long as the RAM-air canopy is still moving and there is airflow. When the
 RAM-air canopy comes to a standstill, it goes into deep stall.
 c) If the RAM-air canopy is over-braked, a stall is created.
 d) All of the above.
@@ -300,7 +300,7 @@ Question No 29
 What is the difference between angle of attack and angle of incidence?
 (No picture)
 a) There is no difference.
-b) The angle of attack is changed by the parachutist by pulling the steering lines, while the angle of incidence
+b) The angle of attack is changed by the parachutist by pulling the steering lines, while the angle of incidence is specified
 by the manufacturer but can be changed by riser control.
 c) Angle of attack relates to a canopy in flight, angle of incidence relates to a canopy on landing.
 d) As the angle of attack is reduced, the angle of incidence is increased.
@@ -314,9 +314,9 @@ b) Increase of the angle of attack.
 c) reduction of the angle of attack.
 d) reduction of resistance.
 Correct answer: b
-5/99Deutscher Fallschirmsportverband (DFV) e.V.
+5/99
+DFvDeutscher Fallschirmsportverband (DFV) e.V.
 Member of Deutscher Aero-Club (DAeC) e.V.
-DFv
 Questionbank with Answers for students and instructors
 Aerodynamics
 Question No 31
@@ -340,12 +340,12 @@ Aerodynamics
 Question No 33
 How do the aerodynamic conditions of a RAM-air canopy change when approaching the stall of the canopy?
 (No picture)
-a) The pressure differential remains constant even in the vicinity of the critical angle of attack (approx. 2/3 low
+a) The pressure differential remains constant even in the vicinity of the critical angle of attack (approx. 2/3 low and 1/3
 high pressure).
 b) The airflow speed is reduced on the topskin.
 c) Airflow is no longer able to follow the upper wing curvature; the boundary layer separates.
 d) Air flow stops along the bottom of the canopy profile.
-Correct answer: c
+Correct answer: e
 Aerodynamics
 Question No 34
 On which parameters does the stall point essentially depend?
@@ -354,7 +354,7 @@ a) ratio of the weight of the parachutist to the size of the canopy, altitude an
 b) gravity and glide angle.
 c) ratio of the weight of the parachutist to the size of the canopy and the brake position.
 d) glide angle and brake position.
-Correct answer: c
+Correct answer: e
 Aerodynamics
 Question No 35
 Which flight behaviour corresponds to a stall?
@@ -362,23 +362,23 @@ Which flight behaviour corresponds to a stall?
 a) Smooth, trimmed glide at full speed.
 b) The opening phase in which the slider is still at the base of the bottom skin.
 c) The canopy collapses due to overbraking and then begins to lose its load capacity very quickly.
-d) The abrupt pulling down of a steering line from full flight, followed by several line twists due to the parachut
+d) The abrupt pulling down of a steering line from full flight, followed by several line twists due to the parachutist's
 inertia in relation to the canopy.
 Correct answer: c
 Aerodynamics
 Question No 36
 How do you flare your canopy to land?
 (No picture)
-a) By pulling both steering lines simultaneously to the 100 % brake position. Keep hands parallel to the horizo
+a) By pulling both steering lines simultaneously to the 100 % brake position. Keep hands parallel to the horizon and keep
 the canopy under control.
-b) Pull the steering lines down in a controlled and progressive manner. In order to estimate the height and cor
+b) Pull the steering lines down in a controlled and progressive manner. In order to estimate the height and correct timing,
 look down and ahead at approximately 45°
 c) I flare faster or slower corresponding to the speed at which the ground approaches.
 d) All of the above.
 Correct answer: d
-6/99Deutscher Fallschirmsportverband (DFV) e.V.
+6/99
+DFvDeutscher Fallschirmsportverband (DFV) e.V.
 Member of Deutscher Aero-Club (DAeC) e.V.
-DFV
 Questionbank with Answers for students and instructors
 Aerodynamics
 Question No 37
@@ -391,15 +391,15 @@ d) This possibility can only occur ifl brake with the front risers.
 Correct answer: b
 Aerodynamics
 Question No 38
-A turn can be flown with a RAM-air canopy using the steering lines, the rear or front risers as well as by shiftin
+A turn can be flown with a RAM-air canopy using the steering lines, the rear or front risers as well as by shifting weight.
 What are the flight mechanics of such turns??
 (No picture)
 a) Nothing, since the total mass does not change, all parameters remain constant.
 b) The canopy tilts in the turn. It is therefore relevant whether the turn is with the wind or into the wind.
-c) The resulting centrifugal force increases the weight of the parachutist and the canopy increases its speed a
+c) The resulting centrifugal force increases the weight of the parachutist and the canopy increases its speed and descends
 faster.
 d) Due to the increased cornering speed, the canopy generates more lift and climbs.
-Correct answer: c
+Correct answer: e
 Aerodynamics
 Question No 39
 What are the flight mechanics of a spiral?
@@ -418,26 +418,26 @@ Question No 40
 What happens to RAM-air canopies during abrupt or alternating control inputs?
 (No picture)
 a) I pump up the canopy and increase its flight performance.
-b) Flight mechanically, the canopy becomes an unstable wing. It could build up extreme pendulum motion unt
+b) Flight mechanically, the canopy becomes an unstable wing. It could build up extreme pendulum motion until loss of
 control (e.g. Line twists).
 c) The steering lines could break.
-d) The cross ports inside the canopy ensure good dynamic pressure balance. The canopy is designed for suc
+d) The cross ports inside the canopy ensure good dynamic pressure balance. The canopy is designed for such
 manoeuvres.
 Correct answer: b
 Aerodynamics
 Question No 41
 What happens aerodynamically on the topskin of a RAM-air canopy?
 (No picture)
-a) The air flows over the entire topskin and creates an area of low air pressure across the curvature because
+a) The air flows over the entire topskin and creates an area of low air pressure across the curvature because of the higher
 airspeed.
 b) The air particles which are in direct contact with the surface of the topskin are physically stationary.
-c) The layer between the fully accelerated air flow and the surface of the topskin is called "boundary layer' fro
+c) The layer between the fully accelerated air flow and the surface of the topskin is called "boundary layer' from which
 the lift is obtained.
 d) All of the above
 Correct answer: d
-7/99Deutscher Fallschirmsportverband (DFV) e.V.
+7/99
+DFVDeutscher Fallschirmsportverband (DFV) e.V.
 Member of Deutscher Aero-Club (DAeC) e.V.
-DFV
 Questionbank with Answers for students and instructors
 Aerodynamics
 Question No 42
@@ -447,29 +447,29 @@ a) Experience does not really matter, since all canopies are the same.
 b) I only need to pay attention to the canopy size of elliptical canopies.
 c) I can determine a suitable canopy type and size for my experience level using wing load information.
 (d) There is no size restriction for zero porosity canopies due to their high performance.
-Correct answer: c
+Correct answer: e
 Aerodynamics
 Question No 43
 What effect(s) does a high wing loading have?
 (No picture)
-a) The canopy flies and sinks faster in gliding flight, the flight characteristics are generally more aggressive. In
+a) The canopy flies and sinks faster in gliding flight, the flight characteristics are generally more aggressive. Incorrect
 control inputs have an unforgivable effect.
 b) It is suitable for beginners to train reaction speed.
 c) A high wing load is always used to achieve better landings in stormy winds.
-d) There is no such thing as a too high a wing loading because the canopy stabilizes aerodynamically and thu
+d) There is no such thing as a too high a wing loading because the canopy stabilizes aerodynamically and thus generates
 the same lift with the same flight speed.
 Correct answer: a
 Aerodynamics
 Question No 44
-The highest lift is generated on the topskin of the RAM-air canopy (approx. 2/3 from the low pressure). Which
+The highest lift is generated on the topskin of the RAM-air canopy (approx. 2/3 from the low pressure). Which statement
 regarding the air flow is correct?
 (No picture)
 a) The air flow at the topskin is exactly the same for all canopies and is therefore unimportant.
-b) The air impermeability of zero porosity material makes it unsuitable for topskin construction due to air cong
-This is why hybrid canopies with zero porosity material bottomskins and F-111 material topskins were develop
+b) The air impermeability of zero porosity material makes it unsuitable for topskin construction due to air congestion.
+This is why hybrid canopies with zero porosity material bottomskins and F-111 material topskins were developed.
 c) The smooth surface of zero porosity material is worse for the air flowing over the topskin than F-111 fabric.
-d) The air turbulence across F-111 fabric on the topskin interferes with the laminar air flow and thus with the l
-generation. Therefore, an F-111 canopy has worse flight performance than an equally loaded zero porosity fa
+d) The air turbulence across F-111 fabric on the topskin interferes with the laminar air flow and thus with the lift
+generation. Therefore, an F-111 canopy has worse flight performance than an equally loaded zero porosity fabric canopy.
 Correct answer: d
 Aerodynamics
 Question No 45
@@ -489,7 +489,7 @@ a) the airspeed increases.
 b) the airspeed is reduced.
 c) the airspeed does not change.
 d) the airflow on the canopy separates.
-Correct answer: c
+Correct answer: e
 Aerodynamics
 Question No 47
 What is the name of the point where the airflow detaches completely from the top of the wing?
@@ -499,9 +499,9 @@ b) Stall point.
 c) Pressure point.
 d) Flare point.
 Correct answer: a
-8/99Deutscher Fallschirmsportverband (DFV) e.V.
+8/99
+DFVDeutscher Fallschirmsportverband (DFV) e.V.
 Member of Deutscher Aero-Club (DAeC) e.V.
-DFv
 Questionbank with Answers for students and instructors
 Aerodynamics
 Question No 48
@@ -515,7 +515,7 @@ a) Only answer 1 is correct.
 b) Only answer 3 is correct.
 c) All answers are correct.
 d) All answers except 1 are correct.
-Correct answer: c
+Correct answer: e
 Aerodynamics
 Question No 49
 How do you ensure that your canopy glides further when flying with tail wind?
@@ -527,7 +527,7 @@ d) Brake the canopy slightly.
 Correct answer: d
 Aerodynamics
 Question No 50
-If the headwind is so strong that the canopy does not fly forward at full speed, then there is no opportunity to g
+If the headwind is so strong that the canopy does not fly forward at full speed, then there is no opportunity to gain
 additional propulsive power. Is this statement true?
 (No picture)
 a) No, because by pulling parallel on the front risers you still gain minimal propulsion, but also sink faster.
@@ -537,7 +537,7 @@ d) This statement is only true if I am flying with a slow flight profile canopy.
 Correct answer: a
 Aerodynamics
 Question No 51
-What should a parachutist expect if he flies a RAM-air canopy from a stationary air mass to a sinking one (do
+What should a parachutist expect if he flies a RAM-air canopy from a stationary air mass to a sinking one (downwash)?
 (No picture)
 a) an improvement in the glide angle.
 b) an increase in the forward speed.
@@ -546,20 +546,21 @@ d) increased rate of descent and turbulence.
 Correct answer: d
 Aerodynamics
 Question No 52
-Shortly before landing, i.e. near the ground, the wind changes due to additional influences. There are change
-direction and strength due to ground friction as well as up and down winds due to thermal influences and grou
-Therefore, your canopy will tend to want to turn out of its landing direction when it is flown into wind. What sho
+Shortly before landing, i.e. near the ground, the wind changes due to additional influences. There are changes in
+direction and strength due to ground friction as well as up and down winds due to thermal influences and ground shape.
+Therefore, your canopy will tend to want to turn out of its landing direction when it is flown into wind. What should you
 pay special attention to during the final approach?
 (No picture)
 a) Nothing, since this fact only matters for high performance canopies.
 b) While landing the cells need to be flared asymmetrically.
-c) When deploying, the body must be positioned against the wind in free fall to prevent an off-heading openin
-d)The canopy must be held in position, facing the direction of the final approach, as it does not stay on the win
+c) When deploying, the body must be positioned against the wind in free fall to prevent an off-heading opening.
+d) The canopy must be held in position, facing the direction of the final approach, as it does not stay on the wind axis on
 its own when its flown into wind.
 Correct answer: d
-9/99Deutscher Fallschirmsportverband (DFV) e.V.
+9/99
+DFvDFv
+Deutscher Fallschirmsportverband (DFV) e.V.
 Member of Deutscher Aero-Club (DAeC) e.V.
-DFv
 Questionbank with Answers for students and instructors
 Aerodynamics
 Question No 53
@@ -567,15 +568,15 @@ What happens if you fly closely behind another canopy on the same flight path?
 (No picture)
 a) The wake could disturb my aerodynamics and it could cause problems with my canopy stability.
 b) Because of the turbulences even more air is pumped under my canopy and this increases my lift.
-c) I try to fly in the slipstream and increase my propulsion. This manoeuvre is especially useful for a better flar
+c) I try to fly in the slipstream and increase my propulsion. This manoeuvre is especially useful for a better flare shortly
 before landing.
-d) A small distance only matters if canopies don't land in the same direction and their flight paths intersect on
+d) A small distance only matters if canopies don't land in the same direction and their flight paths intersect on landing.
 Correct answer: a
 Aerodynamics
 Question No 54
 Complete the sentence
-"IfI fly downwind with a RAM-air canopy, the inclination of the flight path with relation
-" to the horizon is
+"IfI fly downwind with a RAM-air canopy, the inclination of the flight path with relation to the horizon is
+"
 (No picture)
 a) shallower than with zero wind.
 b) steeper than with zero wind.
@@ -585,8 +586,8 @@ Correct answer: a
 Aerodynamics
 Question No 55
 Complete the sentence
-"If I fly into wind with a RAM-air canopy, the inclination of the flight path in relation
-" to the horizon is
+"If I fly into wind with a RAM-air canopy, the inclination of the flight path in relation to the horizon is
+"
 (No picture)
 a) shallower than with zero wind.
 b) steeper than with zero wind.
@@ -596,9 +597,7 @@ Correct answer: b
 Aerodynamics
 Question No 56
 Complete the sentence
-"If I fly crosswind with a RAM-air canopy, the inclination of the flight path in relation
-to the horizon is
-"
+"If I fly crosswind with a RAM-air canopy, the inclination of the flight path in relation to the horizon is
 (No picture)
 a) shallower than with zero wind.
 b) steeper than with zero wind.
@@ -610,29 +609,29 @@ Question No 57
 What flight behaviour does a high-speed flight profile show during a normal landing with 3-5 m/s wind?
 (No picture)
 a) The canopy maintains its speed and touches down.
-b)The canopy remains at its glide angle, but the airspeed is decelerated by the flare.
+b) The canopy remains at its glide angle, but the airspeed is decelerated by the flare.
 c) The canopy merges into a flatter trajectory and planes out parallel to the ground during the flare.
 d) The canopy glides out and sets the parachutist down on the ground when reaching its stall.
-Correct answer: c
+Correct answer: e
 Aerodynamics
 Question No 58
 What flight behaviour does a slow-speed flight profile show during a normal landing with 3-5 m/s wind?
 (No picture)
 a) The canopy maintains its speed and touches down.
 b) The canopy retains its glide angle, but the airspeed is decelerated by the flare.
-c)The canopy merges into a flatter trajectory and planes out parallel to the ground during the flare.
+c) The canopy merges into a flatter trajectory and planes out parallel to the ground during the flare.
 d) The canopy glides out and sets the parachutist down on the ground when it reaches a stall.
 Correct answer: b
-10/99Deutscher Fallschirmsportverband (DFV) e.V.
+10/99
+"Deutscher Fallschirmsportverband (DFV) e.V.
 Member of Deutscher Aero-Club (DAeC) .V.
-DFv
 Questionbank with Answers for students and instructors
 Aerodynamics
 Question No 59
 Why shouldn't a canopy be braked abruptly to land?
 (No picture)
 a) Abrupt braking will swing the parachutist very far forward.
-b) In addition to braking it will increase the angle of attack of the canopy by swinging the parachutist strongly
+b) In addition to braking it will increase the angle of attack of the canopy by swinging the parachutist strongly forward.
 c) The canopy could be dynamically stalled although it is not fully braked.
 d) All of the above.
 Correct answer: d
@@ -642,9 +641,9 @@ Which flight behaviour and effect does a RAM-air canopy show when it is overbake
 (No picture)
 a) The stall may induce a fall backwards hitting the ground, injuring the parachutist badly.
 b) A stall with its consequences is basically the goal of every landing flare.
-c) Over-braking for landing is impossible due to the proximity of the ground and the associated ground effect.
+c) Over-braking for landing is impossible due to the proximity of the ground and the associated ground effect. There is
 therefore no impact.
-d) The overbraking ends in a absolute flare, which causes the canopy to climb again in relation to the ground
+d) The overbraking ends in a absolute flare, which causes the canopy to climb again in relation to the ground (as with the
 pros in swoop).
 Correct answer: a
 Aerodynamics
@@ -653,10 +652,10 @@ How do you fly a controlled turn with a square parachute?
 (No picture)
 a) Pulling down a steering line to the stop on one side.
 b) Pull parallel on both steering lines from full speed, then quickly let the opposite steering line up again.
-c) Look in the direction of the turn, lean your body in that direction and pull the steering line down smoothly an
-d) The speed of the turn depends on the speed at which the steering line is pulled, not how far. Therefore, pu
+c) Look in the direction of the turn, lean your body in that direction and pull the steering line down smoothly and firmly.
+d) The speed of the turn depends on the speed at which the steering line is pulled, not how far. Therefore, pulling the
 steering line quickly will result in a fast turn.
-Correct answer: c
+Correct answer: e
 Aerodynamics
 Question No 62
 What is the flight behaviour of RAM-air canopies during fast turns?
@@ -679,18 +678,18 @@ b) A 7-cell 240 sqft canopy.
 c) A round reserve canopy.
 d) A relatively large F-111 fabric canopy.
 Correct answer: a
-11/99Deutscher Fallschirmsportverband (DFV) e.V.
+11/99
+DFvDeutscher Fallschirmsportverband (DFV) e.V.
 Member of Deutscher Aero-Club (DAeC) e.V.
-DFv
 Questionbank with Answers for students and instructors
 Aerodynamics
 Question No 64
 Why are hook turns more dangerous than normal landings when landing?
 (No picture)
-a) The turn dynamics result in a trajectory in relation to the ground that can only be controlled with a great dea
+a) The turn dynamics result in a trajectory in relation to the ground that can only be controlled with a great deal of
 experience and feeling.
 b) This extreme flight manoeuvre can lead to serious landing accidents.
-c) The flight and descent rates increase to such an extent that there is no scope for adjustments in case of fal
+c) The flight and descent rates increase to such an extent that there is no scope for adjustments in case of false
 assessment.
 d) All of the above.
 Correct answer: d
@@ -701,7 +700,7 @@ What do I have to consider when doing a hook turn?
 a) Hook turns may only be flown after obtaining one's licence.
 b) A hook turn can only be flown with a fast canopy.
 c) Every parachutist should be capable of doing a hook turn, to make the sport look impressive to spectators
-d) I lose a lot of height during a hook turn and therefore could easily misjudge the situation which can lead to
+d) I lose a lot of height during a hook turn and therefore could easily misjudge the situation which can lead to serious
 injuries or death.
 Correct answer: d
 Aerodynamics
@@ -717,10 +716,10 @@ Aerodynamics
 Question No 67
 What is meant by sashaying when flying with RAM-air canopies and how are these executed?
 1) Flying a flight path that describes a figure 8 relative to the ground.
-2) A flight manoeuvre where the parachutist always returns to the same position above ground and which is g
+2) A flight manoeuvre where the parachutist always returns to the same position above ground and which is generally
 used for altitude reduction.
-3) When the final approach on headwind is to high, this flight manoeuvre is used to land closer to the landing
-4) Sashays shall be carried out in the final approach to keep the landing target in sight. They should be flown
+3) When the final approach on headwind is to high, this flight manoeuvre is used to land closer to the landing area.
+4) Sashays shall be carried out in the final approach to keep the landing target in sight. They should be flown gently and
 controlled so that there is no danger of a collision with other parachutists.
 (No picture)
 a) Answer 1 is correct.
@@ -737,9 +736,9 @@ b) For turning near the ground, if the loss of altitude is safe and acceptable.
 c) For sashaying in order to reduce altitude if the final approach is set too high.
 d) All of the above.
 Correct answer: d
-12/99Deutscher Fallschirmsportverband (DFV) e.V.
+12/99
+DFvDeutscher Fallschirmsportverband (DFV) e.V.
 Member of Deutscher Aero-Club (DAeC) e.V.
-DFV
 Questionbank with Answers for students and instructors
 Aerodynamics
 Question No 69
@@ -748,30 +747,30 @@ How do you generally fly slow turns with a canopy?
 a) By small control inputs in the relevant direction.
 b) Always use the rear risers.
 c) With the front risers and the steering lines released.
-d) Loosen the opposite leg strap during flight in order to fly the canopy into a gentle curve through shifting we
+d) Loosen the opposite leg strap during flight in order to fly the canopy into a gentle curve through shifting weight.
 Correct answer: a
 Aerodynamics
 Question No 70
 How do you fly flat turns with a RAM-air canopy with only a little loss of altitude?
 (No picture)
 a) Not possible.
-b) The canopy is braked (approx. 50-75%) in order to fly the desired rotation indirectly by gently raising the op
+b) The canopy is braked (approx. 50-75%) in order to fly the desired rotation indirectly by gently raising the opposite
 steering line after braking.
-c) Rotations with little loss of altitude are not sensible, because the dynamic pressure decreases so much tha
+c) Rotations with little loss of altitude are not sensible, because the dynamic pressure decreases so much that the canopy
 collapses.
 d) For turns with little loss of altitude you need a slow flight profile.
 Correct answer: b
 Aerodynamics
 Question No 71
-Which wind direction has the longest range and is most flexible for flying a RAM-air parachute in relation to th
+Which wind direction has the longest range and is most flexible for flying a RAM-air parachute in relation to the landing
 point?
 (No picture)
 a) Crosswind
 b) The wind axis cannot be taken into account for the canopy flight as it cannot be seen.
-c) The wind axis which will allow you to fly your planned landing pattern consisting of a crosswind base leg an
+c) The wind axis which will allow you to fly your planned landing pattern consisting of a crosswind base leg and final
 turn into wind.
-d) Always position yourself on the wind axis so that the landing point is in front of you during the entire canopy
-Correct answer: c
+d) Always position yourself on the wind axis so that the landing point is in front of you during the entire canopy flight.
+Correct answer: e
 Aerodynamics
 Question No 72
 What should be considered under canopy with a crosswind?
@@ -796,15 +795,15 @@ If the steering lines are broken, a RAM-air canopy can also be steered with the 
 What needs to be considered?
 (No picture)
 a) You can quickly stall a canopy when braking.
-b) The risers do not need to be pulled as far as brake line do to initiate a turn or to flare because of the bigger
+b) The risers do not need to be pulled as far as brake line do to initiate a turn or to flare because of the bigger change in
 canopy shape.
-c) The flight behaviour is very abrupt, for landing with the risers it is therefore advisable to do a parachute lan
+c) The flight behaviour is very abrupt, for landing with the risers it is therefore advisable to do a parachute landing fall
 (PLF) for your own safety.
 d) All of the above.
 Correct answer: d
-13/99Deutscher Fallschirmsportverband (DFV) e.V.
+13/99
+DFVDeutscher Fallschirmsportverband (DFV) e.V.
 Member of Deutscher Aero-Club (DAeC) e.V.
-DFV
 Questionbank with Answers for students and instructors
 Aerodynamics
 Question No 75
@@ -820,8 +819,8 @@ Question No 76
 What is the effect of steering or braking with the risers?
 1) the angle of incidence specified by the manufacturer is changed.
 2) the trim during the steering manoeuvre is changed. Not all canopy types will remain stable in flight.
-3) there is a risk of one-sided overloading of the individual cells because only the weight bearing cell walls are
-4) You change the shape of the canopy from that intended by the manufacturer. This can have a very aggres
+3) there is a risk of one-sided overloading of the individual cells because only the weight bearing cell walls are affected
+4) You change the shape of the canopy from that intended by the manufacturer. This can have a very aggressive effect on
 the flight behaviour.
 (No picture)
 a) Answers 1, 2 and 4 are correct.
@@ -835,7 +834,7 @@ Which statement is correct in relation to RAM-air canopies?
 (No picture)
 a) Gravity is the predominant force acting on the canopy, acting on the mass of the parachutist.
 b) The weight is transferred to the canopy by the angle of attack. Thereby the canopy starts to glide.
-c) By gliding, the canopy creates the airflow that produces dynamic pressure. The value of the dynamic press
+c) By gliding, the canopy creates the airflow that produces dynamic pressure. The value of the dynamic pressure must
 always be higher than the weight of the parachutist.
 d) All of the above.
 Correct answer: a
@@ -843,11 +842,11 @@ Aerodynamics
 Question No 78
 Which statement regarding the opening behaviour of canopies is correct?
 (No picture)
-a) The opening shock is a little harder without a slider, but also faster. This fact is useful for reserve canopies
+a) The opening shock is a little harder without a slider, but also faster. This fact is useful for reserve canopies leading to
 their very short opening distance.
 b) It takes time and therefore altitude to fill canopies with sufficient air as they open.
 c) The deployment distance of a canopy is always the same regardless of how it is packed.
-d) The minimum deployment height of a main canopy above ground is calculated by adding the deployment d
+d) The minimum deployment height of a main canopy above ground is calculated by adding the deployment distances of
 the main and reserve canopies.
 Correct answer: b
 Aerodynamics
@@ -859,52 +858,52 @@ b) In turbulent conditions, a canopy in full flight is most stable.
 c) In air traffic, I have to be constantly aware of my position, where I want to go and where others are.
 d) All of the above.
 Correct answer: d
-14/99Deutscher Fallschirmsportverband (DFV) e.V.
+14/99
+DFVDeutscher Fallschirmsportverband (DFV) e.V.
 Member of Deutscher Aero-Club (DAeC) e.V.
-DFv
 Questionbank with Answers for students and instructors
 Aerodynamics
 Question No 80
 Which statement is correct regarding landing?
 (No picture)
-a) Everyone always lands in the same direction. That's why it's completely safe for many people to land paral
+a) Everyone always lands in the same direction. That's why it's completely safe for many people to land parallel, side by
 side and close together
 b) Obstacles and danger areas must not deter me from my final approach direction.
-c) Many parachutists land simultaneously in the landing area. Therefore, the air traffic there is often very dens
+c) Many parachutists land simultaneously in the landing area. Therefore, the air traffic there is often very dense and
 dangerous if not navigated with care.
-d) You don't have to pay attention to landing parachutist after your own landing, because they have a better v
+d) You don't have to pay attention to landing parachutist after your own landing, because they have a better view from
 the air anyway and will avoid you.
 Correct answer: c
 Aerodynamics
 Question No 81
 Which statement regarding planning of the landing approach is correct?
 (No picture)
-a) It is better to turn to a suitable alternate landing area at an early stage than to get into difficulties by continu
+a) It is better to turn to a suitable alternate landing area at an early stage than to get into difficulties by continuing the
 planned landing approach (e.g. due to obstacles, low turns at the last moment, canopy collision, etc.).
-b) Despite air traffic, I correct my final approach to my pre-planned direction, since priority in the air is given o
+b) Despite air traffic, I correct my final approach to my pre-planned direction, since priority in the air is given on the
 principle of completed manoeuvres.
-c) I always try to be the lowest canopy, because then I have the whole airspace for myself and don need to ge
-d) I always try to reach the landing area by all possible means (e.g. hook-turn, cutting away or ignoring wind),
+c) I always try to be the lowest canopy, because then I have the whole airspace for myself and don need to get in order.
+d) I always try to reach the landing area by all possible means (e.g. hook-turn, cutting away or ignoring wind), because
 otherwise I attract negative attention and am criticized.
 Correct answer: a
 Aerodynamics
 Question No 82
 Which statement is correct for the open, airworthy canopy?
 (No picture)
-a) A canopy should fly normally after its full opening. I can determine whether this is the case visually and with
+a) A canopy should fly normally after its full opening. I can determine whether this is the case visually and with a control
 and brake checks.
-b) A canopy will not change its shape without my intervention (turning, stalling or collapsing). If it does, I have
+b) A canopy will not change its shape without my intervention (turning, stalling or collapsing). If it does, I have either a
 nuisance factor or malfunction
 c) imprudent steering can endanger me and others significantly.
 d) All of the above.
 Correct answer: d
-15/99Deutscher Fallschirmsportverband (DFV) e.V.
+15/99
+DFvDeutscher Fallschirmsportverband (DFV) e.V.
 Member of Deutscher Aero-Club (DAeC) e.V.
-DFv
 Questionbank with Answers for students and instructors
 Freefall
 Question No 1
-Two forces affect the vertical fall of a parachutist. What is the name of the force acting towards the centre of t
+Two forces affect the vertical fall of a parachutist. What is the name of the force acting towards the centre of the earth?
 (No picture)
 a) Buoyancy.
 b) Gravity.
@@ -938,7 +937,7 @@ a) not altered.
 b) twice the size.
 c) smaller.
 d) greater.
-Correct answer: c
+Correct answer: e
 Freefall
 Question No 5
 Which statement is correct?
@@ -957,7 +956,8 @@ The airflow applies a force to the presented surface. Which statement is correct
 c) If the force application point of the airflow is level with the centre of gravity, it does not affect the position.
 d) All of the above.
 Correct answer: d
-16/99Deutscher Fallschirmsportverband (DFV) e.V.
+16/99
+DFvDeutscher Fallschirmsportverband (DFV) e.V.
 Member of Deutscher Aero-Club (DAeC) e.V.
 Questionbank with Answers for students and instructors
 Freefall
@@ -986,7 +986,7 @@ a) Stable.
 b) Indifferent.
 c) Unsteady.
 d) Uneven.
-Correct answer: c
+Correct answer: e
 Freefall
 Question No 10
 When is a body position described as unsteady or unstable?
@@ -995,7 +995,7 @@ a) When you no longer lie on your belly.
 b) In the head-down position.
 c) When the flight attitude is not controlled.
 d) While skysurfing and freestyle.
-Correct answer: c
+Correct answer: e
 Freefall
 Question No 11
 Which statement is correct?
@@ -1014,11 +1014,10 @@ a) when drag becomes greater than gravity
 b) when drag and lift are equal
 c) the aerodynamic force and weight force are equal
 d) buoyancy compensates for gravity
-Correct answer: c
+Correct answer: e
 17/99
 DFVDeutscher Fallschirmsportverband (DFV) e.V.
 Member of Deutscher Aero-Club (DAeC) e.V.
-DFV
 Questionbank with Answers for students and instructors
 Freefall
 Question No 13
@@ -1046,7 +1045,7 @@ a) 100 km/h
 b) 150 km/h
 c) 180 km/h
 d) 270 km/h
-Correct answer: c
+Correct answer: e
 Freefall
 Question No 16
 In air layers near the earth, the average vertical velocity in a track is
@@ -1078,9 +1077,9 @@ b) Only answer 4 is correct.
 c) Answers 1 and 3 are correct.
 d) Answers 1, 3 and 4 are correct.
 Correct answer: d
-18/99Deutscher Fallschirmsportverband (DFV) e.V.
+18/99
+DFVDeutscher Fallschirmsportverband (DFV) e.V.
 Member of Deutscher Aero-Club (DAeC) e.V.
-DFV
 Questionbank with Answers for students and instructors
 Freefall
 Question No 19
@@ -1118,7 +1117,7 @@ a) longitudinal, lateral and vertical axes.
 b) Lateral, vertical and tilting axis.
 c) longitudinal, transverse and vertical axes.
 d) longitudinal, tilting and diagonal axes.
-Correct answer: c
+Correct answer: e
 Freefall
 Question No 23
 A barrel roll is a movement around the:
@@ -1136,10 +1135,10 @@ a) longitudinal axis.
 b) vertical axis.
 c) transverse axis.
 d) diagonal axis.
-Correct answer: c
-19/99Deutscher Fallschirmsportverband (DFV) e.V.
+Correct answer: e
+19/99
+DFVDeutscher Fallschirmsportverband (DFV) e.V.
 Member of Deutscher Aero-Club (DAeC) e.V.
-DFV
 Questionbank with Answers for students and instructors
 Freefall
 Question No 25
@@ -1171,11 +1170,11 @@ Correct answer: d
 Freefall
 Question No 28
 Which statement on "relative wind" is correct?
-1) The wind change from the front to the bottom, which naturally results from the jump from an airplane, is ca
+1) The wind change from the front to the bottom, which naturally results from the jump from an airplane, is called
 relative wind (own perspective).
-2) The overlap of the decrease of forward directional inertia after leaving the aircraft and the increase in down
+2) The overlap of the decrease of forward directional inertia after leaving the aircraft and the increase in downward
 gravitational acceleration (perspective of an outside observer).
-3) "Hill" of aerodynamic force, which results for a short time after the jump from an airplane to the back and do
+3) "Hill" of aerodynamic force, which results for a short time after the jump from an airplane to the back and downwards
 (perspective of dispatcher to the parachutist or from the parachutist to the dispatcher).
 4) There is no relative wind during balloon jumps
 (No picture)
@@ -1194,9 +1193,9 @@ circumstances.
 c) Determining the loading order for boarding the aeroplane.
 d) All of the above.
 Correct answer: d
-20/99Deutscher Fallschirmsportverband (DFV) e.V.
+20/99
+DFVDeutscher Fallschirmsportverband (DFV) e.V.
 Member of Deutscher Aero-Club (DAeC) e.V.
-DFV
 Questionbank with Answers for students and instructors
 Free fall
 Question No 30
@@ -1210,12 +1209,12 @@ Correct answer: a
 Free fall
 Question No 31
 How do I determine the spot for exiting the aircraft?
-1) Calculate the free fall drift and the canopy drift. The values are then added together to obtain the total drift
+1) Calculate the free fall drift and the canopy drift. The values are then added together to obtain the total drift distance
 and thus the distance from the planned landing point to the exit point.
-2) The ground and altitude winds are used to determine the direction in which the exit point is located relative
+2) The ground and altitude winds are used to determine the direction in which the exit point is located relative to the
 planned landing point.
 3) The exit point for jumps with little or no free fall can be determined with a wind drift indicator (WDI).
-4) Since a canopy flies forward, I don't need to take drift into account when determining the exit point, as I can
+4) Since a canopy flies forward, I don't need to take drift into account when determining the exit point, as I can fly from
 any position to where I want to go.
 (No picture)
 a) Answers 1, 2 and 3 are correct.
@@ -1229,9 +1228,9 @@ List the factors that are crucial for determining the start and end of a run-in 
 (No picture)
 a) the height of exit, the strength and direction of the wind and the approval from Air Traffic Control (ATC).
 b) Wind speed, size of the group, exit order.
-c) Exit altitude, number of groups, wind speed and direction, airspeed of the plane above ground level, cleara
+c) Exit altitude, number of groups, wind speed and direction, airspeed of the plane above ground level, clearance to drop.
 d) number of exits and wind speed.
-Correct answer: c
+Correct answer: e
 Freefall
 Question No 33
 What is to be considered if the run-in is downwind?
@@ -1245,18 +1244,18 @@ Freefall
 Question No 34
 If you are in freefall, different flight manoeuvres are possible. Which statement is correct?
 (No picture)
-a) One can get oneself into any imaginable position in the air flow and fall with full body control. For example,
+a) One can get oneself into any imaginable position in the air flow and fall with full body control. For example, in a
 sitting, standing, position, lying on one's side, in a headstand and on the belly.
-b) The body surfaces inclined to the airflow deflect the airflow and cause a movement about one or more axe
+b) The body surfaces inclined to the airflow deflect the airflow and cause a movement about one or more axes
 simultaneously or lead to movements through the air. These movements can be consciously controlled by the
 parachutist.
-c) Due to a lack of control of the body in the air flow, extreme spinning movements and rollovers can occur, w
+c) Due to a lack of control of the body in the air flow, extreme spinning movements and rollovers can occur, which are
 harmful and dangerous in their effects.
 d) All of the above.
 Correct answer: d
-21/99Deutscher Fallschirmsportverband (DFV) e.V.
+21/99
+DFVDeutscher Fallschirmsportverband (DFV) e.V.
 Member of Deutscher Aero-Club (DAeC) e.V.
-DFV
 Questionbank with Answers for students and instructors
 Freefall
 Question No 35
@@ -1266,7 +1265,7 @@ a) bending the legs.
 b) Stretching the arms forward.
 c) Straightening the legs and taking back the arms.
 d) Take up a slow-fall position.
-Correct answer: c
+Correct answer: e
 Freefall
 Question No 36
 How is a backloop initiated from the box position?
@@ -1305,36 +1304,36 @@ d) Create symmetry by arching and bending the legs.
 Correct answer: b
 Freefall
 Question No 40
-Why do you go back to a controlled box position to pull your pilot chute after different freefall manoeuvres in o
+Why do you go back to a controlled box position to pull your pilot chute after different freefall manoeuvres in one jump?
 (No picture)
 a) The return to the box position is not necessary with sufficient separation from other parachutists.
-b) The box position is the best position for pulling the pilot chute, with an appropriate fallrate and thus air spee
+b) The box position is the best position for pulling the pilot chute, with an appropriate fallrate and thus air speed.
 However, the 5 sec rule for special circumstances remains the overriding emergency procedure.
 c) This question is misleading because pulling in headdown is also reasonable.
 d) Today's equipment allows pulling at any time, so as a rule I don't have to bother with the box position.
 Correct answer: b
-22/99Deutscher Fallschirmsportverband (DFV) e.V.
+22/99
+DFVDeutscher Fallschirmsportverband (DFV) e.V.
 Member of Deutscher Aero-Club (DAeC) e.V.
-DFv
 Questionbank with Answers for students and instructors
 Freefall
 Question No 41
-To master different freefall manoeuvres you need a lot of time and practice in freefall. Which statement is corr
+To master different freefall manoeuvres you need a lot of time and practice in freefall. Which statement is correct?
 (No picture)
 a) You can try all things as long as you open the parachute in time.
-b) You don't have to pay attention to anything else in the different freefall disciplines apart from not mixing the
+b) You don't have to pay attention to anything else in the different freefall disciplines apart from not mixing them in
 freefall.
-c) One should slowly approach the basics of the individual disciplines and not try anything new without instruc
-d) Independent learning of a new discipline without adequate instruction does not hold any potential danger fo
+c) One should slowly approach the basics of the individual disciplines and not try anything new without instruction.
+d) Independent learning of a new discipline without adequate instruction does not hold any potential danger for oneself
 or others.
-Correct answer: c
+Correct answer: e
 Freefall
 Question No 42
 What is meant by proof of ability in the context of the skydiving training manual?
 (No picture)
 a) Someone is familiar with a parachute or freefall discipline and knows it well.
 b) Proof of ability means to be able to do something specific.
-c) In skydiving, proofs of ability for the different disciplines are there to promote safety and to reduce danger t
+c) In skydiving, proofs of ability for the different disciplines are there to promote safety and to reduce danger to others
 due to lack of knowledge and ability.
 d) All of the above.
 Correct answer: d
@@ -1347,7 +1346,7 @@ a) 10 sec for the first 500 m freefall distance, then 1 sec for each 30 m.
 b) 20 sec per 1,000 m freefall distance.
 c) 10 sec for the first 300 m freefall distance, then 1 sec for each 50 m.
 d) 2 sec for the first 100 m freefall distance, then 1 sec each 50 m.
-Correct answer: c
+Correct answer: e
 Freefall
 Question No 44
 What is the average speed (terminal velocity) of freeflying, freestyle and sitfly?
@@ -1376,9 +1375,9 @@ b) 24 seconds.
 c) 28 seconds.
 d) 32 seconds.
 Correct answer: b
-23/99Deutscher Fallschirmsportverband (DFV) e.V.
+23/99
+DFvDeutscher Fallschirmsportverband (DFV) e.V.
 Member of Deutscher Aero-Club (DAeC) e.V.
-DFV
 Questionbank with Answers for students and instructors
 Free fall
 Question No 47
@@ -1409,7 +1408,7 @@ d) 1 000 m.
 Correct answer: b
 Freefall
 Question No 50
-For a jump from 1,500m/AGL, the delay time is 14 seconds. How many meters above ground is the deployme
+For a jump from 1,500m/AGL, the delay time is 14 seconds. How many meters above ground is the deployment height?
 (No picture)
 a) approx. 900 mAGL.
 b) approx. 1,000 m AGL.
@@ -1424,7 +1423,7 @@ a) 25-30 seconds.
 b) 35-40 seconds.
 c) 45-50 seconds.
 d) 60 seconds.
-Correct answer: c
+Correct answer: e
 Freefall
 Question No 52
 How can you determine your height above ground in freefall?
@@ -1433,10 +1432,10 @@ a) audible altimeter.
 b) triangulation.
 c) visual altimeter.
 d) look at the clock and read the time.
-Correct answer: c
-24/99Deutscher Fallschirmsportverband (DFV) e.V.
+Correct answer: e
+24/99
+DFVDeutscher Fallschirmsportverband (DFV) e.V.
 Member of Deutscher Aero-Club (DAeC) e.V.
-DFV
 Questionbank with Answers for students and instructors
 Freefall
 Question No 53
@@ -1444,7 +1443,7 @@ What are the special features of an altimeter for parachutists?
 (No picture)
 a) The display is based on the comparison of air pressure values.
 b) It reacts to changes in air pressure.
-c) In leeward or windward areas of the body, the indications of the altimeter may be different from the actual a
+c) In leeward or windward areas of the body, the indications of the altimeter may be different from the actual air
 pressure.
 d) All of the above.
 Correct answer: d
@@ -1474,7 +1473,7 @@ a) 5,000 ft.
 b) 7,508 ft.
 c) 8,250 ft.
 d) 9,806 ft.
-Correct answer: c
+Correct answer: e
 Freefall
 Question No 57
 5 m/s are exactly
@@ -1493,7 +1492,9 @@ b) 5,249 ft.
 c) 426 ft.
 d) 4,265 ft.
 Correct answer: d
-25/99Deutscher Fallschirmsportverband (DFV) e.V.
+25/99
+DFVDFV
+Deutscher Fallschirmsportverband (DFV) e.V.
 Member of Deutscher Aero-Club (DAeC) e.V.
 Questionbank with Answers for students and instructors
 Freefall
@@ -1504,7 +1505,7 @@ a) m = ft - 10 %
 b) m = ft / 3 + 10 %
 c) m = ft /3 10 %
 d) m = ft x3 10%
-Correct answer: c
+Correct answer: e
 Freefall
 Question No 60
 Which rule of thumb is used to convert m to ft?
@@ -1522,7 +1523,7 @@ a) m/s = kt
 b) m/s = kt 10 x 5
 c) m/s = kt / 2
 d) m/s = kt x 2
-Correct answer: c
+Correct answer: e
 Freefall
 Question No 62
 The depicted posture is called:
@@ -1531,11 +1532,12 @@ a) X-position.
 b) Box position.
 c) Slow-fall position.
 d) Dive.
-Correct answer: c
+Correct answer: e
 Freefall
 Question No 63
 The depicted posture with an arch is called:
 (Image: ff_063.jpg)
++
 a) X-position.
 b) Box position.
 c) Style tuck.
@@ -1550,9 +1552,7 @@ b) Box position.
 c) Slow-fall.
 d) Tracking.
 Correct answer: b
-26/99
-+
-DFVDFv
+26/99DFv
 Deutscher Fallschirmsportverband (DFV) e.V.
 Member of Deutscher Aero-Club (DAeC) e.V.
 Questionbank with Answers for students and instructors
@@ -1568,18 +1568,21 @@ d) Tracking.
 Correct answer: d
 Freefall
 A)
+B)
 Question No 66
 In which posture does the parachutist experience the least drag?
 (Image: ff_066.jpg)
 a)
 and
-b)
 C)
+b)
+D)
 c)
 d)
 Correct answer: d
 Freefall
 A:
+B)
 Question No 67
 In which position is the greatest freefall speed reached?
 (Image: ff_067.jpg)
@@ -1618,12 +1621,9 @@ c) Dive.
 d) Tracking.
 Correct answer: b
 27/99
-B)
-D)
-B)
-D)Deutscher Fallschirmsportverband (DFV) e.V.
+D)DFV
+Deutscher Fallschirmsportverband (DFV) e.V.
 Member of Deutscher Aero-Club (DAeC) e. .V.
-DFV
 Questionbank with Answers for students and instructors
 Freefall
 Question No 71
@@ -1664,7 +1664,7 @@ d) light and small.
 Correct answer: c
 Freefall
 Question No 75
-In which body position can a person fall in a controlled and very fast manner, but cover very little horizontal di
+In which body position can a person fall in a controlled and very fast manner, but cover very little horizontal distance?
 (No picture)
 a) in a stable lateral position.
 b) in a dive.
@@ -1673,28 +1673,27 @@ d) in the box position with legs straight.
 Correct answer: b
 Freefall
 Question No 76
-In which body position does the parachutist cover the greatest horizontal distance with as little loss of height a
+In which body position does the parachutist cover the greatest horizontal distance with as little loss of height as possible?
 (No picture)
 a) In the box position.
 b) In the slow-fall position.
 c) by tracking.
 d) by diving.
-Correct answer: c
-28/99Deutscher Fallschirmsportverband (DFV) e.V.
+Correct answer: e
+28/99DFv
+Deutscher Fallschirmsportverband (DFV) e.V.
 Member of Deutscher Aero-Club (DAeC) e.V.
-DFv
 Questionbank with Answers for students and instructors
 Freefall
 Question No 77
-Which of the freefall positions shown in the image have the least risk of rig failure or injury to the parachutist w
+Which of the freefall positions shown in the image have the least risk of rig failure or injury to the parachutist when the
 canopy is opened?
 (Picture: ff_077.jpg)
 A)
 B)
-D)
 a)
-C)
 b)
+C)
 c)
 d)
 Correct answer: b
@@ -1724,14 +1723,14 @@ a) keep the distance to the landing site as short as possible.
 b) extend the free fall.
 c) to adequately separate from other parachutists before opening the parachute
 d) be able to compete with lighter parachutists.
-Correct answer: c
+Correct answer: e
 Freefall
 Question No 81
 How much distance should you keep from other parachutists when exiting?
 (No picture)
 a) 20 to 30 seconds, depending on wind speed and altitude.
 b) as many seconds as necessary until you can no longer see the previous parachutist.
-c) The distance depends on the airspeed of the airplane above ground, the number of parachutists of the prev
+c) The distance depends on the airspeed of the airplane above ground, the number of parachutists of the previous group
 and the planned jumps.
 d) The distance between the individual exits does not play a role as such.
 Correct answer: c
@@ -1744,9 +1743,9 @@ b) videoed.
 c) in the morning, as the concentration levels are higher then
 d) with other beginners.
 Correct answer: a
-29/99Deutscher Fallschirmsportverband (DFV) e.V.
+29/99
+D)Deutscher Fallschirmsportverband (DFV) e.V.
 Member of Deutscher Aero-Club (DAeC) e.V.
-DFV
 Questionbank with Answers for students and instructors
 Freefall
 Question No 83
@@ -1768,13 +1767,13 @@ d) Good separation before deploying should be ensured.
 Correct answer: d
 Freefall
 Question No 85
-Aparachutist arrives at a new-to-him dropzone with his new equipment and is asked by other parachutists to j
+A parachutist arrives at a new-to-him dropzone with his new equipment and is asked by other parachutists to jump in a 4
 way for the first jump. How does he behave correctly?
 (No picture)
 a) accept the offer without any objection
 b) He insists on a separation height of 1,200 metres.
 c) He insists on an exit height of 4,000 meters.
-d) He makes at least one solo jump first, as too many new challenges can quickly overwhelm him and expose
+d) He makes at least one solo jump first, as too many new challenges can quickly overwhelm him and expose him to
 unnecessary dangers.
 Correct answer: d
 Freefall
@@ -1785,12 +1784,12 @@ a) The toes shall always be pointed.
 b) You must bring a freefall cameraman with you.
 c) Fast rotations can lead to disorientation
 d) Between the each of the different attempts you have to return to the box position.
-Correct answer: c
+Correct answer: e
 Freefall
 Question No 87
 What should be considered in relation to the equipment for freestyle, skysurfing and freeflying?
 (No picture)
-a) The canopy system should be equipped with a BOC Throw- or Pull-Out and an automatic activation device
+a) The canopy system should be equipped with a BOC Throw- or Pull-Out and an automatic activation device. An
 audible altimeter must be worn. The surfboard must also be equipped with a suitable cut-away system.
 b) You can use any parachute system for freestyle, skysurfing or freeflying.
 c) The closing flaps of the main and reserve containers must have additional stitching.
@@ -1800,15 +1799,15 @@ Freefall
 Question No 88
 When can you start Wingsuit flinging?
 (No picture)
-a) Once you can fly certain bellyfly manoeuvres, have completed 200 jumps and received instruction from an
+a) Once you can fly certain bellyfly manoeuvres, have completed 200 jumps and received instruction from an approved
 wingsuit instructor.
 b) Once you can fly a "stand-up".
 c) When you trust yourself to do so.
 d) As soon as a suitable wingsuit is available for your individual needs.
 Correct answer: a
-30/99Deutscher Fallschirmsportverband (DFV) e.V.
+30/99
+DFVDeutscher Fallschirmsportverband (DFV) e.V.
 Member of Deutscher Aero-Club (DAeC) e.V.
-DFV
 Questionbank with Answers for students and instructors
 Freefall
 Question No 89
@@ -1821,29 +1820,29 @@ d) Possible height turbulence could result in an unstable situation.
 Correct answer: a
 Freefall
 Question No 90
-What should a parachutist with a helmet camera pay attention to from take-off up to 300m/AGL (and possibly
+What should a parachutist with a helmet camera pay attention to from take-off up to 300m/AGL (and possibly landing
 from 300m/AGL)
 (No picture)
 a) the battery is full.
 b) the lens cover is no longer on the lens.
 c) the helmet is worn as headgear.
 d) he has a good picture of his fellow jumpers.
-Correct answer: c
+Correct answer: e
 Freefall
 Question No 91
 What should I bear in mind during my first canopy formation jump?
 (No picture)
 a) The canopy should be a 9 cell.
 b) Only equipment with a spring-loaded pilot chute may be used.
-c) The jump should be made with an experienced canopy formation parachutist. A thorough briefing is necess
+c) The jump should be made with an experienced canopy formation parachutist. A thorough briefing is necessary in
 advance and the equipment must be suitable.
 d) The D-lines should be cascaded.
-Correct answer: c
+Correct answer: e
 Freefall
 Question No 92
 What should a skydiver consider before his first jump with a helmet camera?
 1) A camera suit with wings should be tried before without a camera.
-2)A detailed briefing by a competent person is necessary beforehand. A minimum jump experience of 100 jum
+2) A detailed briefing by a competent person is necessary beforehand. A minimum jump experience of 100 jumps is
 required.
 3) Only the PAL system may be used in Germany.
 4) The camera helmet should always sit firmly on the head and be cut-away for emergencies.
@@ -1858,22 +1857,22 @@ Question No 93
 Which statement regarding the parachuting disciplines is correct?
 (No picture)
 a) There is specific experience, expertise and equipment for each discipline.
-b) Each discipline requires very specific skills, which as a beginner I can't know and should therefore only lea
+b) Each discipline requires very specific skills, which as a beginner I can't know and should therefore only learn under
 guidance.
-c) It would be presumptuous to reject the opinions of experienced parachutists and try to learn from my own m
+c) It would be presumptuous to reject the opinions of experienced parachutists and try to learn from my own mistakes
 rather than repeat avoidable mistakes.
 d) All of the above.
 Correct answer: d
-31/99Deutscher Fallschirmsportverband (DFV) e.V.
+31/99
+DFVDeutscher Fallschirmsportverband (DFV) e.V.
 Member of Deutscher Aero-Club (DAeC) e.V.
-DFV
 Questionbank with Answers for students and instructors
 Freefall
 Question No 94
 How can I generally contribute to accident prevention and quality assurance in skydiving?
 (No picture)
-a) You don't need to be prepared for anything, because the relevant jump management takes care of everyth
-b) I plan the jump and jump the plan while always assessing my abilities correctly and only doing things that I
+a) You don't need to be prepared for anything, because the relevant jump management takes care of everything.
+b) I plan the jump and jump the plan while always assessing my abilities correctly and only doing things that I can
 anticipate.
 c) I live out all my freedoms without consideration because I am always safe with my equipment.
 d) Since I don't make mistakes, that doesn't apply to me.
@@ -1895,10 +1894,10 @@ What is the greatest danger after the normal deployment of the parachute?
 b) No ground visibility.
 (c) canopy collision.
 d) Forgot to turn on CYPRES.
-Correct answer: c
-32/99Deutscher Fallschirmsportverband (DFV) e.V.
+Correct answer: e
+32/99
+DFVDeutscher Fallschirmsportverband (DFV) e.V.
 Member of Deutscher Aero-Club (DAeC) e.V.
-DFV
 Questionbank with Answers for students and instructors
 Air traffic law
 Question No 1
@@ -1926,10 +1925,10 @@ a) sports equipment not covered by the Air Traffic Act.
 b) rescue equipment.
 c) aircraft not liable for registration.
 d) aircraft liable for registration.
-Correct answer: c
+Correct answer: e
 Air traffic law
 Question No 4
-What practical significance does it have for the parachutist that he is an airman within the meaning of the Air T
+What practical significance does it have for the parachutist that he is an airman within the meaning of the Air Traffic
 Act?
 (No picture)
 a) he may take part in all competitions.
@@ -1943,9 +1942,9 @@ Are parachute jumps allowed at a commercial airport?
 (No picture)
 a) No.
 b) Yes, with the agreement of the airport operator.
-c) Yes, if an authorisation and an air traffic control clearance have been granted by the relevant aeronautical
+c) Yes, if an authorisation and an air traffic control clearance have been granted by the relevant aeronautical authority.
 d) Yes, with the approval of the Air Traffic Control.
-Correct answer: c
+Correct answer: e
 Air traffic law
 Question No 6
 For the opening of a supermarket 4 parachutists are supposed to make a demo landing in the parking lot.
@@ -1956,30 +1955,30 @@ b) a summary offence.
 c) no infringement of existing laws.
 d) an indictable criminal offence.
 Correct answer: d
-33/99Deutscher Fallschirmsportverband (DFV) e.V.
+33/99
+DFVDeutscher Fallschirmsportverband (DFV) e.V.
 Member of Deutscher Aero-Club (DAeC) e.V.
-DFv
 Questionbank with Answers for students and instructors
 Air traffic law
 Question No 7
 Parachute jumps with water landing are possible when:
 (No picture)
-a) the owner of the water has given his consent and the authorised association has issued a demo landing pe
+a) the owner of the water has given his consent and the authorised association has issued a demo landing permit and an
 air traffic control clearance has been granted.
-b) the Water Police has given its approval and the Federal Agency for Air Navigation Services has granted a d
+b) the Water Police has given its approval and the Federal Agency for Air Navigation Services has granted a demo
 landing permit.
 c) the responsible association has given its approval and the federal aviation authority has given a permit.
-d) the person authorised to fish has no objections and the nature conservation authority has approved the pro
+d) the person authorised to fish has no objections and the nature conservation authority has approved the proposal.
 Correct answer: a
 Air traffic law
 Question No 8
 A skydiver has landed outside the airfield due to adverse circumstances. What is he obliged to do?
 (No picture)
 a) inform the Federal Aviation Authority without delay.
-b)retrospectively apply for a demo landing permit within 36 hours from the relevant aviation authority.
+b) retrospectively apply for a demo landing permit within 36 hours from the relevant aviation authority.
 c) provide the landowner, upon request, his name and address.
 d) inform the local police.
-Correct answer: c
+Correct answer: e
 Air traffic law
 Question No 9
 What reasons justify an offlanding without prior permission?
@@ -2009,16 +2008,16 @@ d) The pilot in command.
 Correct answer: d
 Air traffic law
 Question No 12
-A parachutist who jumps despite the prohibition of an air traffic controller and lands safely without endangerin
+A parachutist who jumps despite the prohibition of an air traffic controller and lands safely without endangering another:
 (No picture)
 a) infringes air traffic regulations.
 b) violates the Criminal Code.
 c) acted correctly, since the aviation authority may not issue such prohibitions.
 d) is exercising his rights under § 1 LuftVG (Air Traffic Act) (freedom of airspace).
 Correct answer: a
-34/99Deutscher Fallschirmsportverband (DFV) e.V.
+34/99
+DFvDeutscher Fallschirmsportverband (DFV) e.V.
 Member of Deutscher Aero-Club (DAeC) e.V.
-DFV
 Questionbank with Answers for students and instructors
 Air traffic law
 Question No 13
@@ -2042,12 +2041,12 @@ Air traffic law
 Question No 15
 Are parachute jumps from balloons permitted?
 (No picture)
-a) Yes, if the balloon is suitable and certified for parachute jumping, the parachutist has a demo landing perm
-landing site is an airfield approved for parachute jumping and an air traffic control clearance has been granted
-b) Yes, if the parachutist has a valid rating according to the Air Operators Regulation and has performed at le
+a) Yes, if the balloon is suitable and certified for parachute jumping, the parachutist has a demo landing permit, or the
+landing site is an airfield approved for parachute jumping and an air traffic control clearance has been granted.
+b) Yes, if the parachutist has a valid rating according to the Air Operators Regulation and has performed at least 500
 jumps.
 c) No, this is not permitted in the Federal Republic of Germany.
-d) Yes, if the parachutist is the holder of a Balloon Jump Permit and the balloonist has the right to drop parach
+d) Yes, if the parachutist is the holder of a Balloon Jump Permit and the balloonist has the right to drop parachutists.
 Correct answer: a
 Air traffic law
 Question No 16
@@ -2064,7 +2063,7 @@ Who grants the license for skydivers?
 (No picture)
 a) The Luftfahrt-Bundesamt.
 b) The Federal Agency for the Safety of Air Navigation.
-c) The aeronautical authority of the country in which the applicant is trained or has his principal place of reside
+c) The aeronautical authority of the country in which the applicant is trained or has his principal place of residence.
 d) The association authorized by the Federal Minister of Transport and Digital Infrastructure.
 Correct answer: d
 Air traffic law
@@ -2075,10 +2074,11 @@ a) 16 years.
 b) 15 years.
 c) 14 years.
 d) 18 years.
-Correct answer: c
-35/99Deutscher Fallschirmsportverband (DFV) e.V.
+Correct answer: e
+35/99
+DFVDFV
+Deutscher Fallschirmsportverband (DFV) e.V.
 Member of Deutscher Aero-Club (DAeC) e.V.
-DFV
 Questionbank with Answers for students and instructors
 Air traffic law
 Question No 19
@@ -2091,8 +2091,8 @@ d) For aviation events only.
 Correct answer: b
 Air traffic law
 Question No 20
-The requirement that each parachutist, as a participant in air traffic, shall conduct himself in such a way as to
-safety and pattern of air traffic and that no other person shall be endangered, harmed or more than is unavoid
+The requirement that each parachutist, as a participant in air traffic, shall conduct himself in such a way as to ensure the
+safety and pattern of air traffic and that no other person shall be endangered, harmed or more than is unavoidably
 impeded or harassed under the circumstances,
 (No picture)
 a) is a basic rule for behaviour in air transport.
@@ -2116,33 +2116,31 @@ A parachutist borrows a skydiving equipment. What should he pay attention to?
 a) The canopy colours should match his jump suit.
 b) There is nothing special to consider.
 c) A written rental agreement must be concluded beforehand.
-d) He/she must first ensure that the equipment is in a safe condition and that he/she is familiar with the equipm
+d) He/she must first ensure that the equipment is in a safe condition and that he/she is familiar with the equipment as part
 of the jump preparation, as well as ensuring that sufficient insurance cover in in place.
 Correct answer: d
 Air traffic law
 Question No 23
-A parachutist wants to make a cross-country flight of about 30 km to his airfield from 3.000m/AGL with his par
+A parachutist wants to make a cross-country flight of about 30 km to his airfield from 3.000m/AGL with his parachute.
 How and under what circumstances is this allowed?
 This is:
 (No picture)
-a) not permitted, as according to airfield permits jumps may only be made within 2 NM of the airfield reference
-b) possible if the landing takes place in the destination area (authorised airfield) and an
-air traffic control clear
-has
+a) not permitted, as according to airfield permits jumps may only be made within 2 NM of the airfield reference point.
+b) possible if the landing takes place in the destination area (authorised airfield) and an air traffic control clearance
 been issued for that purpose.
 c) possible in principle without conditions or obligations.
 d) possible if the parachute is equipped with appropriate navigation devices.
 Correct answer: b
-36/99Deutscher Fallschirmsportverband (DFV) e.V.
+36/99
+hasDeutscher Fallschirmsportverband (DFV) e.V.
 Member of Deutscher Aero-Club (DAeC) e.V.
-DFv
 Questionbank with Answers for students and instructors
 Air traffic law
 Question No 24
-In what situations does the owner have to immediately report an accident or a malfunction during the operatio
+In what situations does the owner have to immediately report an accident or a malfunction during the operation of a
 parachute (air sports equipment) in writing?
 (No picture)
-a) If it caused serious injury to a person, serious damage to the aircraft or damage to a third party in excess o
+a) If it caused serious injury to a person, serious damage to the aircraft or damage to a third party in excess of EUR 500
 b) If the malfunction was due to gross operator error
 c) If the malfunction involved an off landing.
 d) Any malfunction.
@@ -2155,20 +2153,20 @@ a) The Federal Minister of Transport and Digital Infrastructure.
 b) The relevant aviation authority in whose area the parachutist resides.
 c) The association authorized by the Federal Ministry of Transport and Digital Infrastructure
 d) The relevant aviation operation.
-Correct answer: c
+Correct answer: e
 Air traffic law
 Question No 26
 The ejection of objects from aircraft is prohibited. Does this also apply to wind drifter indicators?
 (No picture)
 a) Yes, because the wind drift indicator can get caught in the engine of an airplane, for example.
 b) No, because the wind drift indicator dissolves just before the ground.
-c) No, if a permit for dropping objects (according to air traffic regulations) has been obtained from the relevan
+c) No, if a permit for dropping objects (according to air traffic regulations) has been obtained from the relevant aviation
 authority.
-d) No, certain objects, including wind drift indicators, are excluded from this if there is no danger to persons o
+d) No, certain objects, including wind drift indicators, are excluded from this if there is no danger to persons or property.
 Correct answer: d
 Air traffic law
 Question No 27
-Two parachutists approach the landing point from exactly opposite directions. Which way should they steer to
+Two parachutists approach the landing point from exactly opposite directions. Which way should they steer to?
 (No picture)
 a) To the right.
 b) To the left.
@@ -2186,7 +2184,7 @@ d) Both to the right.
 Correct answer: d
 Air traffic law
 Question No 29
-A parachutist observes another parachutist coming from the left at almost the same height and crossing his fli
+A parachutist observes another parachutist coming from the left at almost the same height and crossing his flight path.
 Who has to give way?
 (No picture)
 (a) parachutists coming from the left.
@@ -2194,9 +2192,9 @@ Who has to give way?
 (c) parachutists with the higher descent rate.
 (d) parachutists with the lower descent rate.
 Correct answer: a
-37/99Deutscher Fallschirmsportverband (DFV) e.V.
+37/99
+DFvDeutscher Fallschirmsportverband (DFV) e.V.
 Member of Deutscher Aero-Club (DAeC) e.V.
-DFV
 Questionbank with Answers for students and instructors
 Air traffic law
 Question No 30
@@ -2218,7 +2216,7 @@ d) Air traffic control clearance from the relevant air traffic control unit.
 Correct answer: d
 Air traffic law
 Question No 32
-A parachutist wants to cross the runway after landing. An airplane approaches him on the runway. Who has p
+A parachutist wants to cross the runway after landing. An airplane approaches him on the runway. Who has priority?
 (No picture)
 a) The parachutist.
 b) Neither, both have to evade.
@@ -2249,40 +2247,38 @@ What are the visual flight rules in airspace E under Flight Level 100?
 (No picture)
 a) 8 km flight visibility, horizontal distance between clouds 300 m, vertical distance between clouds 500 ft.
 b) 5 km flight visibility, horizontal distance between clouds 1 km, vertical distance between clouds 1 000 ft.
-c) 8 km flight visibility, horizontal distance between clouds 1,5 km, vertical distance between clouds: clouds sh
+c) 8 km flight visibility, horizontal distance between clouds 1,5 km, vertical distance between clouds: clouds shall not be
 touched.
 d) 5 km flight visibility, horizontal cloud distance 1.5 km, vertical cloud distance 1,000 ft.
 Correct answer: d
-38/99Deutscher Fallschirmsportverband (DFV) e.V.
-Member of Deutscher Aero-Club (DAeC) e.V.
+38/99
+DFVDeutscher Fallschirmsportverband (DFV) e.V.
 D
+Member of Deutscher Aero-Club (DAeC) e.V.
 V
 Questionbank with Answers for students and instructors
 Air traffic law
 Question No 36
-The parachutist (X) left the plane at 1,500m/AGL and opened their canopy at 1,000m/AGL to land outside t
+The parachutist (X) left the plane at 1,500m/AGL and opened their canopy at 1,000m/AGL to land outside the control
 zone.
 Which visual flight conditions must prevail in the situation depicted?
 (Picture: lr_036.jpg)
-a) After the parachutist has come out of the clouds, he must have a clear sight of the ground in order to be
+a) After the parachutist has come out of the clouds, he must have a clear sight of the ground in order to be able to head
 for the target.
-b) Visual flight conditions for control zones must be present. Already from this height the parachutist must b
+b) Visual flight conditions for control zones must be present. Already from this height the parachutist must be able to
 recognize the windsock next to the target.
-c) The visual flight conditions for airspace E (flight visibility 5 km, cloud distance horizontal 1.5 km, cloud dis
+c) The visual flight conditions for airspace E (flight visibility 5 km, cloud distance horizontal 1.5 km, cloud distance
 vertical 300 m) must be given.
-d) There must be 8 km of ground visibility. The skydiver may want to land next to the control zone but may
+d) There must be 8 km of ground visibility. The skydiver may want to land next to the control zone but may still
 accidentally reach it.
 Correct answer: c
-Obergrenze
-teilweise
-FL 100
-Upper limit partly
-FL 100
+Obergrenze teilweise FL 100
+Upper limit partly FL 100
 1,5 km
+E
 1000 ft
 Freigabe erforderlich
 Clearance required
-E
 C
 as
 Flugbeschränkungs-
@@ -2290,45 +2286,42 @@ gebiet
 Restricted
 Area
 ED-R
-2500 GND
 =
+2500 GND
 km
 G
 1500 GND
 1000 GND
-Ostsee
-Baltic Sea
 Mil. Tiefflu
 Mill Low
 -
 t.m
-Freivon
-Wolken
-Clear
-cloudsof
 GND
 1000
-Frei
+1,5 km
 1000 GND
-Gvon
+Ostsee
+Baltic Sea
+Freivon
 Wolken
-Clear
-1,5
-km
-cloudsof
-CTR
-Hauptwolken-
+Clear of
+clouds
+Hauptwolken-CTR
 untergrenze
 Bodensicht
 Ceiling
 Erdsicht
-Ground
-visibility
+Ground visibility
 1500
-km Ground
-in sightDeutscher Fallschirmsportverband (DFV) e.V.
+km
+Ground
+in sight
+Frei von
+G
+Wolken
+Clear of
+cloudsDeutscher Fallschirmsportverband (DFV) e.V.
 Member of Deutscher Aero-Club (DAeC) e.V.
-DFv
 Questionbank with Answers for students and instructors
 Air traffic law
 Question No 37
@@ -2336,9 +2329,9 @@ Are parachutists allowed to leave the plane above a control zone in order to lan
 (Picture: lr_037.jpg)
 a) No.
 b) Yes, if the flight visibility is at least 1,5 km and they don't pass through clouds.
-c) Yes, if the appropriate air traffic control unit has given clearance and the visual flight conditions for airspac
+c) Yes, if the appropriate air traffic control unit has given clearance and the visual flight conditions for airspace E and
 airspace D are met.
-d) Yes, as clearance from the appropriate air traffic control unit is always required, visual flight rules, cloud ba
+d) Yes, as clearance from the appropriate air traffic control unit is always required, visual flight rules, cloud base and
 ground visibility may be ncglected.
 Correct answer: c
 - --
@@ -2348,10 +2341,10 @@ When jumping within airspace G the following conditions must be fulfilled:
 (No picture)
 a) Flight visibility of at least 1.5 km, no passing through cloud
 b) Ground visibility of at least 8 km, cloud base is at least 2,000 ft AGL.
-c) Ground visibility, flight visibility of at least 1.5 km, no passing through clouds, 5 km flight visibility above 3,0
+c) Ground visibility, flight visibility of at least 1.5 km, no passing through clouds, 5 km flight visibility above 3,000
 ft/MSL or 1,000 ft/AGL, horizontal cloud distance is 1.5 km, vertical cloud distance is 300 m.
 d) Flight visibility of at least 1,5 km, horizontal cloud distance 300 m, vertical cloud distance 2.000 ft.
-Correct answer: c
+Correct answer: e
 Air traffic law
 Question No 39
 What is the definition of night in air traffic regulations? The period between:
@@ -2369,14 +2362,14 @@ a) liable to prosecution.
 b) reckless, but not punishable.
 c) as a minimum contravening regulation, possibly punishable.
 d) negligent.
-Correct answer: c
-39/99Deutscher Fallschirmsportverband (DFV) e.V.
+Correct answer: e
+39/99
+DFvDeutscher Fallschirmsportverband (DFV) e.V.
 Member of Deutscher Aero-Club (DAeC) e.V.
-DFv
 Questionbank with Answers for students and instructors
 Air traffic law
 Question No 41
-Who is responsible for ensuring that the airspace under the skydiving aircraft is clear when an experienced gr
+Who is responsible for ensuring that the airspace under the skydiving aircraft is clear when an experienced group of
 parachutists jumps?
 (No picture)
 a) The pilot of the jump plane.
@@ -2411,10 +2404,10 @@ a) 12 months.
 b) 18 months.
 c) unlimited time.
 d) 36 months.
-Correct answer: c
+Correct answer: e
 Air traffic law
 Question No 45
-The holder of an unlimited license for parachutists may do solo jumps if before the planned jump he can demo
+The holder of an unlimited license for parachutists may do solo jumps if before the planned jump he can demonstrate
 that within the last 12 months he has completed at least :
 (No picture)
 a) 12 freefall jumps
@@ -2431,9 +2424,9 @@ b) Valid parachutist license and logbook
 c) airworthiness certificates and reserve pack certificates.
 d) All of the above.
 Correct answer: d
-40/99Deutscher Fallschirmsportverband (DFV) e.V.
+40/99
+DFvDeutscher Fallschirmsportverband (DFV) e.V.
 Member of Deutscher Aero-Club (DAeC) e.V.
-DFV
 Questionbank with Answers for students and instructors
 Air traffic law
 Question No 47
@@ -2455,7 +2448,7 @@ d) EUR 2 million.
 Correct answer: b
 Air traffic law
 Question No 49
-The necessary information for the proof of sufficient practical experience of parachutists are provided by extra
+The necessary information for the proof of sufficient practical experience of parachutists are provided by extracts from:
 (No picture)
 a) Flight manual
 b) Jumper's logbook
@@ -2488,15 +2481,15 @@ a) the time, location, height of the jump and registration of the aeroplane from
 b) date, jump location, jump time and take-off airfield.
 c) the date, location, height, type of the jump and registration of the aeroplane from which the jump took place
 d) the date, take-off airfield, exit height and type of the jump plane.
-Correct answer: c
-41/99Deutscher Fallschirmsportverband (DFV) e.V.
-Member of Deutscher Aero-Club (DAeC) e.V.
+Correct answer: e
+41/99
+DFVDeutscher Fallschirmsportverband (DFV) e.V.
 D
-V
+Member of Deutscher Aero-Club (DAeC) e.V.
 Questionbank with Answers for students and instructors
 Air traffic law
 Question No 53
-According to German aviation law, jump planes must be equipped with breathing apparatus and an adequate ox
+According to German aviation law, jump planes must be equipped with breathing apparatus and an adequate oxygen
 supply if which altitude is exceeded?
 (No picture)
 a) 3,000 m/MSL
@@ -2514,18 +2507,13 @@ b) uncontrolled airspace (airspace G).
 c) control zones, as he is in the immediate vicinity of a control zone (CTR).
 d) the low-flying military system.
 Correct answer: b
-Obergrenze
-teilweise
-FL 100
-Upper limit partly
-FL 100
+Obergrenze teilweise FL 100
+Upper limit partly FL 100
 1,5 km
-1000 ft
-Freigabe
-erforderlich
-Clearance
-required
 E
+1000 ft
+Freigabe erforderlich
+Clearance required
 C
 as
 Flugbeschränkungs
@@ -2537,37 +2525,36 @@ ED-R
 GNO
 G
 1500 GND
+Mil. Tiefflu
+Lovel Flight
+Mil.Low
+1000 GND
+D
+1,5 km
+Hauptwolken-CTR
+untergrenze
+Bodensicht
+Ceiling
+Erdsicht
+Ground visibility
+1500 1
+km
+Ground
+in sight
 1000 GND
 Ostsee
 Baltic Sea
-Mil.Lovel
-Tiefflu
-Mil.Low Flight
-t.m
 5km
 Freivon
 Wolken
 clouds
-D
+t.m
 Freivon
-1000 GND
 Wolken
-Clear
-1,5
-km
-cloudso
-CTR
-Hauptwolken-
-untergrenze Bodensicht
-Ceiling
-Erdsicht
-Ground
-visibility
-1500 1
-km Ground
-in sightDeutscher Fallschirmsportverband (DFV) e.V.
+Clear o
+clouds
+VDeutscher Fallschirmsportverband (DFV) e.V.
 Member of Deutscher Aero-Club (DAeC) e. .V.
-DFV
 Questionbank with Answers for students and instructors
 Air traffic law
 Question No 55
@@ -2580,7 +2567,7 @@ d) Journal of Laws and Decrees.
 Correct answer: b
 Air traffic law
 Question No 56
-To whom do I usually show my license, jump book, insurance certificate and equipment for inspection (at the
+To whom do I usually show my license, jump book, insurance certificate and equipment for inspection (at the start of the
 season or at a new jump site)?
 (No picture)
 (a) Air Traffic Control.
@@ -2597,7 +2584,8 @@ b) aerial sports equipment.
 c) air sports rescue parachutes.
 d) parachute equipment.
 Correct answer: b
-42/99Deutscher Fallschirmsportverband (DFV) e.V.
+42/99
+DFVDeutscher Fallschirmsportverband (DFV) e.V.
 Member of Deutscher Aero-Club (DAeC) e.V.
 Questionbank with Answers for students and instructors
 Human Performance
@@ -2625,7 +2613,7 @@ a) Only answer 3 is correct.
 b) Only answer 4 is correct.
 c) Answers 1 and 2 are correct.
 d) All answers are correct.
-Correct answer: c
+Correct answer: e
 Human Performance
 Question No 3
 Some health problems can limit the ability to react and act. What could those be?
@@ -2638,7 +2626,7 @@ a) Answers 1 and 4 are correct.
 b) Only answer 4 is correct.
 c) Answers 1, 2 and 3 are correct.
 d) All answers are correct.
-Correct answer: c
+Correct answer: e
 Human Performance
 Question No 4
 After a parachute jump, I feel pressure in my ears. What should I do?
@@ -2655,14 +2643,13 @@ Correct answer: a
 43/99
 DFVDeutscher Fallschirmsportverband (DFV) e.V.
 Member of Deutscher Aero-Club (DAeC) e.V.
-DFv
 Questionbank with Answers for students and instructors
 Human Performance
 Question No 5
 Which statement regarding the consumption of medication is correct?
 1) Sleeping pills and sedatives are not appropriate while jumping.
 2) Medication that impairs driving also impairs jumping.
-3) Non-prescription painkillers such as aspirin, paracetamol/tylenol ibuprofen and diclofenac etc. are safe for j
+3) Non-prescription painkillers such as aspirin, paracetamol/tylenol ibuprofen and diclofenac etc. are safe for jumping
 because they have no side effects.
 4) Any kind of medication can be taken at any time while jumping, despite possible side effects.
 (No picture)
@@ -2670,7 +2657,7 @@ a) Only answer 3 is correct.
 b) All answers are correct.
 c) Answers 1 and 2 are correct.
 d) Only answer 4 is correct.
-Correct answer: c
+Correct answer: e
 Human Performance
 Question No 6
 Why should people not jump under the influence of alcohol, drugs, medication or stimulants?
@@ -2689,7 +2676,7 @@ Question No 7
 Your left thumb is broken and plastered.
 1) You jump anyway because you pull with your right hand.
 2) Due to the limited freedom of movement and the increased risk of accidents you do not jump.
-3) When practicing the emergency procedure, you notice that the left hand is not usable; however, since you
+3) When practicing the emergency procedure, you notice that the left hand is not usable; however, since you can also use
 all handles with the right hand, you jump.
 4) You do a parachute landing fall (PLF) to protect your thumb.
 (No picture)
@@ -2700,7 +2687,7 @@ d) Only answer 2 is correct.
 Correct answer: d
 Human Performance
 Question No 8
-As the altitude increases, the level of oxygen decreases. Up to what level (MSL) can an average fit person alm
+As the altitude increases, the level of oxygen decreases. Up to what level (MSL) can an average fit person almost
 completely compensate for the oxygen deficiency?
 (No picture)
 a) approx. 6,000 m/MSL.
@@ -2708,9 +2695,9 @@ b) approx. 3,000 m/MSL.
 c) approx. 4,000 m/MSL.
 d) approx. 5,000 m/MSL.
 Correct answer: b
-44/99Deutscher Fallschirmsportverband (DFV) e.V.
+44/99
+DFvDeutscher Fallschirmsportverband (DFV) e.V.
 Member of Deutscher Aero-Club (DAeC) e.V.
-DFV
 Questionbank with Answers for students and instructors
 Human Performance
 Question No 9
@@ -2724,7 +2711,7 @@ a) Only answer 3 is correct.
 b) Answers 1 and 3 are correct.
 c) All answers are correct.
 d) Only answer 4 is correct.
-Correct answer: c
+Correct answer: e
 Human Performance
 Question No 10
 What are the dangers to skydivers from a lack of oxygen?
@@ -2753,7 +2740,7 @@ d) All answers are correct.
 Correct answer: a
 Human Performance
 Question No 12
-The oxygen level in air decreases with increasing altitude. How long can the average person approximately co
+The oxygen level in air decreases with increasing altitude. How long can the average person approximately cope with
 this oxygen deficiency?
 1) Unlimited, if the aircraft door is wide open.
 2) Limited if you are seated too far back.
@@ -2765,25 +2752,25 @@ b) Only answer 2 is correct.
 c) Answers 1 and 2 are correct.
 d) Answers 3 and 4 are correct.
 Correct answer: d
-45/99Deutscher Fallschirmsportverband (DFV) e.V.
+45/99
+DFVDeutscher Fallschirmsportverband (DFV) e.V.
 Member of Deutscher Aero-Club (DAeC) e.V.
-DFv
 Questionbank with Answers for students and instructors
 Human Performance
 Question No 13
 Which additional factors encourage the occurrence of oxygen deficiency (hypoxia)?
-1) Low levels of haemoglobin in the blood, e.g. in case of anaemia, after blood donations, following blood loss
+1) Low levels of haemoglobin in the blood, e.g. in case of anaemia, after blood donations, following blood loss after
 surgery or injuries.
-2) Slowing down of the blood's oxygen transport capability, e.g. when blood circulation is restricted (heart defe
+2) Slowing down of the blood's oxygen transport capability, e.g. when blood circulation is restricted (heart defect, cold,
 prolonged cramped sitting).
-3) Reduction of oxygen intake in the blood following alcohol consumption, medication, drug consumption and
+3) Reduction of oxygen intake in the blood following alcohol consumption, medication, drug consumption and smoking.
 4) Individual, different reaction to oxygen deficiency.
 (No picture)
 a) Only answer 4 is correct.
 b) factors for this are not known.
 c) All answers are correct.
 d) Consciously forced holding of breath builds up oxygen levels.
-Correct answer: c
+Correct answer: e
 Human Performance
 Question No 14
 What factors affect human performance in skydiving?
@@ -2796,14 +2783,14 @@ What factors affect human performance in skydiving?
 b) Answers 1 and 2 are correct.
 c) All answers are correct.
 d) Stress plays a minor role in jumping.
-Correct answer: c
+Correct answer: e
 Human Performance
 Question No 15
 Which factors have a negative influence on human performance?
 1) Lack of practice, overconfidence, lack of training.
 2) Medication, drugs, alcohol, lack of sleep.
 3) restlessness, agitation, distraction, psychological problems.
-4) Smoking, because 5 - 8% of the oxygen carrying capacity in the blood is already blocked by the carbon mo
+4) Smoking, because 5 - 8% of the oxygen carrying capacity in the blood is already blocked by the carbon monoxide
 absorbed with cigarette smoke.
 (No picture)
 a) Only answer 4 is correct.
@@ -2824,9 +2811,9 @@ b) Only answer 3 is correct.
 c) Answers 2 and 3 are correct.
 d) All answers are correct.
 Correct answer: a
-46/99Deutscher Fallschirmsportverband (DFV) e.V.
+46/99
+DFvDeutscher Fallschirmsportverband (DFV) e.V.
 Member of Deutscher Aero-Club (DAeC) e.V.
-DFV
 Questionbank with Answers for students and instructors
 Human Performance
 Question No 17
@@ -2859,7 +2846,7 @@ Question No 19
 Negative stress (distress) has what influence on human actions and behaviour?
 1) It has a positive and stimulating effect and thus the body maintains full performance.
 2) Distress can render a person incapable of action.
-3) In extreme stress situations, significantly less visual and auditory information is processed and the ability to
+3) In extreme stress situations, significantly less visual and auditory information is processed and the ability to act is
 severely restricted.
 4) Distress and stress occurs only with very unstable personalities, never with parachutists.
 (No picture)
@@ -2867,11 +2854,11 @@ a) Answers 1 and 4 are correct.
 b) Answers 2 and 4 are correct.
 c) Answers 2 and 3 are correct.
 d) All answers are correct.
-Correct answer: c
+Correct answer: e
 Human Performance
 Question No 20
 How can parachutists prevent errors in stressful emergency situations?
-1) By practicing and drilling the emergency procedure, building muscle memory and automating the action se
+1) By practicing and drilling the emergency procedure, building muscle memory and automating the action sequence.
 2) Through complete preparation and constant repetition of the relevant actions required to remedy possible
 malfunctions.
 3) A secure knowledge of correct actions in stress situations does not yet exist.
@@ -2882,9 +2869,9 @@ b) Answers 3 and 4 are correct.
 c) All answers are correct.
 d) Only answer 4 is correct.
 Correct answer: a
-47/99Deutscher Fallschirmsportverband (DFV) e.V.
+47/99
+DFVDeutscher Fallschirmsportverband (DFV) e.V.
 Member of Deutscher Aero-Club (DAeC) e.V.
-DFV
 Questionbank with Answers for students and instructors
 Human Performance
 Question No 21
@@ -2898,7 +2885,7 @@ a) Misconduct only occurs with inexperienced parachutists.
 b) No answer is correct.
 c) All answers are correct.
 d) Only answer 4 is correct.
-Correct answer: c
+Correct answer: e
 Human Performance
 Question No 22
 According to findings in stress research, learned actions are always implemented first, therefore:
@@ -2911,7 +2898,7 @@ a) Answers 1 and 4 are correct.
 b) Only answer 4 is correct.
 c) Answers 2 and 3 are correct.
 d) No answer is correct.
-Correct answer: c
+Correct answer: e
 Human Performance
 Question No 23
 With increasing number of jumps you gain more and more self-confidence. What can this affect?
@@ -2938,15 +2925,15 @@ b) Two answers are right, two answers are wrong.
 c) Only answer 3 is correct.
 d) All answers are correct.
 Correct answer: d
-48/99Deutscher Fallschirmsportverband (DFV) e.V.
+48/99
+DFVDeutscher Fallschirmsportverband (DFV) e.V.
 Member of Deutscher Aero-Club (DAeC) e.V.
-DFv
 Questionbank with Answers for students and instructors
 Human Performance
 Question No 25
-You take part in a competition, an off-landing or a demo jump in front of an audience and the media. What ca
+You take part in a competition, an off-landing or a demo jump in front of an audience and the media. What can influence
 you the most in these situations?
-1) In order to shine in front of the audience and the scenery, one could take unnecessary risks and thus enda
+1) In order to shine in front of the audience and the scenery, one could take unnecessary risks and thus endanger oneself
 and others.
 2) The tight time schedule and the unusual circumstances.
 3) Nothing.
@@ -2961,15 +2948,15 @@ Human Performance
 Question No 26
 How do you deal with unusual jumping clothes, additional equipment and new parachuting disciplines?
 1) Ask anyone at the DZ and try what they tell me.
-2) Be aware that safety-related mistakes occur more frequently when attempting too many new things at once
-3) In order to learn from the mistakes of others, it is better to ask someone who is already familiar with the ne
+2) Be aware that safety-related mistakes occur more frequently when attempting too many new things at once.
+3) In order to learn from the mistakes of others, it is better to ask someone who is already familiar with the new things
 4) Try them out secretly on a dropzone where nobody knows you.
 (No picture)
 a) All answers are correct.
 b) Only answer 1 is correct.
 c) Answers 2 and 3 are correct.
 d) Only answer 4 is correct.
-Correct answer: c
+Correct answer: e
 Human Performance
 Question No 27
 What causes the most failures in skydiving?
@@ -2982,12 +2969,12 @@ a) All answers are correct.
 b) Answers 1, 2 and 3 are correct.
 c) Only answer 4 is correct.
 d) Only answer 1 is correct.
-Correct answer: c
+Correct answer: e
 Human Performance
 Question No 28
 Does it make sense to physically prepare before jumping by warming up and stretching?
 1) It makes more sense to avoid unnecessary movements before a jump.
-2) The athletic preparation of the body usually improves the functional sequence of the movements required d
+2) The athletic preparation of the body usually improves the functional sequence of the movements required during the
 jump.
 3) A physical preparation gives security and creates confidence in one's own ability and potential.
 4) No.
@@ -2997,13 +2984,13 @@ b) Only answer 4 is correct.
 c) Answers 1 and 4 are correct.
 d) Answers 2 and 3 are correct.
 Correct answer: d
-49/99Deutscher Fallschirmsportverband (DFV) e.V.
+49/99
+DFvDeutscher Fallschirmsportverband (DFV) e.V.
 Member of Deutscher Aero-Club (DAeC) e.V.
-DFv
 Questionbank with Answers for students and instructors
 Human Performance
 Question No 29
-You already did a few jumps today. Nothing really seemed to work out for you during your last jump. What ca
+You already did a few jumps today. Nothing really seemed to work out for you during your last jump. What can this be
 attributed to?
 1) The task was simply not challenging enough.
 2) My physical capacity limit seems to have been reached.
@@ -3054,14 +3041,14 @@ b) Only answer 2 is correct.
 c) Answers 2, 3 and 4 are correct.
 d) Only answer 3 is correct.
 Correct answer: a
-50/99Deutscher Fallschirmsportverband (DFV) e.V.
+50/99
+DFvDeutscher Fallschirmsportverband (DFV) e.V.
 Member of Deutscher Aero-Club (DAeC) e.V.
-DFv
 Questionbank with Answers for students and instructors
 Human Performance
 Question No 33
 What contributes to individual limitation of mistakes and uncertainties in skydiving?
-1) Correct information from a good source with first-hand specialist knowledge, e.g. in the instructional manag
+1) Correct information from a good source with first-hand specialist knowledge, e.g. in the instructional management of
 the dropzone.
 2) Selection of an instructor/coach with adequate expertise as a competent teacher.
 3) Risk minimization and staying current.
@@ -3074,7 +3061,7 @@ d) All answers are correct.
 Correct answer: b
 Human Performance
 Question No 34
-Why should I always make sure that I am aware of the contents of the first jump course, especially the behav
+Why should I always make sure that I am aware of the contents of the first jump course, especially the behaviour in
 unusual circumstances, and that I practice the correct movement sequences?
 1) Because the subconscious cannot distinguish between practice and reality.
 2) Because necessary actions are forgotten with too little practice.
@@ -3085,15 +3072,15 @@ a) No answer is correct.
 b) Answers 1 and 3 are correct.
 c) All answers are correct.
 d) Only answer 4 is correct.
-Correct answer: c
+Correct answer: e
 Human Performance
 Question No 35
-The human being with his individual behaviour represents the greatest potential risk in skydiving. What does t
+The human being with his individual behaviour represents the greatest potential risk in skydiving. What does this mean
 for our sport in terms of accidents?
 1) Almost all accidents are caused by human error and misjudgement.
 2) The risk of accidents increases when you try things you don't know much about.
 3) Accidents occur when the self-induced dynamics of a situation can no longer be controlled.
-4) In general, accidents can be largely limited by good training, adequate jump preparation and appropriate d
+4) In general, accidents can be largely limited by good training, adequate jump preparation and appropriate decisions
 during jumping.
 (No picture)
 a) All answers are correct.
@@ -3101,9 +3088,9 @@ b) Answers 1 and 2 are correct.
 c) Only answer 1 is correct.
 d) Only answer 4 is correct.
 Correct answer: a
-51/99Deutscher Fallschirmsportverband (DFV) e.V.
+51/99
+DFvDeutscher Fallschirmsportverband (DFV) e.V.
 Member of Deutscher Aero-Club (DAeC) e.V.
-DFV
 Questionbank with Answers for students and instructors
 Meteorology
 Question No 1
@@ -3113,7 +3100,7 @@ a) 1,500 m/MSL.
 b) 2,000 m/MSL.
 c) 5,500 m/MSL.
 d) 7,000 m/MSL.
-Correct answer: c
+Correct answer: e
 Meteorology
 Question No 2
 The percentage of oxygen in the air is 21%. How does this proportion change with increasing altitude?
@@ -3152,7 +3139,7 @@ d) alternating fallrate.
 Correct answer: a
 Meteorology
 Question No 6
-The television weather map shows Germany between a high and a low, with the isobars lying close together.
+The television weather map shows Germany between a high and a low, with the isobars lying close together. What wind
 conditions are to be expected?
 (No picture)
 a) weak wind from alternating directions.
@@ -3160,13 +3147,13 @@ b) a strong wind.
 c) weak wind, but from a certain direction.
 d) strong wind initially. decreasing later.
 Correct answer: b
-52/99Deutscher Fallschirmsportverband (DFV) e.V.
+52/99
+DFVDeutscher Fallschirmsportverband (DFV) e.V.
 Member of Deutscher Aero-Club (DAeC) e.V.
-DFv
 Questionbank with Answers for students and instructors
 Meteorology
 Question No 7
-An altimeter at a particular location indicates 0 meters altitude. A few days later, it indicates a height of 150 m
+An altimeter at a particular location indicates 0 meters altitude. A few days later, it indicates a height of 150 metres at
 the same location. What's the cause?
 (No picture)
 a) The air pressure has dropped.
@@ -3178,7 +3165,7 @@ Meteorology
 Question No 8
 The altimeter displays 1,500 m/AGL during the climb. Is this value the true height above ground?
 (No picture)
-a) No, as the prevailing temperature and air pressure almost never correspond to the standard atmosphere w
+a) No, as the prevailing temperature and air pressure almost never correspond to the standard atmosphere which is used
 to calibrate our altimeters.
 b) This information is 100% reliable.
 c) The deviation may be up to 300 metres.
@@ -3193,10 +3180,10 @@ a) 150°/30 kt.
 b) 360°/20 kt.
 c) 090°/20 kt.
 d) 060°/10 kt.
-Correct answer: c
+Correct answer: e
 Meteorology
 Question No 10
-What are the characteristic features of the weather on the lee side of a mountain when there is a föhn wind (C
+What are the characteristic features of the weather on the lee side of a mountain when there is a föhn wind (Chinook
 wind)?
 (No picture)
 a) Heavy cloud cover, precipitation, good visibility.
@@ -3222,9 +3209,9 @@ b) Approx. 15° Celsius less than on the ground.
 c) Approximately 10° more than on the ground.
 d) Approximately 35° less than on the ground.
 Correct answer: a
-53/99Deutscher Fallschirmsportverband (DFV) e.V.
+53/99
+DFvDeutscher Fallschirmsportverband (DFV) e.V.
 Member of Deutscher Aero-Club (DAeC) e.V.
-DFV
 Questionbank with Answers for students and instructors
 Meteorology
 Question No 13
@@ -3234,7 +3221,7 @@ a) Wrong clothing is not important with only approx. 1 minute in free fall.
 b) The wind chill factor hardly reduces the temperature in freefall and during the canopy flight.
 c) One loses power very quickly under the influence of cold.
 d) Temperature is generally irrelevant for the canopy ride.
-Correct answer: c
+Correct answer: e
 Meteorology
 Question No 14
 Do I have to deal with weather, wind and clouds as a licensed parachutist?
@@ -3264,7 +3251,7 @@ d) Not detectable without a windsock.
 Correct answer: b
 Meteorology
 Question No 17
-At what wind speed (absolute maximum for competition parachutists according to FAI rules) are licensed para
+At what wind speed (absolute maximum for competition parachutists according to FAI rules) are licensed parachutists no
 longer allowed to jump?
 (No picture)
 a) 5 m/s or more or 10 kt.
@@ -3281,13 +3268,13 @@ b) the temperature at ground level is usually higher than at altitude.
 c) the air density at ground level is greater than at altitude.
 d) the ground surface acts as frictional resistance.
 Correct answer: d
-54/99Deutscher Fallschirmsportverband (DFV) e.V.
+54/99
+DFVDeutscher Fallschirmsportverband (DFV) e.V.
 Member of Deutscher Aero-Club (DAeC) e.V.
-DFv
 Questionbank with Answers for students and instructors
 Meteorology
 Question No 19
-Which local wind, which can occur on very hot summer days at low altitude (0-300 m), can lead to a collapse
+Which local wind, which can occur on very hot summer days at low altitude (0-300 m), can lead to a collapse of the
 main canopy?
 (No picture)
 a) Stiff east wind.
@@ -3303,7 +3290,7 @@ a) Sudden change of direction of the ground wind.
 b) Sudden change in speed of the ground wind.
 c) A significant change in wind direction between different heights.
 d) Strongly rotating updrafts in thermals.
-Correct answer: c
+Correct answer: e
 Meteorology
 Question No 21
 What is the rule of thumb for converting the wind speed from meters per second to knots (kt)?
@@ -3315,8 +3302,8 @@ d) kt = m/s x 2,5.
 Correct answer: b
 Meteorology
 Question No 22
-A roll cloud in front of a storm front is created by the cold air and moisture in the storm cloud descending, whic
-deflected by the ground and spreads out at high speed in front of the storm front. Which acute danger threate
+A roll cloud in front of a storm front is created by the cold air and moisture in the storm cloud descending, which is
+deflected by the ground and spreads out at high speed in front of the storm front. Which acute danger threatens the
 parachutist by an approaching thunderstorm?
 (No picture)
 a) Sudden increase in wind speed and change in wind direction.
@@ -3341,10 +3328,10 @@ a) I keep jumping until the thunderstorm is at the edge of the dropzone.
 b) I keep jumping as long as everyone else is jumping.
 c) I immediately decide to stop jumping.
 d) I keep jumping until it starts raining.
-Correct answer: c
-55/99Deutscher Fallschirmsportverband (DFV) e.V.
+Correct answer: e
+55/99
+DFvDeutscher Fallschirmsportverband (DFV) e.V.
 Member of Deutscher Aero-Club (DAeC) e.V.
-DFV
 Questionbank with Answers for students and instructors
 Meteorology
 Question No 25
@@ -3366,7 +3353,7 @@ d) Deflection of air by terrain formations.
 Correct answer: b
 Meteorology
 Question No 27
-Over which surfaces can thermal updrafts be expected when exposed to sunlight, which extend the canopy's
+Over which surfaces can thermal updrafts be expected when exposed to sunlight, which extend the canopy's glide path?
 (No picture)
 a) lakes, rivers, wet meadows.
 b) Dry sandy area, stony ground, asphalted areas.
@@ -3384,7 +3371,7 @@ d) Ascending updraft.
 Correct answer: d
 Meteorology
 Question No 29
-Over which surfaces can thermal downdrafts be expected in sunny conditions, which shorten the glide path o
+Over which surfaces can thermal downdrafts be expected in sunny conditions, which shorten the glide path of the
 canopy?
 (No picture)
 a) lakes, rivers, wet meadows.
@@ -3400,20 +3387,20 @@ a) East wind.
 b) North wind.
 c) West wind.
 d) South wind.
-Correct answer: c
-56/99Deutscher Fallschirmsportverband (DFV) e.V.
+Correct answer: e
+56/99
+DFVDeutscher Fallschirmsportverband (DFV) e.V.
 Member of Deutscher Aero-Club (DAeC) e.V.
-DFv
 Questionbank with Answers for students and instructors
 Meteorology
 Question No 31
-A parachutist jumps on a hot day. It's almost cloudless. Suddenly he notices hay, grass and straw being swirl
+A parachutist jumps on a hot day. It's almost cloudless. Suddenly he notices hay, grass and straw being swirled up and
 coming towards him. How is this to be explained and what is to be expected?
 (No picture)
-a) A strong thermal updraft has detached itself from the ground (dust devil). Strong vortex formation and corre
+a) A strong thermal updraft has detached itself from the ground (dust devil). Strong vortex formation and corresponding
 turbulence can be expected.
 b) It is a thermal detachment. It is harmless and has no effect on the movement of the canopy.
-c) strong wind in another area has transported and unloaded the hay, grass and straw; no particularities are t
+c) strong wind in another area has transported and unloaded the hay, grass and straw; no particularities are to be
 expected.
 d) A strong thermal wind has developed; a hard landing must be expected.
 Correct answer: a
@@ -3425,7 +3412,7 @@ a) Before an approaching roll cloud.
 b) On the windward side of higher obstacles.
 c) On the leeward side of higher obstacles
 d) Above the pit in strong sunlight.
-Correct answer: c
+Correct answer: e
 Meteorology
 Question No 33
 What should be expected when landing on the leeward side of an obstacle in a moderate to brisk wind?
@@ -3456,21 +3443,21 @@ d) A change of direction of the wind with altitude.
 Correct answer: b
 Meteorology
 Question No 36
-What is to be expected when landing in the immediate vicinity of the windward side of an obstacle in a moder
+What is to be expected when landing in the immediate vicinity of the windward side of an obstacle in a moderate to fresh
 wind?
 (No picture)
 a) The updraft in front of the obstacle can push the parachutist over the intended landing point.
 b) The descent speed is increased by downdraft in front of the obstacle.
-c) The descent speed does not change at first, only when the parachutist reaches the leeward side does it de
+c) The descent speed does not change at first, only when the parachutist reaches the leeward side does it decrease.
 (d) It has no influence on the landing if the landing is made upwind of an obstacle.
 Correct answer: a
-57/99Deutscher Fallschirmsportverband (DFV) e.V.
+57/99
+DFvDeutscher Fallschirmsportverband (DFV) e.V.
 Member of Deutscher Aero-Club (DAeC) e.V.
-DFv
 Questionbank with Answers for students and instructors
 Meteorology
 Question No 37
-On the dropzone the wind gauge shows a wind force of 8 m/s. What wind speed is to be expected at opening
+On the dropzone the wind gauge shows a wind force of 8 m/s. What wind speed is to be expected at opening height?
 (No picture)
 a) Higher wind speed
 b) Same wind speed
@@ -3521,10 +3508,10 @@ a) Cumulus clouds.
 b) heap/piled clouds.
 c) layer clouds (stratus).
 d) Cirrus clouds.
-Correct answer: c
-58/99Deutscher Fallschirmsportverband (DFV) e.V.
+Correct answer: e
+58/99
+DFvDeutscher Fallschirmsportverband (DFV) e.V.
 Member of Deutscher Aero-Club (DAeC) e.V.
-DFV
 Questionbank with Answers for students and instructors
 Meteorology
 Question No 43
@@ -3537,7 +3524,7 @@ d) fog.
 Correct answer: a
 Meteorology
 Question No 44
-The two types of clouds, which mostly provide abundant, large-droplet precipitation and make parachuting im
+The two types of clouds, which mostly provide abundant, large-droplet precipitation and make parachuting impossible,
 are:
 (No picture)
 a) Cumulus, Cirrus (Cu, Ci).
@@ -3562,7 +3549,7 @@ a) Cirrus.
 b) Cumulus.
 c) Cumulonimbus.
 d) Nimbostratus.
-Correct answer: c
+Correct answer: e
 Meteorology
 Question No 47
 Which types of clouds still allow active jump operation?
@@ -3580,10 +3567,10 @@ a) As many levels as cloud types.
 b) In layered, swelling and ice crystal levels.
 c) Lower, middle and high level.
 d) semi-basement, basement, upper level.
-Correct answer: c
-59/99Deutscher Fallschirmsportverband (DFV) e.V.
+Correct answer: e
+59/99
+DFVDeutscher Fallschirmsportverband (DFV) e.V.
 Member of Deutscher Aero-Club (DAeC) e.V.
-DFV
 Questionbank with Answers for students and instructors
 Meteorology
 Question No 49
@@ -3603,9 +3590,9 @@ b) A cloud forms only over lakes and seas.
 c) The jet stream is mainly responsible for cloud formation.
 d) Rising air crossing a mountain range rains out the dirt particles it contains, causing clouds to form.
 Correct answer: a
-60/99Deutscher Fallschirmsportverband (DFV) e.V.
+60/99
+DFVDeutscher Fallschirmsportverband (DFV) e.V.
 Member of Deutscher Aero-Club (DAeC) e.V.
-DFV
 Questionbank with Answers for students and instructors
 Equipment
 Question No 1
@@ -3632,7 +3619,7 @@ a) Only answer 4 is correct.
 b) Only answers 3 and 4 are correct.
 c) Only answers 1, 2 and 3 are correct.
 d) All answers are correct.
-Correct answer: c
+Correct answer: e
 Equipment
 Question No 3
 What dangerous situations are possible due to a very long closing loop on the reserve and main containers?
@@ -3648,18 +3635,18 @@ d) Only answers 1, 2 and 3 are correct.
 Correct answer: d
 Equipment
 Question No 4
-The first time you pack a new, smaller main canopy, you realize that the loop can be pulled out much further t
+The first time you pack a new, smaller main canopy, you realize that the loop can be pulled out much further than
 necessary. How do you feel about that?
 (No picture)
 a) Packing is finally easier for me.
 b) Using a thicker pin solves the problem.
-c) The packing volume must be checked, and the loop must be shortened. For safety reasons the packing pre
+c) The packing volume must be checked, and the loop must be shortened. For safety reasons the packing pressure must
 be sufficient to hold the closing pin in position.
 d) The loop length does not matter; the smaller main canopy adapts to the container size.
-Correct answer: c
-61/99Deutscher Fallschirmsportverband (DFV) e.V.
+Correct answer: e
+61/99
+DFVDeutscher Fallschirmsportverband (DFV) e.V.
 Member of Deutscher Aero-Club (DAeC) e.V.
-DFV
 Questionbank with Answers for students and instructors
 Equipment
 Question No 5
@@ -3676,7 +3663,7 @@ d) Only answers 1 and 2 are correct.
 Correct answer: a
 Equipment
 Question No 6
-What should parachutists in general, freeflyers, freestylers and skysurfers in particular, pay attention to in the
+What should parachutists in general, freeflyers, freestylers and skysurfers in particular, pay attention to in their
 equipment?
 1) Firm fit of the toggle.
 2) The different flight characteristics of special jumpsuits in free fall and when pulling.
@@ -3700,7 +3687,7 @@ a) Only answer 2 is correct.
 b) Only answers 2 and 3 are correct.
 c) Only answers 1, 3 and 4 are correct.
 d) All answers are correct.
-Correct answer: c
+Correct answer: e
 Equipment
 Question No 8
 Do I have to pay attention to the seams on my harness?
@@ -3714,13 +3701,13 @@ b) Only answers 1 and 3 are correct.
 c) Only answers 1, 2 and 3 are correct.
 d) All answers are correct.
 Correct answer: a
-62/99Deutscher Fallschirmsportverband (DFV) e.V.
+62/99
+DFVDeutscher Fallschirmsportverband (DFV) e.V.
 Member of Deutscher Aero-Club (DAeC) e.V.
-DFv
 Questionbank with Answers for students and instructors
 Equipment
 Question No 9
-The attached Reserve Static Line (RSL) activates the reserve after the main canopy is cut-away and the relea
+The attached Reserve Static Line (RSL) activates the reserve after the main canopy is cut-away and the release of the
 main risers from the three-ring system. What can occur with RSLs on small, sporty canopies?
 1) After a spinning malfunction, the reserve activation may take place in an unstable position.
 2) There is no impact with modern systems.
@@ -3736,7 +3723,7 @@ Equipment
 Question No 10
 You notice that the reserve cable on the reserve handle has no excess length. What can happen?
 1) The reserve handle cannot be pulled out of the Velcro pocket.
-2)Expansion of the cable housing can lead to reserve activation on opening of the main canopy
+2) Expansion of the cable housing can lead to reserve activation on opening of the main canopy
 3) When boarding and alighting from the aircraft, unwanted activation may occur.
 4) That's the way it is meant to be.
 (No picture)
@@ -3744,7 +3731,7 @@ a) Only answer 1 is correct.
 b) Only answer 4 is correct.
 c) Only answers 2 and 3 are correct.
 d) All answers are correct.
-Correct answer: c
+Correct answer: e
 Equipment
 Question No 11
 What do I have to pay attention to with reserve handles and cables?
@@ -3771,9 +3758,9 @@ b) Only answers 1 and 4 are correct.
 c) Only answers 3 and 4 are correct.
 d) All answers are correct.
 Correct answer: a
-63/99Deutscher Fallschirmsportverband (DFV) e.V.
+63/99
+DFvDeutscher Fallschirmsportverband (DFV) e.V.
 Member of Deutscher Aero-Club (DAeC) e.V.
-DFV
 Questionbank with Answers for students and instructors
 Equipment
 Question No 13
@@ -3783,7 +3770,7 @@ a) Nothing, the pilot chute is always ready to jump.
 b) The line must be pulled out in the window and fixed with Velcro.
 c) The pilot chute must be cocked before packing and checked later by a throwing test.
 d) Pull out the pilot chute after closing the container.
-Correct answer: c
+Correct answer: e
 Equipment
 Question No 14
 What has to be considered when using a pilot chute with bungee system?
@@ -3801,7 +3788,7 @@ Equipment
 Question No 15
 The three-ring system is a very sensitive technical device.
 1) It must be moved regularly to maintain its flexibility and mobility.
-2) The locking loop may only be passed through the smallest of the three rings, otherwise the power reduction
+2) The locking loop may only be passed through the smallest of the three rings, otherwise the power reduction will not
 work and a tear may occur.
 3) The loop must not be damaged.
 4) The cable ends of the cut-away cable must not show any breaks, damage or unevenness
@@ -3816,25 +3803,25 @@ Question No 16
 There are "large" and "small" three-ring systems. How do they differ?
 1) The small three-ring system opens more easily.
 2) The large three-ring system opens more easily.
-3) Under load, the loop of both three-ring systems can be released with low pull-strength thanks to power red
+3) Under load, the loop of both three-ring systems can be released with low pull-strength thanks to power reduction.
 4) Large three-rings are used exclusively on tandem equipment.
 (No picture)
 a) Only answers 1 and 2 are correct.
 b) Only answers 1 and 4 are correct.
 c) Only answers 2 and 3 are correct.
 d) All answers are correct.
-Correct answer: c
-64/99Deutscher Fallschirmsportverband (DFV) e.V.
+Correct answer: e
+64/99
+DFVDeutscher Fallschirmsportverband (DFV) e.V.
 Member of Deutscher Aero-Club (DAeC) e.V.
-DFv
 Questionbank with Answers for students and instructors
 Equipment
 Question No 17
-The sensitive point of classic risers with rings on the top is in the area of the gromet for the loop. Which of the
+The sensitive point of classic risers with rings on the top is in the area of the gromet for the loop. Which of the following
 statement(s) applies?
 1) Damage is easily recognizable by frayed material.
 2) Narrow risers are more susceptible to stress as there is less fabric.
-3) This is a predetermined breaking point which protects the harness system in the event of extremely hard o
+3) This is a predetermined breaking point which protects the harness system in the event of extremely hard or unstable
 canopy openings
 4) Only the large three-ring system should be used.
 (No picture)
@@ -3842,14 +3829,14 @@ a) Only answers 1 and 2 are correct.
 b) Only answers 1 and 4 are correct.
 c) Only answers 1, 2 and 3 are correct.
 d) All answers are correct.
-Correct answer: c
+Correct answer: e
 Equipment
 Question No 18
 What has to be observed with Velcro fastenings for closing and fastening flaps and steering toggles?
-1) The soft component should always cover the entire length of the hook component to avoid damage to the s
+1) The soft component should always cover the entire length of the hook component to avoid damage to the straps, lower
 steering line section or other components.
 2) They can be sources of danger if not regularly maintained.
-3) The wear status is indicated by the length of the loops on the soft side. The longer and narrower the loops,
+3) The wear status is indicated by the length of the loops on the soft side. The longer and narrower the loops, the worse
 the condition of the Velcro.
 4) Velero must be attached with a zigzag seam.
 (No picture)
@@ -3861,7 +3848,7 @@ Correct answer: c
 Equipment
 Question No 19
 What problems can occur when using an RSL that is attached only to one riser?
-1) If the cut-away cables are of uneven length, there is danger of entangling between main and reserve canop
+1) If the cut-away cables are of uneven length, there is danger of entangling between main and reserve canopy.
 2) The RSL may be incorrectly attached to the three-ring system.
 3) To avoid problems, the cut-away pad should always be pulled out quickly and completely.
 4) The reserve can be activated via the RSL, although the main canopy is not gone yet.
@@ -3870,7 +3857,7 @@ a) Only answers 1 and 2 are correct.
 b) Only answers 1 and 4 are correct.
 c) All answers are correct.
 d) Only answers 1, 2 and 3 are correct.
-Correct answer: c
+Correct answer: e
 Equipment
 Question No 20
 What do I check regularly to ensure a smooth cut-away of my main canopy?
@@ -3884,9 +3871,9 @@ b) Only answers 1 and 4 are correct.
 c) Only answers 3 and 4 are correct.
 d) All answers are correct.
 Correct answer: d
-65/99Deutscher Fallschirmsportverband (DFV) e.V.
+65/99
+DFvDeutscher Fallschirmsportverband (DFV) e.V.
 Member of Deutscher Aero-Club (DAeC) e.V.
-DFv
 Questionbank with Answers for students and instructors
 Equipment
 Question No 21
@@ -3903,7 +3890,7 @@ d) All answers are correct.
 Correct answer: a
 Equipment
 Question No 22
-The main canopy has an opening malfunction. Which handles and components are usually no longer there af
+The main canopy has an opening malfunction. Which handles and components are usually no longer there after cutting
 away and pulling the reserve and can/should be searched for if necessary?
 1) The main canopy.
 2) The reserve freebag and pilot chute.
@@ -3914,7 +3901,7 @@ a) Only answers 1 and 2 are correct.
 b) Only answers 1 and 4 are correct.
 c) Only answers 1, 2 and 3 are correct.
 d) All answers are correct.
-Correct answer: c
+Correct answer: e
 Equipment
 Question No 23
 What are the special design features of a harness with a RAM-air reserve canopy?
@@ -3941,9 +3928,9 @@ b) Only answers 2 and 4 are correct.
 c) Only answers 2 and 3 are correct.
 d) All answers are correct.
 Correct answer: d
-66/99Deutscher Fallschirmsportverband (DFV) e.V.
+66/99
+DFvDeutscher Fallschirmsportverband (DFV) e.V.
 Member of Deutscher Aero-Club (DAeC) e.V.
-DFV
 Questionbank with Answers for students and instructors
 Equipment
 Question No 25
@@ -3957,7 +3944,7 @@ a) Only answers 1 and 2 are correct.
 b) Only answer 3 is correct.
 c) Only answers 1, 2 and 4 are correct.
 d) All answers are correct.
-Correct answer: c
+Correct answer: e
 Equipment
 Question No 26
 For which components (main and reserve canopy, harness and AAD) is a manual available?
@@ -3973,9 +3960,9 @@ d) Only answers 2, 3 and 4 are correct.
 Correct answer: d
 Equipment
 Question No 27
-During a landing you slide two to three meters over asphalt, but you didn't hurt yourself. What is important for
+During a landing you slide two to three meters over asphalt, but you didn't hurt yourself. What is important for your
 parachute system?
-1) The construction webbing, in particular the leg straps, must be checked, as the nylon webbing is very tear-
+1) The construction webbing, in particular the leg straps, must be checked, as the nylon webbing is very tear-resistant but
 not abrasion/temperature resistant.
 2) The leg straps inside the leg pads should be checked.
 3) The container and even the sealed reserve could be damaged.
@@ -3985,7 +3972,7 @@ a) Only answers 1 and 2 are correct.
 b) Only answers 1 and 4 are correct.
 c) Only answers 1, 2 and 3 are correct.
 d) All answers are correct.
-Correct answer: c
+Correct answer: e
 Equipment
 Question No 28
 What should I bear in mind when using bungees/tubestows to close the deployment bag and stow the lines?
@@ -3999,9 +3986,9 @@ b) Only answers 1 and 4 are correct.
 c) Only answers 1, 2 and 4 are correct.
 d) Only answers 2, 3 and 4 are correct.
 Correct answer: a
-67/99Deutscher Fallschirmsportverband (DFV) e.V.
+67/99
+DFVDeutscher Fallschirmsportverband (DFV) e.V.
 Member of Deutscher Aero-Club (DAeC) e.V.
-DFV
 Questionbank with Answers for students and instructors
 Equipment
 Question No 29
@@ -4031,7 +4018,7 @@ d) Only answers 3 and 4 are correct.
 Correct answer: d
 Equipment
 Question No 31
-Where can you find evidence of the last inspection and repack of your system and how frequently must inspe
+Where can you find evidence of the last inspection and repack of your system and how frequently must inspections be
 carried out?
 (No picture)
 a) inspection certificate; for each reserve canopy.
@@ -4061,15 +4048,16 @@ b) Only answers 1 and 4 are correct.
 c) Only answers 1, 2 and 3 are correct.
 d) All answers are correct.
 Correct answer: d
-68/99Deutscher Fallschirmsportverband (DFV) e.V.
+68/99
+DFVDFv
+Deutscher Fallschirmsportverband (DFV) e.V.
 Member of Deutscher Aero-Club (DAeC) e.V.
-DFv
 Questionbank with Answers for students and instructors
 Equipment
 Question No 34
 You want to pack the canopy and notice that the lines are not running free. What can you do about it?
 (No picture)
-a) Bring a free steering line from the canopy to the toggle in the direction of the harness, where you can solve
+a) Bring a free steering line from the canopy to the toggle in the direction of the harness, where you can solve the tangle
 by turning the harness accordingly.
 b) Take the D-lines of the middle cell and proceed as in answer a).
 c) Open both three-ring systems, otherwise the lines cannot be sorted.
@@ -4080,21 +4068,19 @@ Question No 35
 Why is it important to install slider stoppers on metal rapide links (Connectorlinks)?
 1) To prevent the noise of the slider a stopper is useful.
 2) To protect the line attachments on the connector links from the slider gromets when opening.
-3) To protect the slider gromets from dents, because sharp edges could damage
-or even cut the lines when
-opening.
+3) To protect the slider gromets from dents, because sharp edges could damage or even cut the lines when
 4) If soft links are used instead of metal connector links, no additional safety devices are required.
 (No picture)
 a) Only answers 1 and 2 are correct.
 b) Only answers 1 and 4 are correct.
 c) Only answers 2, 3 and 4 are correct.
 d) All answers are correct.
-Correct answer: c
+Correct answer: e
 Equipment
 Question No 36
 Which statement(s) regarding packing is (are) correct?
 1) The cell openings at the canopy nose may be rolled for many types of canopies.
-2) The further the slider is positioned forward when packing, i.e. towards the nose, the more it slows down the
+2) The further the slider is positioned forward when packing, i.e. towards the nose, the more it slows down the opening.
 3) All lines bites should be tight and sufficiently long.
 4) Each canopy has a defined opening speed.
 (No picture)
@@ -4114,37 +4100,37 @@ d) If the pad does not have the same colour as the jump suit, it must be matched
 Correct answer: a
 Equipment
 Question No 38
-After what period of time should you repack your main canopy before jumping it if it is stored properly and why
+After what period of time should you repack your main canopy before jumping it if it is stored properly and why?
 (No picture)
 a) After about 2 weeks to stay in practice.
-b) According to manufacturer's instructions, after approx. 2 months, for ventilation and to check packing bung
+b) According to manufacturer's instructions, after approx. 2 months, for ventilation and to check packing bungees.
 c) After approx. 6 months, for ventilation and to check packing bungees.
-d) Once a main canopy has been packed, it can always be jumped, regardless of how long it has been in the
+d) Once a main canopy has been packed, it can always be jumped, regardless of how long it has been in the deployment
 bag.
 Correct answer: b
-69/99Deutscher Fallschirmsportverband (DFV) e.V.
+69/99
+opening.Deutscher Fallschirmsportverband (DFV) e.V.
 Member of Deutscher Aero-Club (DAeC) e.V.
-DFV
 Questionbank with Answers for students and instructors
 Equipment
 Question No 39
 Who may carry out inspections?
 (No picture)
 (a) Chief Instructors.
-b) Senior Riggers and Master Riggers (Fallschirmwart/Fallschrimtechniker) in accordance with the manufactu
+b) Senior Riggers and Master Riggers (Fallschirmwart/Fallschrimtechniker) in accordance with the manufacturers'
 instructions.
 c) An instructor.
 d) The Technical Inspection Authority.
 Correct answer: b
 Equipment
 Question No 40
-How long is the reserve packing interval/inspection interval for harness, reserve canopy and main canopy in G
+How long is the reserve packing interval/inspection interval for harness, reserve canopy and main canopy in Germany?
 (No picture)
 a) 4 months/1 year.
 b) 90 days/2 years.
 c) According to manufacturer's specifications, usually 1 year.
 d) 180 days/180 days.
-Correct answer: c
+Correct answer: e
 Equipment
 Question No 41
 Who may inspect and pack the reserve of a licensed parachutist?
@@ -4183,8 +4169,9 @@ a) Only answers 1 and 2 are correct.
 b) Only answers 1 and 4 are correct.
 c) Only answers 1 and 3 are correct.
 d) All answers are correct.
-Correct answer: c
-70/99Deutscher Fallschirmsportverband (DFV) e.V.
+Correct answer: e
+70/99
+DFVDeutscher Fallschirmsportverband (DFV) e.V.
 Member of Deutscher Aero-Club (DAeC) e.V.
 Questionbank with Answers for students and instructors
 Equipment
@@ -4212,7 +4199,7 @@ a) Only answers 1 and 2 are correct.
 b) Only answers 2 and 3 are correct.
 c) Only answers 1, 3 and 4 are correct.
 d) All answers are correct.
-Correct answer: c
+Correct answer: e
 Equipment
 Question No 46
 Which of the following activities may a Master Rigger (Fallschirmtechniker) perform?
@@ -4238,15 +4225,14 @@ a) Only answers 1 and 2 are correct.
 b) Only answers 1 to 3 are correct.
 c) Only answers 2 and 3 are correct.
 d) All answers are correct.
-Correct answer: c
+Correct answer: e
 71/99
 DFVDeutscher Fallschirmsportverband (DFV) e.V.
 Member of Deutscher Aero-Club (DAeC) e.V.
-DFv
 Questionbank with Answers for students and instructors
 Equipment
 Question No 48
-What do you have to pay attention to if the take-off airfield and the landing dropzone are at different altitudes
+What do you have to pay attention to if the take-off airfield and the landing dropzone are at different altitudes about sea
 level?
 1) Adjust visual altimeter and automatic activation device (AAD) for altitude offsets as per their manuals.
 2) At extreme altitude differences the flare characteristics of the canopy can be very different.
@@ -4273,7 +4259,7 @@ d) All answers are correct.
 Correct answer: d
 Equipment
 Question No 50
-Mechanical altimeters can differ by a few 100m at 4,000 m/AGL exit height due to their design. What do you d
+Mechanical altimeters can differ by a few 100m at 4,000 m/AGL exit height due to their design. What do you do?
 (No picture)
 a) I adapt to the lower height and compare the height to other parachutists in the jump.
 b) I leave my altimeter as it is.
@@ -4297,10 +4283,10 @@ a) Yes, if it is an electronic device.
 b) Yes, if the warning device is mounted inside the helmet/cap.
 c) No, a visual altimeter should always be used.
 d) Only recommended for experienced parachutists.
-Correct answer: c
-72/99Deutscher Fallschirmsportverband (DFV) e.V.
+Correct answer: e
+72/99
+DFvDeutscher Fallschirmsportverband (DFV) e.V.
 Member of Deutscher Aero-Club (DAeC) e.V.
-DFV
 Questionbank with Answers for students and instructors
 Equipment
 Question No 53
@@ -4327,7 +4313,7 @@ a) Only answer 1 is correct.
 b) Only answers 2 and 3 are correct.
 c) Only answers 3 and 4 are correct.
 d) All answers are correct.
-Correct answer: c
+Correct answer: e
 Equipment
 Question No 55
 When could a student CYPRES be activated?
@@ -4360,12 +4346,12 @@ Is it advisable to do a freefly jump with a parachute system equipped with an FX
 (No picture)
 a) There is nothing to consider.
 b) Yes, because the FXC is no longer approved for skydiving anyway.
-c)No, because with rapidly changing pressure fluctuations in free fall, a misfire can occur.
+c) No, because with rapidly changing pressure fluctuations in free fall, a misfire can occur.
 d) Yes, if the battery is not more than one year old, there are no problems.
-Correct answer: c
-73/99Deutscher Fallschirmsportverband (DFV) e.V.
+Correct answer: e
+73/99
+DFVDeutscher Fallschirmsportverband (DFV) e.V.
 Member of Deutscher Aero-Club (DAeC) e.V.
-DFV
 Questionbank with Answers for students and instructors
 Equipment
 Question No 58
@@ -4420,27 +4406,27 @@ b) Only answers 1 and 4 are correct.
 c) Only answers 1, 3 and 4 are correct.
 d) All answers are correct.
 Correct answer: c
-74/99Deutscher Fallschirmsportverband (DFV) e.V.
+74/99
+DFVDeutscher Fallschirmsportverband (DFV) e.V.
 Member of Deutscher Aero-Club (DAeC) e.V.
-DFv
 Questionbank with Answers for students and instructors
 Equipment
 Question No 63
 What are the main differences between the throw-out system and the pull-out system?
 1) Pull-out system usually has a short bridle, straight pin, grip at the base, pilot chute in the container.
-2) Throw-out system usually has long bridle, curved pin, handle on apex, pilot chute mounted outside on cont
-3) Both systems have ZP pilot chutes with kill or bungee line, long spiral spring, Velcro fastening system at th
+2) Throw-out system usually has long bridle, curved pin, handle on apex, pilot chute mounted outside on container.
+3) Both systems have ZP pilot chutes with kill or bungee line, long spiral spring, Velcro fastening system at the BOC.
 4) Both terms stand for the same deployment system.
 (No picture)
 a) No answer is correct.
 b) Only answer 4 is correct.
 c) Only answers 1 and 2 are correct.
 d) Only answers 3 and 4 are correct.
-Correct answer: c
+Correct answer: e
 Equipment
 Question No 64
 What should I pay attention to when using a helmet/frap hat?
-1) It should not have dangerously sharp edges and corners and have sufficient padding to protect against col
+1) It should not have dangerously sharp edges and corners and have sufficient padding to protect against collisions from
 exit to landing.
 2) Possibility of mounting an audible altimeter.
 3) A video helmet should have an emergency cut-away system with pilot chute.
@@ -4453,7 +4439,7 @@ d) Only answers 1 and 4 are correct.
 Correct answer: b
 Equipment
 Question No 65
-What do you have to pay attention to when jumping with a different kind of jumpsuit (Wingsuit, Freefly, Video)
+What do you have to pay attention to when jumping with a different kind of jumpsuit (Wingsuit, Freefly, Video)?
 1) That the cut-away pad and reserve handle are not covered.
 2) Changed flight behaviour in free fall and when pulling.
 3) Suit colour and cut-away pad colour should not be identical.
@@ -4463,7 +4449,7 @@ a) Only answers 1 and 2 are correct.
 b) Only answers 1 and 4 are correct.
 c) Only answers 1, 2 and 3 are correct.
 d) All answers are correct.
-Correct answer: c
+Correct answer: e
 Equipment
 Question No 66
 What in particular should be considered when using a wingsuit?
@@ -4477,9 +4463,9 @@ b) Only answers 1 and 4 are correct.
 c) Only answers 1, 2 and 3 are correct.
 d) All answers are correct.
 Correct answer: d
-75/99Deutscher Fallschirmsportverband (DFV) e.V.
+75/99
+DFvDeutscher Fallschirmsportverband (DFV) e.V.
 Member of Deutscher Aero-Club (DAeC) e.V.
-DFV
 Questionbank with Answers for students and instructors
 Equipment
 Question No 67
@@ -4522,13 +4508,13 @@ What should canopies and harnesses be cleaned or rinsed with?
 1) With benzine.
 2) Clean with clean fresh water or rinse thoroughly after landing in salt water.
 3) With gentle dry-cleaning agents (e.g. gall soap).
-4) Clean with clean salt water and rinse if necessary, dry in the sun, treat salt and dirt residues with a coarse
+4) Clean with clean salt water and rinse if necessary, dry in the sun, treat salt and dirt residues with a coarse brush.
 (No picture)
 a) Only answer 4 is correct.
 b) Only answers 1 and 2 are correct.
 c) Only answers 2 and 3 are correct.
 d) All answers are correct.
-Correct answer: c
+Correct answer: e
 Equipment
 Question No 71
 What colour is the seal thread of a packed reserve canopy?
@@ -4537,10 +4523,10 @@ a) Blue.
 b) Olive.
 c) Red.
 d) Yellow.
-Correct answer: c
-76/99Deutscher Fallschirmsportverband (DFV) e.V.
+Correct answer: e
+76/99
+DFVDeutscher Fallschirmsportverband (DFV) e.V.
 Member of Deutscher Aero-Club (DAeC) e.V.
-DFV
 Questionbank with Answers for students and instructors
 Equipment
 Question No 72
@@ -4576,13 +4562,13 @@ a) Only answers 1 and 4 are correct.
 b) No answer is correct.
 c) Only answers 2 and 3 are correct.
 d) All answers are correct.
-Correct answer: c
+Correct answer: e
 Equipment
 Question No 75
 Which components belong to a harness?
 (No picture)
 a) Main and reserve canopies, automatic activation device, pilot chute.
-b) Leg, chest and shoulder straps, deployment bag with pilot chute, main and reserve risers with steering loop
+b) Leg, chest and shoulder straps, deployment bag with pilot chute, main and reserve risers with steering loops, bridle,
 pack trays, cut-away pad and reserve handle.
 c) Deployment bags without pilot chutes, hook knife, connectors, reserve canopy.
 d) chest mounted reserve, altimeter holder, manufacturer's emblem.
@@ -4600,9 +4586,9 @@ b) Only answers 1 and 4 are correct.
 c) Only answers 1, 2 and 3 are correct.
 d) Only answers 2, 3 and 4 are correct.
 Correct answer: a
-77/99Deutscher Fallschirmsportverband (DFV) e.V.
+77/99
+DFVDeutscher Fallschirmsportverband (DFV) e.V.
 Member of Deutscher Aero-Club (DAeC) e.V.
-DFV
 Questionbank with Answers for students and instructors
 Equipment
 Question No 77
@@ -4616,7 +4602,7 @@ a) Only answers 1 and 2 are correct.
 b) Only answers 1 and 4 are correct.
 c) Only answers 1, 2 and 3 are correct.
 d) Only answers 2, 3 and 4 are correct.
-Correct answer: c
+Correct answer: e
 Equipment
 Question No 78
 How can I tell that the line trim of my canopy has changed?
@@ -4641,20 +4627,20 @@ d) lbs = kg / 2 + 10 %
 Correct answer: c
 Equipment
 Question No 80
-What is the function of MARD systems (Main Assisted Reserve Deployment) such as Skyhook or Rax system
+What is the function of MARD systems (Main Assisted Reserve Deployment) such as Skyhook or Rax systems?
 (No picture)
 a) The MARD system opens the reserve container after a cut-away and thus initiates the reserve opening.
-b) With a connecting line between RSL and the Bridle of the reserve, the reserve is pulled out by the main can
+b) With a connecting line between RSL and the Bridle of the reserve, the reserve is pulled out by the main canopy flying
 away immediately after cutting away.
-c) A connection between the cut-away pad and the reserve handle automatically pulls the reserve handle afte
-d) MARD systems measure the air pressure and open the reserve container when the release criteria are me
+c) A connection between the cut-away pad and the reserve handle automatically pulls the reserve handle after a cut-away.
+d) MARD systems measure the air pressure and open the reserve container when the release criteria are met.
 Correct answer: b
 Equipment
 Question No 81
 Which statements on MARD systems are correct?
 1) The MARD system may pose a problem in case of a canopy collisions.
 2) If the RSL is disconnected, the MARD system will not work.
-3) In the event of a total malfunction, the MARD system cannot activate the reserve. The activation must be c
+3) In the event of a total malfunction, the MARD system cannot activate the reserve. The activation must be carried out
 manually using the reserve handle.
 4) The functionality of MARD systems cannot be checked 100 % from the outside.
 (No picture)
@@ -4663,13 +4649,13 @@ b) Only answers 1 and 4 are correct.
 c) Only answers 1 and 2 are correct.
 d) All answers are correct.
 Correct answer: d
-78/99Deutscher Fallschirmsportverband (DFV) e.V.
+78/99
+DFVDeutscher Fallschirmsportverband (DFV) e.V.
 Member of Deutscher Aero-Club (DAeC) e.V.
-DFv
 Questionbank with Answers for students and instructors
 Equipment
 Question No 82
-The permanent height adjustment of the Cypres 2 allows the release height to be set 30 m higher in 9 steps. W
+The permanent height adjustment of the Cypres 2 allows the release height to be set 30 m higher in 9 steps. Which
 statements are correct?
 1) There are no reasons for a higher adjustment of the Cypres 2.
 2) Due to newer designs of harness and reserve canopies the opening distance of a reserve may be longer.
@@ -4685,7 +4671,7 @@ Equipment
 Question No 83
 Where can I get information about safety advisories, technical advisories, etc. for my canopy system from?
 (No picture)
-a) From the manufacturer of the respective components, technical/rigging staff and the relevant parachute as
+a) From the manufacturer of the respective components, technical/rigging staff and the relevant parachute associations.
 b) From the Federal Aviation Authority.
 c) From EASA and the Federal Aviation Authority.
 d) For foreign products, from the respective national aviation authority.
@@ -4720,10 +4706,11 @@ a) Only answers 1 and 2 are correct.
 b) Only answers 1, 2 and 4 are correct.
 c) Only answers 3 and 4 are correct.
 d) All answers are correct.
-Correct answer: c
-79/99Deutscher Fallschirmsportverband (DFV) e.V.
+Correct answer: e
+79/99
+DFvDFV
+Deutscher Fallschirmsportverband (DFV) e.V.
 Member of Deutscher Aero-Club (DAeC) e.V.
-DFV
 Questionbank with Answers for students and instructors
 Equipment
 Question No 87
@@ -4749,21 +4736,20 @@ d) Senior Rigger (Fallschirmwart) and Master Riggers (Fallschirmtechniker)
 Correct answer: b
 Equipment
 Question No 89
-The certificate of airworthiness of the main canopy, reserve canopy or harness-container
-a system is completed
+The certificate of airworthiness of the main canopy, reserve canopy or harness-container system is completed, and
 follow-up document has been created by the technical/rigging staff. What do I do with the old certificate of
 airworthiness?
 (No picture)
 a) The old certificate of airworthiness may be disposed of.
 b) The old certificate of airworthiness should be sent to the manufacturer to inform them of the condition of the
 components.
-c) I keep the old airworthiness certificate with the papers to ensure a complete proof (e.g.: safety information,
+c) I keep the old airworthiness certificate with the papers to ensure a complete proof (e.g.: safety information, technical
 notes, etc.).
 d) I can do what I want with the old certificate of airworthiness.
 Correct answer: c
 Equipment
 Question No 90
-A canopy system no longer meets the airworthiness criteria. What do I as the owner have to do independently
+A canopy system no longer meets the airworthiness criteria. What do I as the owner have to do independently of the fact
 that the system may no longer be jumped?
 (No picture)
 a) Nothing.
@@ -4771,18 +4757,18 @@ b) I must inform the manufacturer and the relevant parachute association.
 c) I must inform the manufacturer.
 d) I must inform the relevant parachute association.
 Correct answer: a
-80/99Deutscher Fallschirmsportverband (DFV) e.V.
+80/99
+aDeutscher Fallschirmsportverband (DFV) e.V.
 Member of Deutscher Aero-Club (DAeC) e.V.
-DFv
 Questionbank with Answers for students and instructors
 Behaviour in special circumstances
 Question No 1
-"Behaviour in special circumstances" deals with raising awareness and accident prevention. What does this m
+"Behaviour in special circumstances" deals with raising awareness and accident prevention. What does this mean in
 practice?
 (No picture)
 a) Knowing that skydiving is associated with risks.
 b) Sources of danger must be identified to determine appropriate safe behaviour.
-c) emergency procedures are designed to be executed in the time or altitude available and are not intended to
+c) emergency procedures are designed to be executed in the time or altitude available and are not intended to identify the
 root cause of the problem
 d) All of the above.
 Correct answer: d
@@ -4824,7 +4810,7 @@ d) Start a turn and land with a full flare.
 Correct answer: a
 Behaviour in special circumstances
 Question No 6
-What should a parachutist expect if he suddenly releases both control toggles of his strongly braked canopy s
+What should a parachutist expect if he suddenly releases both control toggles of his strongly braked canopy shortly
 before landing?
 (No picture)
 a) a drift of the target.
@@ -4832,9 +4818,9 @@ b) a violent oscillation towards the ground and thus a high risk of injury.
 c) an exceptionally smooth landing.
 d) a collapse of the end cells.
 Correct answer: b
-81/99Deutscher Fallschirmsportverband (DFV) e.V.
+81/99
+DFvDeutscher Fallschirmsportverband (DFV) e.V.
 Member of Deutscher Aero-Club (DAeC) e.V.
-DFV
 Questionbank with Answers for students and instructors
 Behaviour in special circumstances
 Question No 7
@@ -4844,7 +4830,7 @@ a) Continue to descend in the full flare.
 b) Let the steering lines back up to the top quickly.
 c) Slowly lift the steering lines up to approx. shoulder height and brake again at the right time.
 d) Keep the canopy under control by pumping.
-Correct answer: c
+Correct answer: e
 Behaviour in special circumstances
 Question No 8
 What posture can result in serious injury during a landing?
@@ -4878,7 +4864,7 @@ What possibilities do you have to improvise during a landing which is not quite 
 (No picture)
 a) If the landing is fast despite flare and parallel to the ground, I can possibly slide better than run it out.
 b) If the descent is directly downward, I should definitely land with a parachute landing fall.
-c) In the case of an unconventional landing, it is always advisable to keep your legs firmly together or never s
+c) In the case of an unconventional landing, it is always advisable to keep your legs firmly together or never support
 yourself on the ground with your hands.
 d) All of the above.
 Correct answer: d
@@ -4891,9 +4877,9 @@ b) Obstacles, ground conditions and wind influence.
 c) Landing close to a telephone box in order to be able to call the dropzone.
 d) land normally and the recover the canopy.
 Correct answer: b
-82/99Deutscher Fallschirmsportverband (DFV) e.V.
+82/99
+DFVDeutscher Fallschirmsportverband (DFV) e.V.
 Member of Deutscher Aero-Club (DAeC) e.V.
-DFV
 Questionbank with Answers for students and instructors
 Behaviour in special circumstances
 Question No 13
@@ -4906,7 +4892,7 @@ d) Immediately after landing, turn around and pull in one steering line.
 Correct answer: d
 Behaviour in special circumstances
 Question No 14
-After landing, a parachutist is being dragged over the ground by their open canopy. What measures should he
+After landing, a parachutist is being dragged over the ground by their open canopy. What measures should he take
 immediately?
 (No picture)
 a) Turn on his back, pull in a steering line.
@@ -4916,7 +4902,7 @@ d) Turn on his back and wait.
 Correct answer: a
 Behaviour in special circumstances
 Question No 15
-A skydiver got injured during landing and is being dragged over the ground. How can he stop being dragged a
+A skydiver got injured during landing and is being dragged over the ground. How can he stop being dragged as quickly
 as possible?
 (No picture)
 a) Open the reserve canopy.
@@ -4926,7 +4912,7 @@ d) Clawing on the ground.
 Correct answer: b
 Behaviour in special circumstances
 Question No 16
-A parachutist lands on a building with a flat roof and is dragged towards the edge of the roof due to stronger w
+A parachutist lands on a building with a flat roof and is dragged towards the edge of the roof due to stronger winds.
 What action should he take?
 (No picture)
 a) Stay in place until the canopy falls over the edge of the roof.
@@ -4938,7 +4924,7 @@ Behaviour in special circumstances
 Question No 17
 A landing on a flat roof is unavoidable. How does the skydiver behave?
 (No picture)
-a) Land normally, secure the canopy immediately, loosen RSL if necessary and cut away canopy if there is a
+a) Land normally, secure the canopy immediately, loosen RSL if necessary and cut away canopy if there is a strong wind.
 b) Do the parachute landing fall especially carefully and call for assistance.
 c) land and climb down from the roof immediately.
 d) Land in a standing position, open the reserve and abseil on the lines.
@@ -4951,10 +4937,10 @@ a) Cutting away the canopy.
 b) Activating life jacket.
 c) Recovering the canopy.
 d) Observe flow and wind direction.
-Correct answer: c
-83/99Deutscher Fallschirmsportverband (DFV) e.V.
+Correct answer: e
+83/99
+DFVDeutscher Fallschirmsportverband (DFV) e.V.
 Member of Deutscher Aero-Club (DAeC) e.V.
-DFV
 Questionbank with Answers for students and instructors
 Behaviour in special circumstances
 Question No 19
@@ -4977,10 +4963,10 @@ a) Only answers 1 and 4 are correct.
 b) Only answer 1 is correct.
 c) Only answers 1, 2 and 3 are correct.
 d) All answers are correct.
-Correct answer: c
+Correct answer: e
 Behaviour in special circumstances
 Question No 21
-After a malfunction, you cut-away the main canopy and pulled the reserve. Due to the lower opening height, a
+After a malfunction, you cut-away the main canopy and pulled the reserve. Due to the lower opening height, a water
 landing on the reserve canopy is unavoidable. How do you behave?
 1) Dive with full equipment after the freebag.
 2) Immediately remove the harness from the water and dive away from the canopy system.
@@ -4991,7 +4977,7 @@ a) Only answers 1 and 3 are correct.
 b) Only answers 3 and 4 are correct.
 c) Only answers 2 and 3 are correct.
 d) All answers are correct.
-Correct answer: c
+Correct answer: e
 Behaviour in special circumstances
 Question No 22
 A tree landing is unavoidable. How do you position the canopy if possible?
@@ -5010,9 +4996,9 @@ b) Stay stuck without any movement and wait for help.
 c) Try to reach the tree trunk by swinging.
 d) Disconnect the main canopy and pull the reserve.
 Correct answer: b
-84/99Deutscher Fallschirmsportverband (DFV) e.V.
+84/99
+DFVDeutscher Fallschirmsportverband (DFV) e.V.
 Member of Deutscher Aero-Club (DAeC) e.V.
-DFV
 Questionbank with Answers for students and instructors
 Behaviour in special circumstances
 Question No 24
@@ -5022,7 +5008,7 @@ a) Do not adopt a particular posture. Loosen chest and leg straps.
 b) Sit low in the harness, spread legs, activate reserve.
 c) Hold legs firmly together, press elbows in front of chest, hold hands in front of face.
 d) Continue steering and ignore the tree.
-Correct answer: c
+Correct answer: e
 Behaviour in special circumstances
 Question No 25
 What should one do if one finds a safe hold on the trunk after a tree landing?
@@ -5040,7 +5026,7 @@ a) By the wires.
 b) Small lines are not visible.
 c) By the poles or pylons.
 d) By the white insulators.
-Correct answer: c
+Correct answer: e
 Behaviour in special circumstances
 Question No 27
 A parachutist flies towards a power line. How should he behave?
@@ -5049,7 +5035,7 @@ a) Pull down the rear risers.
 b) Turn the canopy into the wind and continue flying with the brakes on.
 c) Avoid them if possible, otherwise try to fly along the lines.
 d) Fly with the wind and if necessary, pull up the legs.
-Correct answer: c
+Correct answer: e
 Behaviour in special circumstances
 Question No 28
 Contact with a high-voltage line under canopy is unavoidable. What position should be taken?
@@ -5071,8 +5057,9 @@ a) Only answers 1 and 2 are correct.
 b) Only answer 4 is correct.
 c) Only answers 2, 3 and 4 are correct.
 d) All answers are correct.
-Correct answer: c
-85/99Deutscher Fallschirmsportverband (DFV) e.V.
+Correct answer: e
+85/99
+DFVDeutscher Fallschirmsportverband (DFV) e.V.
 Member of Deutscher Aero-Club (DAeC) e.V.
 Questionbank with Answers for students and instructors
 Behaviour in special circumstances
@@ -5083,7 +5070,7 @@ a) With the wind and down the slope.
 b) Always uphill.
 c) Across the slope, fully braked, parachute landing fall.
 d) Across the slope, unbraked.
-Correct answer: c
+Correct answer: e
 Behaviour in special circumstances
 Question No 31
 Landing on a road is unavoidable. How's the skydiver supposed to land?
@@ -5101,7 +5088,7 @@ a) Slide down the roof, open the reserve canopy and prepare for a hard landing.
 b) Fly diagonally to the roof in a steep curve and look for a foothold.
 c) Brake normally, seek immediate stop on touchdown and wait for help if necessary.
 d) Brake strongly, approach as steeply as possible to the roof pitch.
-Correct answer: c
+Correct answer: e
 Behaviour in special circumstances
 Question No 33
 A parachutist lands on a railroad track. How must he behave?
@@ -5136,7 +5123,6 @@ Correct answer: a
 86/99
 DFVDeutscher Fallschirmsportverband (DFV) e.V.
 Member of Deutscher Aero-Club (DAeC) e.V.
-DFV
 Questionbank with Answers for students and instructors
 Behaviour in special circumstances
 Question No 36
@@ -5162,14 +5148,14 @@ d) Immediately leave the runway with your canopy.
 Correct answer: d
 Behaviour in special circumstances
 Question No 38
-The jump plane has to stop the climb and land again with the parachutists. How should the parachutist behav
+The jump plane has to stop the climb and land again with the parachutists. How should the parachutist behave?
 (No picture)
 a) he should aim to be the first to leave the aeroplane as quickly as possible
-b) After landing, the parachutist remains seated with his seat belt fastened until the skydiving operation mana
+b) After landing, the parachutist remains seated with his seat belt fastened until the skydiving operation manager orders
 him to leave.
 c) Buckle up, helmet on for landing. Do not leave the aircraft towards the propeller on landing.
 d) He must hold on to the other parachutists during the landing.
-Correct answer: c
+Correct answer: e
 Behaviour in special circumstances
 Question No 39
 Why does it make sense to wear head protection during take-off?
@@ -5192,13 +5178,13 @@ b) Pack the canopy during the climb with an open container.
 c) Alert the pilot and try to jump with the open container.
 d) Secure the canopy, loosen RSL if necessary, disconnect main canopy, notify pilot and land with airplane.
 Correct answer: d
-87/99Deutscher Fallschirmsportverband (DFV) e.V.
+87/99
+DFVDeutscher Fallschirmsportverband (DFV) e.V.
 Member of Deutscher Aero-Club (DAeC) e.V.
-DFv
 Questionbank with Answers for students and instructors
 Behaviour in special circumstances
 Question No 41
-A skydiver notices shortly before the jump that the pilot chute of a fellow skydiver has partially slipped out of t
+A skydiver notices shortly before the jump that the pilot chute of a fellow skydiver has partially slipped out of the BOC.
 What should he do?
 (No picture)
 a) immediately draw the attention of the other parachutist to this fact.
@@ -5221,18 +5207,18 @@ d) No answer is correct.
 Correct answer: a
 Behaviour in special circumstances
 Question No 43
-In the exit position, the main canopy of a parachutist opens unintentionally. He is torn out of the door and gets
+In the exit position, the main canopy of a parachutist opens unintentionally. He is torn out of the door and gets stuck on
 the plane by his canopy. What should he not do in this situation?
 (No picture)
 a) Cut away the main canopy and then pull reserve.
 b) Immediately pull the reserve.
 c) Capture everything on video.
-d) Give the o.k. sign and initiate the emergency procedure after a parachutist who is still in the aircraft has cu
+d) Give the o.k. sign and initiate the emergency procedure after a parachutist who is still in the aircraft has cut him off if
 necessary.
 Correct answer: b
 Behaviour in special circumstances
 Question No 44
-A parachutist is getting ready to jump out of the plane. His reserve canopy opens and enters the airstream. W
+A parachutist is getting ready to jump out of the plane. His reserve canopy opens and enters the airstream. What action
 must he take immediately?
 (No picture)
 a) Jump immediately, regardless of the correct exit position.
@@ -5242,20 +5228,20 @@ d) Call the pilot and hold the reserve canopy.
 Correct answer: a
 Behaviour in special circumstances
 Question No 45
-A parachutist gets tangled up with a safety belt in the plane without realizing it. What serious consequence ca
+A parachutist gets tangled up with a safety belt in the plane without realizing it. What serious consequence can this have?
 (No picture)
 a) Unstable jump.
 b) get caught on the aeroplane and/or get injured.
 c) delay in departure.
 d) Tearing off the wrist mounted altimeter.
 Correct answer: b
-88/99Deutscher Fallschirmsportverband (DFV) e.V.
+88/99
+DFvDeutscher Fallschirmsportverband (DFV) e.V.
 Member of Deutscher Aero-Club (DAeC) e.V.
-DFv
 Questionbank with Answers for students and instructors
 Behaviour in special circumstances
 Question No 46
-Immediately before the jump, a parachutist notices that his three-ring system is not correctly attached. How do
+Immediately before the jump, a parachutist notices that his three-ring system is not correctly attached. How does he
 behave?
 (No picture)
 a) He remains seated and lands with the airplane.
@@ -5265,25 +5251,25 @@ d) He ask the other parachutists to assist him with correcting the mistake.
 Correct answer: a
 Behaviour in special circumstances
 Question No 47
-A parachutist with a video helmet notices 2 minutes before the jump that he has a problem with his camera. W
+A parachutist with a video helmet notices 2 minutes before the jump that he has a problem with his camera. What is the
 priority now?
 (No picture)
-a) First check the complete jump equipment as usual, then check the camera, if necessary, jump without the
+a) First check the complete jump equipment as usual, then check the camera, if necessary, jump without the video on.
 b) Try to get the camera up and running until the jump, demand a second run-in if necessary.
 c) Keep other video parachutists from preparing to jump and ask for help.
-d) Quickly change the battery, force a restart of the camera if necessary and jump without the equipment safe
+d) Quickly change the battery, force a restart of the camera if necessary and jump without the equipment safety check
 due to the obvious lack of time.
 Correct answer: a
 Behaviour in special circumstances
 Question No 48
-Immediately after take-off, the engine of the skydiving aircraft stops. When attempting an emergency landing,
+Immediately after take-off, the engine of the skydiving aircraft stops. When attempting an emergency landing, the
 aircraft overturns. There are no casualties. How do the skydivers behave?
 (No picture)
 a) leave the aeroplane only at the request of the pilot.
 b) leave the aeroplane only after helpers have arrived.
 c) leave the aeroplane immediately one after the other.
 d) leave the aeroplane only after consulting the flight controller.
-Correct answer: c
+Correct answer: e
 Behaviour in special circumstances
 Question No 49
 After take-off the engine of the jump aircraft fails at 250 m/AGL. How should the skydivers behave?
@@ -5295,7 +5281,7 @@ d) Remain seated in the aircraft with your seat belt fastened and assume the cra
 Correct answer: d
 Behaviour in special circumstances
 Question No 50
-A group of skydivers must perform an emergency jump between 300-800 m/AGL away from the dropzone. Ho
+A group of skydivers must perform an emergency jump between 300-800 m/AGL away from the dropzone. How do they
 behave?
 (No picture)
 a) Pull the reserve directly 1 sec after exit, look for a safe place to land.
@@ -5305,18 +5291,18 @@ d) Maintain the staggered flight pattern (stack), allow reserve to pass through 
 Correct answer: a
 Behaviour in special circumstances
 Question No 51
-Immediately after take-off, the engine of the skydiving aircraft stops. When attempting an emergency landing,
-aircraft overturns. There are parachutists in the aircraft with static lines and without. There are no casualties. H
+Immediately after take-off, the engine of the skydiving aircraft stops. When attempting an emergency landing, the
+aircraft overturns. There are parachutists in the aircraft with static lines and without. There are no casualties. How do the
 skydivers behave?
 (No picture)
 a) Once the parachutists without static lines have left the aeroplane, unhook and remove the static lines.
-b) When leaving the aircraft, make sure that the parachutists leave the aircraft alternately static line/non-static
+b) When leaving the aircraft, make sure that the parachutists leave the aircraft alternately static line/non-static line
 c) Immediately unhook or cut the static lines in order to leave the aeroplane as quickly as possible.
-d) Only leave the aeroplane after assistance has reached the aeroplane and the static lines have been unhoo
-Correct answer: c
-89/99Deutscher Fallschirmsportverband (DFV) e.V.
+d) Only leave the aeroplane after assistance has reached the aeroplane and the static lines have been unhooked.
+Correct answer: e
+89/99
+DFvDeutscher Fallschirmsportverband (DFV) e.V.
 Member of Deutscher Aero-Club (DAeC) e.V.
-DFV
 Questionbank with Answers for students and instructors
 Behaviour in special circumstances
 Question No 52
@@ -5348,10 +5334,10 @@ a) Ask the pilot to climb more slowly.
 b) Jump immediately and initiate the opening procedure.
 c) Alert the pilot to his condition and request him to land.
 d) Sit down and jump last.
-Correct answer: c
+Correct answer: e
 Behaviour in special circumstances
 Question No 55
-After pulling the main canopy, the parachutist notices that his canopy is not stable, and that the descent spee
+After pulling the main canopy, the parachutist notices that his canopy is not stable, and that the descent speed is still very
 high. What do you call this malfunction?
 (No picture)
 a) streaming/spinning malfunction.
@@ -5361,7 +5347,7 @@ d) half-opening.
 Correct answer: a
 Behaviour in special circumstances
 Question No 56
-After pulling the main canopy, one or more lines are over the canopy after deployment. What is this malfunctio
+After pulling the main canopy, one or more lines are over the canopy after deployment. What is this malfunction called?
 (No picture)
 a) chimney.
 b) line-over
@@ -5377,9 +5363,9 @@ b) The canopy opens after a longer delay.
 c) The canopy opens normally, but sideways from the parachutist.
 d) There is a rollover and a normal opening of the canopy.
 Correct answer: a
-90/99Deutscher Fallschirmsportverband (DFV) e.V.
+90/99
+DFVDeutscher Fallschirmsportverband (DFV) e.V.
 Member of Deutscher Aero-Club (DAeC) e.V.
-DFV
 Questionbank with Answers for students and instructors
 Behaviour in special circumstances
 Question No 58
@@ -5392,7 +5378,7 @@ d) Total malfunction.
 Correct answer: d
 Behaviour in special circumstances
 Question No 59
-After pulling the pilot chute, the parachutist does not notice any reaction of the canopy. What action should he
+After pulling the pilot chute, the parachutist does not notice any reaction of the canopy. What action should he take first?
 (No picture)
 a) Check altitude, shake body briefly, change freefall position, emergency procedure if necessary.
 b) Immediately pull the reserve.
@@ -5401,14 +5387,14 @@ d) Pull the reserve after 10 seconds.
 Correct answer: a
 Behaviour in special circumstances
 Question No 60
-After pulling the pilot chute, the lines are stretched, but the deployment bag is not released. That's why the ca
+After pulling the pilot chute, the lines are stretched, but the deployment bag is not released. That's why the canopy won't
 open. What do you call this malfunction?
 (No picture)
 a) Failure.
 b) Bread roll.
 c) Baglock.
 d) Canopy puncture.
-Correct answer: c
+Correct answer: e
 Behaviour in special circumstances
 Question No 61
 When is the emergency procedure initiated in the event of a total malfunction?
@@ -5425,34 +5411,34 @@ A parachutist wants to open his canopy and can't find his new toggle. What shoul
 a) Pull reserve immediately and prepare for particularly hard landing.
 b) Change position and initiate the opening by striking the outer packaging.
 c) Pull the reserve, then try to cut-away the main canopy and expect a hard landing.
-d) Search again for the toggle, check free fall position and altitude, initiate emergency procedure in case of fa
+d) Search again for the toggle, check free fall position and altitude, initiate emergency procedure in case of failure.
 Correct answer: d
 Behaviour in special circumstances
 Question No 63
-The canopy only partially opened. The parachutist sinks quickly and turns in one direction. What action is requ
+The canopy only partially opened. The parachutist sinks quickly and turns in one direction. What action is required?
 (No picture)
 a) Remove the malfunction by pulling the rear risers.
 b) Eliminate the malfunction by releasing a brake.
 c) Check altitude, possibly one or two pumps, if necessary emergency procedure.
 d) Wait until the canopy flies calmly.
-Correct answer: c
-91/99Deutscher Fallschirmsportverband (DFV) e.V.
+Correct answer: e
+91/99
+DFVDeutscher Fallschirmsportverband (DFV) e.V.
 Member of Deutscher Aero-Club (DAeC) e.V.
-DFv
 Questionbank with Answers for students and instructors
 Behaviour in special circumstances
 Question No 64
-The canopy only partially opened. The parachutist is in a fast spin, which makes him lose his orientation imme
+The canopy only partially opened. The parachutist is in a fast spin, which makes him lose his orientation immediately.
 How should he behave?
 (No picture)
-a) If pumpingonce or twice does not solve theproblem,check altitude,cut-away the main canopy and open the
+a) If pumpingonce or twice does not solve theproblem,check altitude,cut-away the main canopy and open the reserve.
 b) Close your eyes and quietly count to ten.
 c) Immediately counteract with the front risers.
 d) Immediately initiate the emergency procedure.
 Correct answer: d
 Behaviour in special circumstances
 Question No 65
-A parachutist opens the reserve canopy. How do the other parachutists behave in his immediate vicinity? The
+A parachutist opens the reserve canopy. How do the other parachutists behave in his immediate vicinity? They
 1) inform the manifest.
 2) keep distance and avoid any obstruction.
 3) observe the canopy and the freebag to get as much information as possible about the landing site.
@@ -5471,10 +5457,10 @@ a) Fly as usual.
 b) Turn the main riser and continue flying.
 c) Initiate emergency procedure.
 d) Return to the normal position by doing a rollover in the harness.
-Correct answer: c
+Correct answer: e
 Behaviour in special circumstances
 Question No 67
-While the canopy is being deployed, the bridle line of the pilot chute gets entangled with the body of the parac
+While the canopy is being deployed, the bridle line of the pilot chute gets entangled with the body of the parachutist.
 What action should be taken if the attempt to release the bridle was unsuccessful?
 (No picture)
 a) Start a turn, minimize the body position, pull the reserve.
@@ -5484,14 +5470,14 @@ d) Pull the main risers apart and wait until the entanglement is released.
 Correct answer: b
 Behaviour in special circumstances
 Question No 68
-After opening the canopy at a sufficient altitude, the lines are strongly twisted. The canopy flies straight ahead
+After opening the canopy at a sufficient altitude, the lines are strongly twisted. The canopy flies straight ahead. How to
 react?
 (No picture)
 a) Pull the steering lines and pump.
 b) Release the toggles from half-breaks and pull down on one side.
 c) Actively untwist while keeping an eye on the height, emergency procedure if necessary.
 d) Release the toggles from half-brakes and let go.
-Correct answer: c
+Correct answer: e
 Behaviour in special circumstances
 Question No 69
 The slider gets stuck directly underneath the canopy. How can this problem usually be solved?
@@ -5501,9 +5487,9 @@ b) Simultaneously pulling both steering lines or the rear risers several times (
 c) alternately pulling the right-hand steering line and the left-hand steering line.
 d) pulling on the front risers and release both steering lines simultaneously.
 Correct answer: b
-92/99Deutscher Fallschirmsportverband (DFV) e.V.
+92/99
+DFvDeutscher Fallschirmsportverband (DFV) e.V.
 Member of Deutscher Aero-Club (DAeC) e.V.
-DFV
 Questionbank with Answers for students and instructors
 Behaviour in special circumstances
 Question No 70
@@ -5513,21 +5499,21 @@ a) pulling the left steering line.
 b) displacement of the whole body.
 c) pulling both steering lines (pumps).
 d) control movements to the right.
-Correct answer: c
+Correct answer: e
 Behaviour in special circumstances
 Question No 71
-The left steering line breaks on the canopy. In which direction does the canopy turn and how does one react t
+The left steering line breaks on the canopy. In which direction does the canopy turn and how does one react to this
 problem?
 (No picture)
 a) Left. Check altitude, cut-away and pull reserve.
-b) Right. Release right steering line and steer with both rear risers, check flight behaviour and landability, if ne
+b) Right. Release right steering line and steer with both rear risers, check flight behaviour and landability, if necessary,
 initiate emergency procedure.
 c) Right. Pull down both rear risers evenly until landing.
 d) Left. Do not take action and prepare for harder landing.
 Correct answer: b
 Behaviour in special circumstances
 Question No 72
-By flying in the wake vortex of a RAM-air parachute flying ahead, the canopy collapses on the left side. What
+By flying in the wake vortex of a RAM-air parachute flying ahead, the canopy collapses on the left side. What actions
 should be taken?
 (No picture)
 a) Open the canopy by pulling the left steering line strongly.
@@ -5537,11 +5523,11 @@ d) Check altitude, cut-away and pull reserve.
 Correct answer: b
 Behaviour in special circumstances
 Question No 73
-After opening the canopy, the lines are strongly twisted, the canopy starts a fast turn immediately. What difficu
+After opening the canopy, the lines are strongly twisted, the canopy starts a fast turn immediately. What difficulties can
 this cause?
-1) The centrifugal force makes it impossible for the parachutist to untwist, he must immediately initiate the em
+1) The centrifugal force makes it impossible for the parachutist to untwist, he must immediately initiate the emergency
 procedure (possibly increased force is to be expected for pulling the handles).
-2) If the parachutist remains in the turn without reaction, he will soon lose his orientation and possibly even hi
+2) If the parachutist remains in the turn without reaction, he will soon lose his orientation and possibly even his altitude
 awareness.
 3) The altimeter will display an incorrect value.
 4) The lines will be torn by the strong friction.
@@ -5550,7 +5536,7 @@ a) Only answer 1 is correct.
 b) Answers 2 and 4 are correct.
 c) Answers 1 and 2 are correct.
 d) All answers are correct.
-Correct answer: c
+Correct answer: e
 Behaviour in special circumstances
 Question No 74
 Several lines break during the opening. Which of the following statements are correct?
@@ -5563,10 +5549,10 @@ a) Only answer 1 is correct.
 b) Answers 2 and 3 are correct.
 c) Answers 1 and 4 are correct.
 d) All answers are correct.
-Correct answer: c
-93/99Deutscher Fallschirmsportverband (DFV) e.V.
+Correct answer: e
+93/99
+DFVDeutscher Fallschirmsportverband (DFV) e.V.
 Member of Deutscher Aero-Club (DAeC) e.V.
-DFV
 Questionbank with Answers for students and instructors
 Behaviour in special circumstances
 Question No 75
@@ -5588,7 +5574,7 @@ d) the stall of the canopy.
 Correct answer: c
 Behaviour in special circumstances
 Question No 77
-A RAM-air canopy was stalled unintentionally by flight manoeuvres in deep brakes. How can this situation be
+A RAM-air canopy was stalled unintentionally by flight manoeuvres in deep brakes. How can this situation be solved at
 sufficient altitude?
 (No picture)
 a) Sudden release of the steering lines.
@@ -5607,13 +5593,13 @@ d) Steer away immediately with the rear main risers.
 Correct answer: d
 Behaviour in special circumstances
 Question No 79
-Why should even an experienced parachutist do a flare test after opening their canopy? Which statement is c
+Why should even an experienced parachutist do a flare test after opening their canopy? Which statement is correct?
 (No picture)
 a) The flare test may be dispensed if the opening is smooth.
 b) A flare test is required only after minor and serious malfunctions have been corrected.
 c) In order to check whether a canopy can be landed safely, the flare test must always be made.
 d) As an experienced parachutist, I can visually judge whether I can land the canopy safely.
-Correct answer: c
+Correct answer: e
 Behaviour in special circumstances
 Question No 80
 During the run-in to the exit spot it suddenly starts to rain heavily. How should the skydivers behave?
@@ -5622,14 +5608,14 @@ a) disregard the weather change and jump.
 b) initiate a new run-in and jump.
 c) abort the approach and land in the aeroplane.
 d) descend to 500 m/AGL in the aeroplane and perform an emergency jump.
-Correct answer: c
-94/99Deutscher Fallschirmsportverband (DFV) e.V.
+Correct answer: e
+94/99
+DFVDeutscher Fallschirmsportverband (DFV) e.V.
 Member of Deutscher Aero-Club (DAeC) e.V.
-DFv
 Questionbank with Answers for students and instructors
 Behaviour in special circumstances
 Question No 81
-A parachutist performs a jump in the mountains. What negative side effects must he expect at medium wind s
+A parachutist performs a jump in the mountains. What negative side effects must he expect at medium wind speeds?
 (No picture)
 a) Deviations of the altimeter.
 b) Deceleration of the updraft.
@@ -5638,14 +5624,14 @@ d) With considerable up and down drafts.
 Correct answer: d
 Behaviour in special circumstances
 Question No 82
-The wind has picked up. A parachutist does not reach the planned landing area and prepares for a landing be
+The wind has picked up. A parachutist does not reach the planned landing area and prepares for a landing between higher
 obstacles (buildings, halls). What wind conditions must he expect?
 (No picture)
 (a) no particular wind conditions.
 b) constant wind direction.
 c) turbulence and increase in wind speed.
 d) gustiness controllable by pendulum landing technique.
-Correct answer: c
+Correct answer: e
 Behaviour in special circumstances
 Question No 83
 Why does it make sense to check the wind situation again shortly before boarding the plane?
@@ -5654,10 +5640,10 @@ a) To give this information to the pilot at take-off.
 b) To be sure that I have to look into the windsock when landing.
 c) In order to be able to derive the landing direction from the landing site in the event of an off landing.
 d) To radio the wind situation to the manifest.
-Correct answer: c
+Correct answer: e
 Behaviour in special circumstances
 Question No 84
-A landing is planned behind an approximately 20 m high forest in flat terrain (meadow). At what distance from
+A landing is planned behind an approximately 20 m high forest in flat terrain (meadow). At what distance from the
 obstacle (forest) do the vortices dissolve?
 (No picture)
 a) 20 m (1 x obstacle height).
@@ -5667,14 +5653,14 @@ d) 500 m (25 x obstacle height).
 Correct answer: b
 Behaviour in special circumstances
 Question No 85
-On an otherwise level terrain there is an obstacle in the form of a barn. What kind of vortices on the leeward s
+On an otherwise level terrain there is an obstacle in the form of a barn. What kind of vortices on the leeward side can you
 expect?
 (No picture)
 a) More horizontal vortex formation (change of wind direction).
 b) No vortex formation (calm).
 c) More vertical vortex formation (up/downdrafts).
 d) Vertical vortex formation (updraft).
-Correct answer: c
+Correct answer: e
 Behaviour in special circumstances
 Question No 86
 A parachutist was slightly injured during landing. What should I do?
@@ -5684,9 +5670,9 @@ b) Stop the jump operation and notify the police.
 c) Leave the parachutist lying down, request a rescue helicopter.
 d) Continue the jump operation and prohibit the slightly injured from jumping.
 Correct answer: a
-95/99Deutscher Fallschirmsportverband (DFV) e.V.
+95/99
+DFvDeutscher Fallschirmsportverband (DFV) e.V.
 Member of Deutscher Aero-Club (DAeC) e.V.
-DFV
 Questionbank with Answers for students and instructors
 Behaviour in special circumstances
 Question No 87
@@ -5694,29 +5680,29 @@ A parachutist was seriously injured during landing. What immediate actions shoul
 (No picture)
 a) Stop jumping and immediately transport the seriously injured person to the hospital.
 b) Take photographs, securing the canopy and interviewing the injured person.
-c) Provide first aid, notify the flight controller and emergency services and, if necessary, interrupt the jump op
+c) Provide first aid, notify the flight controller and emergency services and, if necessary, interrupt the jump operation.
 d) Carry away the injured persons, allow jump operation again and notify the police.
-Correct answer: c
+Correct answer: e
 Behaviour in special circumstances
 Question No 88
 If you exit ahead of the landing area (approach against the wind), it is best to fly:
 (No picture)
 a) directly towards the landing area.
-b) sideways to the direction of the landing area and wait until the canopies of the parachutists who have left th
+b) sideways to the direction of the landing area and wait until the canopies of the parachutists who have left the aircraft
 afterwards are open.
 c) to the west (because that's where the wind usually comes from).
 d) away from the landing area and prepare for an off landing.
 Correct answer: b
 Behaviour in special circumstances
 Question No 89
-A parachutist performs a jerky turn on his open canopy with a steering line, followed by an immediate abrupt c
+A parachutist performs a jerky turn on his open canopy with a steering line, followed by an immediate abrupt counter
 turn. What can he expect?
 (No picture)
 a) With a stall of the canopy.
 b) Definitely not a pendulum deflection due to mass inertia.
 c) Induction of twists in the lines and jamming of the steering lines in the twist.
 d) This is not a problem.
-Correct answer: c
+Correct answer: e
 Behaviour in special circumstances
 Question No 90
 According to statistics, what causes the most fatal accidents in parachuting?
@@ -5729,10 +5715,10 @@ a) Answers 1 and 2 are correct.
 b) Answers 2 and 3 are correct.
 c) Answers 2 and 4 are correct.
 d) All answers are correct.
-Correct answer: c
+Correct answer: e
 Behaviour in special circumstances
 Question No 91
-A skydiver borrows a canopy system from another skydiver. What should he be informed about and instructed
+A skydiver borrows a canopy system from another skydiver. What should he be informed about and instructed in order to
 avoid problems?
 1) About the validity of the airworthiness certificates of all components.
 2) About the valid reserve pack (Senior/Master Rigger).
@@ -5744,9 +5730,9 @@ b) Answers 3 and 4 are correct.
 c) No answer is correct.
 d) All answers are correct.
 Correct answer: d
-96/99Deutscher Fallschirmsportverband (DFV) e.V.
+96/99
+DFVDeutscher Fallschirmsportverband (DFV) e.V.
 Member of Deutscher Aero-Club (DAeC) e.V.
-DFv
 Questionbank with Answers for students and instructors
 Behaviour in special circumstances
 Question No 92
@@ -5754,14 +5740,14 @@ Spirals are a popular manoeuvre on canopies but should be performed with caution
 1) The parachutist easily loses track of the airspace, this can lead to canopy collisions.
 2) The parachutist gets a little nauseous.
 3) The lines wear prematurely.
-4) The lower parachutists may not be able to see the parachutist approaching from above, which can lead to
+4) The lower parachutists may not be able to see the parachutist approaching from above, which can lead to canopy
 collisions.
 (No picture)
 a) Answer 3 is correct.
 b) Answers 1 and 2 are correct.
 c) Answers 1 and 4 are correct.
 d) All answers are correct.
-Correct answer: c
+Correct answer: e
 Behaviour in special circumstances
 Question No 93
 What are the typical circumstances of canopy collisions?
@@ -5774,54 +5760,54 @@ a) Answers 1, 2 and 4 are correct.
 b) Answers 2, 3 and 4 are correct.
 c) Answers 1, 2 and 3 are correct.
 d) All answers are correct.
-Correct answer: c
+Correct answer: e
 Behaviour in special circumstances
 Question No 94
-After the opening of your main canopy your reserve canopy opens behind it. Both canopies now stand one be
+After the opening of your main canopy your reserve canopy opens behind it. Both canopies now stand one behind the
 other and are fully open in a bi-plane situation. What do you do??
 (No picture)
-a) Do not release toggles off half-brakes, steer carefully with the rear risers of the main canopy, do not flare d
+a) Do not release toggles off half-brakes, steer carefully with the rear risers of the main canopy, do not flare during
 landing, perform parachute landing fall.
 b) Carefully release the brakes on the main canopy, check the reserve and then steer with both canopies.
-c) Release the brakes on the main and reserve canopies and fly with both canopies alternately steering to the
+c) Release the brakes on the main and reserve canopies and fly with both canopies alternately steering to the landing
 area.
-d) Wait how both canopy canopies behave, release the brakes on the reserve canopy, steer with the main ca
+d) Wait how both canopy canopies behave, release the brakes on the reserve canopy, steer with the main canopy.
 Correct answer: a
 Behaviour in special circumstances
 Question no. 95
-After a total malfunction you activate your RAM-air reserve without having cut-away the main canopy first. Su
-your main canopy opens and stands next to the open reserve canopy in a side-by-side situation without furthe
+After a total malfunction you activate your RAM-air reserve without having cut-away the main canopy first. Suddenly
+your main canopy opens and stands next to the open reserve canopy in a side-by-side situation without further
 entanglement. What do you do?
 (No picture)
-a) Check the canopies, disconnect the RSL if necessary, cut-away the main canopy and land with the reserve
+a) Check the canopies, disconnect the RSL if necessary, cut-away the main canopy and land with the reserve.
 b) Ignore the reserve canopy and control your descent with the main canopy.
 c) If possible, bring both canopies back together and land.
 d) Release the brakes of the reserve canopy and steer it to the landing site.
 Correct answer: a
 Behaviour in special circumstances
 Question No 96
-During the canopy opening the reserve was additionally activated and the two canopies are in a down plane s
+During the canopy opening the reserve was additionally activated and the two canopies are in a down plane situation.
 How must the parachutist behave?
 (No picture)
 a) Use the reserve steering toggles to bring the canopies back under control.
 b) Wait, because down plan situations dissolve quickly.
 c) Release the RSL, cut away the main canopy quickly.
 d) Use the steering toggles of the main canopy to bring the canopies back under control.
-Correct answer: c
-97/99Deutscher Fallschirmsportverband (DFV) e.V.
+Correct answer: e
+97/99
+DFvDeutscher Fallschirmsportverband (DFV) e.V.
 Member of Deutscher Aero-Club (DAeC) e.V.
-DFv
 Questionbank with Answers for students and instructors
 Behaviour in special circumstances
 Question No 97
-You had a canopy collision right after a normal opening at 800 meters. Your canopy got mixed up with anothe
+You had a canopy collision right after a normal opening at 800 meters. Your canopy got mixed up with another
 parachutist's canopy. What do you do?
 (No picture)
 a) Check altitude, cut-away and pull reserve.
-b) Check altitude, take measures only after agreement with the other parachutist (e.g. lower parachutist cuts a
+b) Check altitude, take measures only after agreement with the other parachutist (e.g. lower parachutist cuts away and
 pulls reserve, while the upper parachutist continues flying and assesses the situation).
 c) Try to achieve a bi-plane situation by active steering and land.
-d) Both parachutists pull the reserves at the same time without cutting away in order to achieve as much brak
+d) Both parachutists pull the reserves at the same time without cutting away in order to achieve as much braking effect as
 possible.
 Correct answer: b
 Behaviour in special circumstances
@@ -5831,7 +5817,7 @@ After the canopy opens, the parachutist hangs with his legs in the lines (Flamin
 a) The canopy flies anyway. The parachutist can land this and then release himself from the lines.
 b) Do not release the toggles off half-brakes and steer the canopy with your legs.
 c) Immediately cut-away and pull the reserve.
-d)Attempt to resolve. The canopy may be landable. If not, initiate altitude-adjusted emergency procedure.
+d) Attempt to resolve. The canopy may be landable. If not, initiate altitude-adjusted emergency procedure.
 Correct answer: d
 Behaviour in special circumstances
 Question No 99
@@ -5839,38 +5825,38 @@ What are the main risks of a night jump?
 (No picture)
 a) The visual flight rules can only be respected to a limited extent; the landing area cannot be inspected.
 b) Danger of collision in freefall and under canopy due to restricted visibility, misjudging during landing.
-c) The exit is missed, the jump is carried out too hesitantly, the landing area is missed due to a lack of lighting
-d) The jump in the air is carried out too hectically, the batteries of the night equipment discharge quickly in fre
+c) The exit is missed, the jump is carried out too hesitantly, the landing area is missed due to a lack of lighting.
+d) The jump in the air is carried out too hectically, the batteries of the night equipment discharge quickly in free fall.
 Correct answer: b
 Behaviour in special circumstances
 Question No 100
 What should be considered with demo jumps?
 (No picture)
-(a) Demo equipment should be attached to the harness in such a way that it can be shown in free fall; it shall
+(a) Demo equipment should be attached to the harness in such a way that it can be shown in free fall; it shall be released
 during the landing approach.
-(b) Demo equipment shall be activated prior to the jump and shall be placed so that it does not interfere with t
+(b) Demo equipment shall be activated prior to the jump and shall be placed so that it does not interfere with the jump or
 disturb other parachutists.
-c) Demo devices must be shown to the public immediately after the opening of the canopy and must be speci
+c) Demo devices must be shown to the public immediately after the opening of the canopy and must be specifically
 dropped during the landing approach.
-(d) The demo equipment shall not interfere with the functioning of the opening system. They must be secured
+(d) The demo equipment shall not interfere with the functioning of the opening system. They must be secured against
 falling off.
 Correct answer: d
 Behaviour in special circumstances
 Question No 101
 What should be considered with flag jumps?
 (No picture)
-a) They must be attached to the body in such a way that the spectators can see them. They may not be dropp
+a) They must be attached to the body in such a way that the spectators can see them. They may not be dropped until
 landing.
-b) Flags shall in principle be carried in a suitable container and shall be detached at least 50 m above the gro
+b) Flags shall in principle be carried in a suitable container and shall be detached at least 50 m above the ground on
 landing.
-c) They shall be secured against falling off and shall not interfere with the functioning of the opening system. Y
+c) They shall be secured against falling off and shall not interfere with the functioning of the opening system. You're
 reducing the forward speed.
-d) Flags are only to be shown in free fall and should be cut away immediately after the opening of the canopy
+d) Flags are only to be shown in free fall and should be cut away immediately after the opening of the canopy, because
 they can get entangled with the main canopy.
-Correct answer: c
-98/99Deutscher Fallschirmsportverband (DFV) e.V.
+Correct answer: e
+98/99
+DFvDeutscher Fallschirmsportverband (DFV) e.V.
 Member of Deutscher Aero-Club (DAeC) e.V.
-DFV
 Questionbank with Answers for students and instructors
 Behaviour in special circumstances
 Question No 102
@@ -5878,21 +5864,23 @@ You're being filmed by a videographer. What needs to be discussed before the jum
 (No picture)
 a) The jump order: The video man jumps last, flies under the formation and opens his canopy last.
 b) technical film measures: Backlight should be avoided (do not fly in the sun) Shutter speeds should be set.
-c) Checking the video setting on exit: The number of formations to be recorded in freefall and the freefall time
-d) The exit position, the separation height, the separation behaviour; the videoman must not be directly above
+c) Checking the video setting on exit: The number of formations to be recorded in freefall and the freefall time.
+d) The exit position, the separation height, the separation behaviour; the videoman must not be directly above a
 parachutist.
 Correct answer: d
 Behaviour in special circumstances
 Question No 103
 How can the danger of a canopy collision be reasonably minimized?
 (No picture)
-a) By good horizontal separation during formation jumping, waving off before opening, foresighted and attenti
+a) By good horizontal separation during formation jumping, waving off before opening, foresighted and attentive flight
 behaviour under canopy.
-b) Keep to the prescribed opening height at the dropzone, clean separation or tracking away. After opening th
+b) Keep to the prescribed opening height at the dropzone, clean separation or tracking away. After opening the canopy,
 take the shortest way to the landing area.
-c) By clean opening behaviour after clear agreement of the opening height and an immediate height reduction
+c) By clean opening behaviour after clear agreement of the opening height and an immediate height reduction after the
 canopy opening.
-d) By clean separation of the formations. Do not open the canopy too high and immediately after opening orie
+d) By clean separation of the formations. Do not open the canopy too high and immediately after opening orient it
 towards the landing area and head for it.
 Correct answer: a
+99/99
+DFV
 `
