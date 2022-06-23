@@ -2886,7 +2886,7 @@
     "original": "Freefall\nQuestion No 29\nWhat does \"exit order\" mean?\n(No picture)\na) The order in which the parachutists leave the plane.\nb) The logical sequence of jumps (individually and in groups) when dropping the parachutists, considering all\ncircumstances.\nc) Determining the loading order for boarding the aeroplane.\nd) All of the above.\nCorrect answer: d"
   },
   {
-    "category": "Free fall",
+    "category": "Freefall",
     "q_id": "30",
     "question": "What effect does wind at high altitude have on the freefaller?",
     "picture": "(No picture)",
@@ -2909,10 +2909,10 @@
       }
     ],
     "answer": "A",
-    "original": "Free fall\nQuestion No 30\nWhat effect does wind at high altitude have on the freefaller?\n(No picture)\na) A drift occurs, which moves the jumper over ground.\nb) Acceleration causes warming on re-entry.\nc) There is no effect due to the mass of the jumper.\nd) There may be complications with breathing during freefall.\nCorrect answer: a"
+    "original": "Freefall\nQuestion No 30\nWhat effect does wind at high altitude have on the freefaller?\n(No picture)\na) A drift occurs, which moves the jumper over ground.\nb) Acceleration causes warming on re-entry.\nc) There is no effect due to the mass of the jumper.\nd) There may be complications with breathing during freefall.\nCorrect answer: a"
   },
   {
-    "category": "Free fall",
+    "category": "Freefall",
     "q_id": "31",
     "question": "How do I determine the spot for exiting the aircraft?\n1) Calculate the free fall drift and the canopy drift. The values are then added together to obtain the total drift distance\nand thus the distance from the planned landing point to the exit point.\n2) The ground and altitude winds are used to determine the direction in which the exit point is located relative to the\nplanned landing point.\n3) The exit point for jumps with little or no free fall can be determined with a wind drift indicator (WDI).\n4) Since a canopy flies forward, I don't need to take drift into account when determining the exit point, as I can fly from\nany position to where I want to go.",
     "picture": "(No picture)",
@@ -2935,7 +2935,7 @@
       }
     ],
     "answer": "A",
-    "original": "Free fall\nQuestion No 31\nHow do I determine the spot for exiting the aircraft?\n1) Calculate the free fall drift and the canopy drift. The values are then added together to obtain the total drift distance\nand thus the distance from the planned landing point to the exit point.\n2) The ground and altitude winds are used to determine the direction in which the exit point is located relative to the\nplanned landing point.\n3) The exit point for jumps with little or no free fall can be determined with a wind drift indicator (WDI).\n4) Since a canopy flies forward, I don't need to take drift into account when determining the exit point, as I can fly from\nany position to where I want to go.\n(No picture)\na) Answers 1, 2 and 3 are correct.\nb) Only answers 3 and 4 are correct.\nc) Only answers 2, 3 and 4 are correct.\nd) Only answer 4 is correct.\nCorrect answer: a"
+    "original": "Freefall\nQuestion No 31\nHow do I determine the spot for exiting the aircraft?\n1) Calculate the free fall drift and the canopy drift. The values are then added together to obtain the total drift distance\nand thus the distance from the planned landing point to the exit point.\n2) The ground and altitude winds are used to determine the direction in which the exit point is located relative to the\nplanned landing point.\n3) The exit point for jumps with little or no free fall can be determined with a wind drift indicator (WDI).\n4) Since a canopy flies forward, I don't need to take drift into account when determining the exit point, as I can fly from\nany position to where I want to go.\n(No picture)\na) Answers 1, 2 and 3 are correct.\nb) Only answers 3 and 4 are correct.\nc) Only answers 2, 3 and 4 are correct.\nd) Only answer 4 is correct.\nCorrect answer: a"
   },
   {
     "category": "Freefall",
@@ -3328,7 +3328,7 @@
     "original": "Freefall\nQuestion No 46\nWhen jumping from 2,000m/AGL, how many seconds can you safely leave before your deployment height of\n1,000m/AGL?\n(No picture)\na) 20 seconds.\nb) 24 seconds.\nc) 28 seconds.\nd) 32 seconds.\nCorrect answer: b"
   },
   {
-    "category": "Free fall",
+    "category": "Freefall",
     "q_id": "47",
     "question": "After what freefall time is the terminal velocity reached (in sport parachuting altitudes)?",
     "picture": "(No picture)",
@@ -3351,7 +3351,7 @@
       }
     ],
     "answer": "A",
-    "original": "Free fall\nQuestion No 47\nAfter what freefall time is the terminal velocity reached (in sport parachuting altitudes)?\n(No picture)\na) 10 seconds.\nb) 60 seconds.\nc) 20 seconds.\nd) 5 seconds.\nCorrect answer: a"
+    "original": "Freefall\nQuestion No 47\nAfter what freefall time is the terminal velocity reached (in sport parachuting altitudes)?\n(No picture)\na) 10 seconds.\nb) 60 seconds.\nc) 20 seconds.\nd) 5 seconds.\nCorrect answer: a"
   },
   {
     "category": "Freefall",
@@ -4583,7 +4583,7 @@
     "choices": [
       {
         "choice": "A",
-        "value": "Free fall collision."
+        "value": "Freefall collision."
       },
       {
         "choice": "B",
@@ -4599,7 +4599,7 @@
       }
     ],
     "answer": "A",
-    "original": "Freefall\nQuestion no. 95\nWhat is the greatest danger in free fall?\n(No picture)\na) Free fall collision.\nb) Defective CYPRES.\nc) Hard opening.\nd) Lost altimeter.\nCorrect answer: a"
+    "original": "Freefall\nQuestion no. 95\nWhat is the greatest danger in free fall?\n(No picture)\na) Freefall collision.\nb) Defective CYPRES.\nc) Hard opening.\nd) Lost altimeter.\nCorrect answer: a"
   },
   {
     "category": "Freefall",
